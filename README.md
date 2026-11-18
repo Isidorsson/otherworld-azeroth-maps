@@ -8,19 +8,24 @@ on your own Hytale server.
 
 ## What to download
 
-Get the files from this repo's **Releases** page.
+Get the files from this repo's **Releases** page. Take the ones you want; each works on its own.
 
-| File | When |
+| File | What's in it |
 |---|---|
-| `Core-install-first.zip` | always (plugin, light blocks, place list) |
-| `Continent-<name>.zip` | the continents you want; take every part of a split one |
-| `Instance-<Classic, TBC or WotLK>-<name>.zip` | any dungeons and raids you want, one folder each |
+| `Azeroth-Eastern-Kingdoms.zip` | Eastern Kingdoms |
+| `Azeroth-Kalimdor.zip` | Kalimdor |
+| `Azeroth-Outland.zip` | Outland, Eversong Woods and Azuremyst Isle |
+| `Azeroth-Northrend.zip` | Northrend |
+| `Azeroth-Instances-Classic.zip` | all Classic dungeons and raids |
+| `Azeroth-Instances-TBC.zip` | all Burning Crusade dungeons and raids |
+| `Azeroth-Instances-WotLK.zip` | all Wrath of the Lich King dungeons and raids |
 
 ## Install (Hytale server 0.7.7 or newer)
 
 1. Stop the server.
-2. In the server folder (the one that has `mods/`), unzip Core first, then the rest:
-   `unzip -o Core-install-first.zip`, then `unzip -o Continent-Eastern-Kingdoms.zip` and so on.
+2. In the server folder (the one that has `mods/`), unzip each file you downloaded, in any order:
+   `unzip -o Azeroth-Eastern-Kingdoms.zip` and so on. Say yes to overwriting: every zip carries the same small
+   plugin files.
 3. Start the server. In game, try `/azeroth goldshire`, `/azeroth karazhan` or `/azeroth list <word>`.
    Every command is in [TELEPORTS.md](TELEPORTS.md).
 

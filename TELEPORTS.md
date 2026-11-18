@@ -2328,16 +2328,3 @@ These have no command: walk through them.
 | Zol'Heb (Zul'Drak) | `/azeroth zolheb` |
 | Zol'Maz Stronghold (Zul'Drak) | `/azeroth zolmazstronghold` |
 
-## Server warps
-
-Set with `/warp set` on our server; another server won't have these.
-
-| Warp | World | Command |
-|---|---|---|
-| BeeCave | default | `/warp BeeCave` |
-| Clotic | default | `/warp Clotic` |
-| EAST | default | `/warp EAST` |
-| Feyun | default | `/warp Feyun` |
-| ICE | default | `/warp ICE` |
-| Lego | default | `/warp Lego` |
-

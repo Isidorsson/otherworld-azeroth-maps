@@ -2509,6 +2509,2806 @@ These have no command: walk through them.
 | Zol'Heb (Zul'Drak) | `/azeroth zolheb` |
 | Zol'Maz Stronghold (Zul'Drak) | `/azeroth zolmazstronghold` |
 
+### Eastern Kingdoms (Retail)
+
+#### Abyssal Depths
+
+| Place | Command |
+|---|---|
+| Abandoned Reef (Abyssal Depths) | `/azeroth abandonedreef` |
+| Abyssal Breach (Abyssal Depths) | `/azeroth abyssalbreach` |
+| Deepfin Ridge (Abyssal Depths) | `/azeroth deepfinridge` |
+| Korthun's End (Abyssal Depths) | `/azeroth korthunsend` |
+| L'ghorek (Abyssal Depths) | `/azeroth lghorek` |
+| Nightmare Depths (Abyssal Depths) | `/azeroth nightmaredepths` |
+| Promontory Point (Abyssal Depths) | `/azeroth promontorypoint` |
+| Seabrush (Abyssal Depths) | `/azeroth seabrush` |
+| Sira'kess Front (Abyssal Depths) | `/azeroth sirakessfront` |
+| Tenebrous Cavern (Abyssal Depths) | `/azeroth tenebrouscavern` |
+| The Lightless Reaches (Abyssal Depths) | `/azeroth thelightlessreaches5710` |
+| The Scalding Chasm (Abyssal Depths) | `/azeroth thescaldingchasm` |
+| Underlight Canyon (Abyssal Depths) | `/azeroth underlightcanyon` |
+
+#### Arathi Highlands
+
+| Place | Command |
+|---|---|
+| Arathi Highlands | `/azeroth arathihighlandsretail` |
+| Boulder'gor (Arathi Highlands) | `/azeroth bouldergorretail` |
+| Boulderfist Hall (Arathi Highlands) | `/azeroth boulderfisthallretail` |
+| Circle of East Binding (Arathi Highlands) | `/azeroth circleofeastbindingretail` |
+| Circle of Inner Binding (Arathi Highlands) | `/azeroth circleofinnerbindingretail` |
+| Circle of Outer Binding (Arathi Highlands) | `/azeroth circleofouterbindingretail` |
+| Circle of West Binding (Arathi Highlands) | `/azeroth circleofwestbindingretail` |
+| Dabyrie's Farmstead (Arathi Highlands) | `/azeroth dabyriesfarmsteadretail` |
+| Drywhisker Gorge (Arathi Highlands) | `/azeroth drywhiskergorgeretail` |
+| Faldir's Cove (Arathi Highlands) | `/azeroth faldirscoveretail` |
+| Galen's Fall (Arathi Highlands) | `/azeroth galensfall` |
+| Go'Shek Farm (Arathi Highlands) | `/azeroth goshekfarmretail` |
+| Hammerfall (Arathi Highlands) | `/azeroth hammerfallretail` |
+| Northfold Manor (Arathi Highlands) | `/azeroth northfoldmanorretail` |
+| Refuge Pointe (Arathi Highlands) | `/azeroth refugepointeretail` |
+| Stromgarde Keep (Arathi Highlands) | `/azeroth stromgardekeepretail` |
+| Thandol Span (Arathi Highlands) | `/azeroth thandolspan880retail` |
+| The Drowned Reef (Arathi Highlands) | `/azeroth thedrownedreefretail` |
+| The Forbidding Sea (Arathi Highlands) | `/azeroth theforbiddingsea2401retail` |
+| Thoradin's Wall (Arathi Highlands) | `/azeroth thoradinswallretail` |
+| Witherbark Village (Arathi Highlands) | `/azeroth witherbarkvillageretail` |
+
+#### Atal'Aman
+
+| Place | Command |
+|---|---|
+| Altar of Malacrass (Atal'Aman) | `/azeroth altarofmalacrass` |
+| Firewing Terrace (Atal'Aman) | `/azeroth firewingterrace` |
+| Ragemaw Terrace (Atal'Aman) | `/azeroth ragemawterrace` |
+| Swiftclaw Terrace (Atal'Aman) | `/azeroth swiftclawterrace` |
+| Talonstrike Terrace (Atal'Aman) | `/azeroth talonstriketerrace` |
+| Warlord's Stair (Atal'Aman) | `/azeroth warlordsstair` |
+
+#### Badlands
+
+| Place | Command |
+|---|---|
+| Badlands | `/azeroth badlandsretail` |
+| Agmond's End (Badlands) | `/azeroth agmondsendretail` |
+| Angor Fortress (Badlands) | `/azeroth angorfortressretail` |
+| Bloodwatcher Point (Badlands) | `/azeroth bloodwatcherpoint` |
+| Camp Cagg (Badlands) | `/azeroth campcaggretail` |
+| Camp Kosh (Badlands) | `/azeroth campkoshretail` |
+| Dragon's Mouth (Badlands) | `/azeroth dragonsmouth` |
+| Dustbelch Grotto (Badlands) | `/azeroth dustbelchgrottoretail` |
+| Dustwind Dig (Badlands) | `/azeroth dustwinddig` |
+| Dustwind Gulch (Badlands) | `/azeroth dustwindgulchretail` |
+| Fuselight (Badlands) | `/azeroth fuselight` |
+| Fuselight-by-the-Sea (Badlands) | `/azeroth fuselightbythesea` |
+| Hammertoe's Digsite (Badlands) | `/azeroth hammertoesdigsiteretail` |
+| Lethlor Ravine (Badlands) | `/azeroth lethlorravineretail` |
+| Mirage Flats (Badlands) | `/azeroth mirageflatsretail` |
+| New Kargath (Badlands) | `/azeroth newkargath` |
+| Rhea's Camp (Badlands) | `/azeroth rheascamp` |
+| Ruins of Kargath (Badlands) | `/azeroth ruinsofkargath` |
+| Scar of the Worldbreaker (Badlands) | `/azeroth scaroftheworldbreaker` |
+| The Dustbowl (Badlands) | `/azeroth thedustbowlretail` |
+| The Hidden Clutch (Badlands) | `/azeroth thehiddenclutch` |
+| The Maker's Terrace (Badlands) | `/azeroth themakersterraceretail` |
+| Tomb of the Watchers (Badlands) | `/azeroth tombofthewatchers` |
+
+#### Blasted Lands
+
+| Place | Command |
+|---|---|
+| Blasted Lands | `/azeroth blastedlandsretail` |
+| Altar of Storms (Blasted Lands) | `/azeroth altarofstorms1441retail` |
+| Bloodwash Cavern (Blasted Lands) | `/azeroth bloodwashcavern` |
+| Bloodwash Fighting Pits (Blasted Lands) | `/azeroth bloodwashfightingpits` |
+| Bloodwash Shrine (Blasted Lands) | `/azeroth bloodwashshrine` |
+| Dreadmaul Furnace (Blasted Lands) | `/azeroth dreadmaulfurnace` |
+| Dreadmaul Hold (Blasted Lands) | `/azeroth dreadmaulholdretail` |
+| Dreadmaul Post (Blasted Lands) | `/azeroth dreadmaulpostretail` |
+| Maldraz (Blasted Lands) | `/azeroth maldraz` |
+| Nethergarde Keep (Blasted Lands) | `/azeroth nethergardekeepretail` |
+| Nethergarde Mines (Blasted Lands) | `/azeroth nethergardemines` |
+| Nethergarde Supply Camps (Blasted Lands) | `/azeroth nethergardesupplycamps` |
+| Rise of the Defiler (Blasted Lands) | `/azeroth riseofthedefilerretail` |
+| Rockpool Village (Blasted Lands) | `/azeroth rockpoolvillage` |
+| Serpent's Coil (Blasted Lands) | `/azeroth serpentscoilretail` |
+| Shattershore (Blasted Lands) | `/azeroth shattershore` |
+| Sunveil Excursion (Blasted Lands) | `/azeroth sunveilexcursion` |
+| Surwich (Blasted Lands) | `/azeroth surwich` |
+| The Dark Portal (Blasted Lands) | `/azeroth thedarkportalretail` |
+| The Forbidding Sea (Blasted Lands) | `/azeroth theforbiddingsea5096` |
+| The Red Reaches (Blasted Lands) | `/azeroth theredreaches` |
+| The Tainted Forest (Blasted Lands) | `/azeroth thetaintedforest` |
+| The Tainted Scar (Blasted Lands) | `/azeroth thetaintedscarretail` |
+
+#### Burning Steppes
+
+| Place | Command |
+|---|---|
+| Burning Steppes | `/azeroth burningsteppesretail` |
+| Altar of Storms (Burning Steppes) | `/azeroth altarofstormsretail` |
+| Black Tooth Hovel (Burning Steppes) | `/azeroth blacktoothhovel` |
+| Blackrock Mountain (Burning Steppes) | `/azeroth blackrockmountainretail` |
+| Blackrock Pass (Burning Steppes) | `/azeroth blackrockpassretail` |
+| Blackrock Stronghold (Burning Steppes) | `/azeroth blackrockstrongholdretail` |
+| Chiselgrip (Burning Steppes) | `/azeroth chiselgrip` |
+| Dreadmaul Rock (Burning Steppes) | `/azeroth dreadmaulrockretail` |
+| Fields of Honor (Burning Steppes) | `/azeroth fieldsofhonor` |
+| Flame Crest (Burning Steppes) | `/azeroth flamecrestretail` |
+| Flamestar Post (Burning Steppes) | `/azeroth flamestarpost` |
+| Morgan's Vigil (Burning Steppes) | `/azeroth morgansvigilretail` |
+| Ruins of Thaurissan (Burning Steppes) | `/azeroth ruinsofthaurissanretail` |
+| Slither Rock (Burning Steppes) | `/azeroth slitherrockretail` |
+| Terror Wing Path (Burning Steppes) | `/azeroth terrorwingpathretail` |
+| The Whelping Downs (Burning Steppes) | `/azeroth thewhelpingdowns` |
+| Valley of Ashes (Burning Steppes) | `/azeroth valleyofashes` |
+
+#### Coldridge Valley
+
+| Place | Command |
+|---|---|
+| Coldridge Valley (Coldridge Valley) | `/azeroth coldridgevalleyretail` |
+| Whitebeard's Encampment (Coldridge Valley) | `/azeroth whitebeardsencampment` |
+
+#### Deadwind Pass
+
+| Place | Command |
+|---|---|
+| Deadwind Pass | `/azeroth deadwindpassretail` |
+| Abandoned Kirin Tor Camp (Deadwind Pass) | `/azeroth abandonedkirintorcamp` |
+| Ariden's Camp (Deadwind Pass) | `/azeroth aridenscampretail` |
+| Deadman's Crossing (Deadwind Pass) | `/azeroth deadmanscrossingretail` |
+| Deadwind Ravine (Deadwind Pass) | `/azeroth deadwindravineretail` |
+| Karazhan (Deadwind Pass) | `/azeroth karazhanretail` |
+| Morgan's Plot (Deadwind Pass) | `/azeroth morgansplotretail` |
+| Sleeping Gorge (Deadwind Pass) | `/azeroth sleepinggorgeretail` |
+| The Vice (Deadwind Pass) | `/azeroth theviceretail` |
+
+#### Deathknell
+
+| Place | Command |
+|---|---|
+| Deathknell (Deathknell) | `/azeroth deathknellretail` |
+| Night Web's Hollow (Deathknell) | `/azeroth nightwebshollowretail` |
+| Rotbrain Encampment (Deathknell) | `/azeroth rotbrainencampment` |
+| The Deathknell Graves (Deathknell) | `/azeroth thedeathknellgraves` |
+
+#### Dun Morogh
+
+| Place | Command |
+|---|---|
+| Dun Morogh | `/azeroth dunmoroghretail` |
+| Amberstill Ranch (Dun Morogh) | `/azeroth amberstillranchretail` |
+| Coldridge Pass (Dun Morogh) | `/azeroth coldridgepassretail` |
+| Frostmane Front (Dun Morogh) | `/azeroth frostmanefront` |
+| Frostmane Retreat (Dun Morogh) | `/azeroth frostmaneretreat` |
+| Gates of Ironforge (Dun Morogh) | `/azeroth gatesofironforgeretail` |
+| Gol'Bolar Quarry (Dun Morogh) | `/azeroth golbolarquarryretail` |
+| Helm's Bed Lake (Dun Morogh) | `/azeroth helmsbedlakeretail` |
+| Ironband's Compound (Dun Morogh) | `/azeroth ironbandscompoundretail` |
+| Ironforge Airfield (Dun Morogh) | `/azeroth ironforgeairfield` |
+| Kharanos (Dun Morogh) | `/azeroth kharanosretail` |
+| Misty Pine Refuge (Dun Morogh) | `/azeroth mistypinerefugeretail` |
+| North Gate Outpost (Dun Morogh) | `/azeroth northgateoutpostretail` |
+| North Gate Pass (Dun Morogh) | `/azeroth northgatepassretail` |
+| Shimmer Ridge (Dun Morogh) | `/azeroth shimmerridgeretail` |
+| Steelgrill's Depot (Dun Morogh) | `/azeroth steelgrillsdepotretail` |
+| The Grizzled Den (Dun Morogh) | `/azeroth thegrizzleddenretail` |
+| The Tundrid Hills (Dun Morogh) | `/azeroth thetundridhillsretail` |
+
+#### Duskwood
+
+| Place | Command |
+|---|---|
+| Duskwood | `/azeroth duskwoodretail` |
+| Addle's Stead (Duskwood) | `/azeroth addlessteadretail` |
+| Beggar's Haunt (Duskwood) | `/azeroth beggarshauntretail` |
+| Brightwood Grove (Duskwood) | `/azeroth brightwoodgroveretail` |
+| Darkshire (Duskwood) | `/azeroth darkshireretail` |
+| Forlorn Rowe (Duskwood) | `/azeroth forlornroweretail` |
+| Manor Mistmantle (Duskwood) | `/azeroth manormistmantleretail` |
+| Raven Hill (Duskwood) | `/azeroth ravenhillretail` |
+| Raven Hill Cemetery (Duskwood) | `/azeroth ravenhillcemeteryretail` |
+| Roland's Doom (Duskwood) | `/azeroth rolandsdoom` |
+| The Darkened Bank (Duskwood) | `/azeroth thedarkenedbankretail` |
+| The Hushed Bank (Duskwood) | `/azeroth thehushedbankretail` |
+| The Rotting Orchard (Duskwood) | `/azeroth therottingorchardretail` |
+| The Yorgen Farmstead (Duskwood) | `/azeroth theyorgenfarmsteadretail` |
+| Tranquil Gardens Cemetery (Duskwood) | `/azeroth tranquilgardenscemeteryretail` |
+| Twilight Grove (Duskwood) | `/azeroth twilightgroveretail` |
+| Vul'Gol Ogre Mound (Duskwood) | `/azeroth vulgologremoundretail` |
+
+#### Eastern Plaguelands
+
+| Place | Command |
+|---|---|
+| Eastern Plaguelands | `/azeroth easternplaguelandsretail` |
+| Blackwood Lake (Eastern Plaguelands) | `/azeroth blackwoodlakeretail` |
+| Browman Mill (Eastern Plaguelands) | `/azeroth browmanmillretail` |
+| Corin's Crossing (Eastern Plaguelands) | `/azeroth corinscrossingretail` |
+| Crown Guard Tower (Eastern Plaguelands) | `/azeroth crownguardtowerretail` |
+| Darrowshire (Eastern Plaguelands) | `/azeroth darrowshireretail` |
+| Darrowshire Hunting Grounds (Eastern Plaguelands) | `/azeroth darrowshirehuntinggrounds` |
+| Death Cultist Base Camp (Eastern Plaguelands) | `/azeroth deathcultistbasecamp` |
+| Death's Breach (Eastern Plaguelands) | `/azeroth deathsbreach` |
+| Death's Step (Eastern Plaguelands) | `/azeroth deathsstep` |
+| Eastern Plaguelands (Eastern Plaguelands) | `/azeroth easternplaguelands8354` |
+| Eastwall Gate (Eastern Plaguelands) | `/azeroth eastwallgateretail` |
+| Eastwall Tower (Eastern Plaguelands) | `/azeroth eastwalltowerretail` |
+| Ix'lar's Domain (Eastern Plaguelands) | `/azeroth ixlarsdomain` |
+| Lake Mereldar (Eastern Plaguelands) | `/azeroth lakemereldarretail` |
+| Light's Hope Chapel (Eastern Plaguelands) | `/azeroth lightshopechapelretail` |
+| Light's Shield Tower (Eastern Plaguelands) | `/azeroth lightsshieldtower` |
+| Northdale (Eastern Plaguelands) | `/azeroth northdaleretail` |
+| Northpass Tower (Eastern Plaguelands) | `/azeroth northpasstowerretail` |
+| Pestilent Scar (Eastern Plaguelands) | `/azeroth pestilentscarretail` |
+| Plaguewood (Eastern Plaguelands) | `/azeroth plaguewoodretail` |
+| Plaguewood Tower (Eastern Plaguelands) | `/azeroth plaguewoodtower` |
+| Quel'Lithien Lodge (Eastern Plaguelands) | `/azeroth quellithienlodgeretail` |
+| Ruins of the Scarlet Enclave (Eastern Plaguelands) | `/azeroth ruinsofthescarletenclave` |
+| Siege Vise (Eastern Plaguelands) | `/azeroth siegevise` |
+| Stratholme (Eastern Plaguelands) | `/azeroth stratholmeretail` |
+| Terrordale (Eastern Plaguelands) | `/azeroth terrordaleretail` |
+| Thalassian Pass (Eastern Plaguelands) | `/azeroth thalassianpass16646` |
+| The Fungal Vale (Eastern Plaguelands) | `/azeroth thefungalvaleretail` |
+| The Infectis Scar (Eastern Plaguelands) | `/azeroth theinfectisscarretail` |
+| The Marris Stead (Eastern Plaguelands) | `/azeroth themarrissteadretail` |
+| The Noxious Glade (Eastern Plaguelands) | `/azeroth thenoxiousgladeretail` |
+| The Undercroft (Eastern Plaguelands) | `/azeroth theundercroftretail` |
+| Thondroril River (Eastern Plaguelands) | `/azeroth thondrorilriverretail` |
+| Tyr's Hand (Eastern Plaguelands) | `/azeroth tyrshandretail` |
+| Zul'Mashar (Eastern Plaguelands) | `/azeroth zulmasharretail` |
+
+#### Elwynn Forest
+
+| Place | Command |
+|---|---|
+| Elwynn Forest | `/azeroth elwynnforestretail` |
+| Brackwell Pumpkin Patch (Elwynn Forest) | `/azeroth brackwellpumpkinpatchretail` |
+| Crystal Lake (Elwynn Forest) | `/azeroth crystallakeretail` |
+| Eastvale Logging Camp (Elwynn Forest) | `/azeroth eastvaleloggingcampretail` |
+| Fargodeep Mine (Elwynn Forest) | `/azeroth fargodeepmineretail` |
+| Forest's Edge (Elwynn Forest) | `/azeroth forestsedgeretail` |
+| Goldshire (Elwynn Forest) | `/azeroth goldshireretail` |
+| Goldtooth's Den (Elwynn Forest) | `/azeroth goldtoothsden` |
+| Heroes' Vigil (Elwynn Forest) | `/azeroth heroesvigilretail` |
+| Hogger Hill (Elwynn Forest) | `/azeroth hoggerhill` |
+| Jasperlode Mine (Elwynn Forest) | `/azeroth jasperlodemineretail` |
+| Jerod's Landing (Elwynn Forest) | `/azeroth jerodslandingretail` |
+| Mirror Lake (Elwynn Forest) | `/azeroth mirrorlakeretail` |
+| Mirror Lake Orchard (Elwynn Forest) | `/azeroth mirrorlakeorchardretail` |
+| Ridgepoint Tower (Elwynn Forest) | `/azeroth ridgepointtowerretail` |
+| Stone Cairn Lake (Elwynn Forest) | `/azeroth stonecairnlakeretail` |
+| Stormwind Gate (Elwynn Forest) | `/azeroth stormwindgate` |
+| The Maclure Vineyards (Elwynn Forest) | `/azeroth themaclurevineyardsretail` |
+| The Stonefield Farm (Elwynn Forest) | `/azeroth thestonefieldfarmretail` |
+| Thunder Falls (Elwynn Forest) | `/azeroth thunderfallsretail` |
+| Tower of Azora (Elwynn Forest) | `/azeroth towerofazoraretail` |
+| Westbrook Garrison (Elwynn Forest) | `/azeroth westbrookgarrisonretail` |
+
+#### Eversong Woods
+
+| Place | Command |
+|---|---|
+| Eversong Woods | `/azeroth eversongwoodsretail` |
+| Amani Pass (Eversong Woods) | `/azeroth amanipassretail` |
+| Azurebreeze Coast (Eversong Woods) | `/azeroth azurebreezecoastretail` |
+| Brightwing Estate (Eversong Woods) | `/azeroth brightwingestate` |
+| Daggerspine Landing (Eversong Woods) | `/azeroth daggerspinelanding` |
+| Daggerspine Point (Eversong Woods) | `/azeroth daggerspinepoint` |
+| Dawnstar Spire (Eversong Woods) | `/azeroth dawnstarspireretail` |
+| East Sanctum (Eversong Woods) | `/azeroth eastsanctumretail` |
+| Elrendar River (Eversong Woods) | `/azeroth elrendarriverretail` |
+| Fairbreeze Village (Eversong Woods) | `/azeroth fairbreezevillageretail` |
+| Farstrider Enclave (Eversong Woods) | `/azeroth farstriderenclaveretail` |
+| Farstrider Hold (Eversong Woods) | `/azeroth farstriderhold` |
+| Goldenbough Pass (Eversong Woods) | `/azeroth goldenboughpassretail` |
+| Goldenmist Village (Eversong Woods) | `/azeroth goldenmistvillageretail` |
+| Hollow Grove (Eversong Woods) | `/azeroth hollowgrove` |
+| Lake Elrendar (Eversong Woods) | `/azeroth lakeelrendarretail` |
+| Lightbloom Ath'Ran (Eversong Woods) | `/azeroth lightbloomathran` |
+| Lightbloom Lash'Ra (Eversong Woods) | `/azeroth lightbloomlashra` |
+| North Sanctum (Eversong Woods) | `/azeroth northsanctumretail` |
+| Path of Dawn (Eversong Woods) | `/azeroth pathofdawn` |
+| Ruins of Deatholme (Eversong Woods) | `/azeroth ruinsofdeatholme` |
+| Runestone Falithas (Eversong Woods) | `/azeroth runestonefalithasretail` |
+| Runestone Shan'dor (Eversong Woods) | `/azeroth runestoneshandorretail` |
+| Saltheril's Haven (Eversong Woods) | `/azeroth saltherilshavenretail` |
+| Sanctum of the Moon (Eversong Woods) | `/azeroth sanctumofthemoonretail` |
+| Sanctum of the Sun (Eversong Woods) | `/azeroth sanctumofthesunretail` |
+| Scintilas Falls (Eversong Woods) | `/azeroth scintilasfalls` |
+| Scintilas Outpost (Eversong Woods) | `/azeroth scintilasoutpost` |
+| Silverglade Refuge (Eversong Woods) | `/azeroth silvergladerefuge` |
+| Solaarian Sunbath (Eversong Woods) | `/azeroth solaariansunbath` |
+| Stillwhisper Pond (Eversong Woods) | `/azeroth stillwhisperpondretail` |
+| Suncrown Tree (Eversong Woods) | `/azeroth suncrowntree` |
+| Suncrown Village (Eversong Woods) | `/azeroth suncrownvillageretail` |
+| Sunfeather Point (Eversong Woods) | `/azeroth sunfeatherpoint` |
+| Sunsail Anchorage (Eversong Woods) | `/azeroth sunsailanchorageretail` |
+| Sunset Strand (Eversong Woods) | `/azeroth sunsetstrand` |
+| Sunstrider Isle (Eversong Woods) | `/azeroth sunstriderisleretail` |
+| Thalassian Pass (Eversong Woods) | `/azeroth thalassianpassretail` |
+| Thalassian Range (Eversong Woods) | `/azeroth thalassianrange` |
+| Thuron's Livery (Eversong Woods) | `/azeroth thuronsliveryretail` |
+| Tor'Watha (Eversong Woods) | `/azeroth torwatharetail` |
+| Tranquil Repose (Eversong Woods) | `/azeroth tranquilrepose` |
+| Tranquillien (Eversong Woods) | `/azeroth tranquillienretail` |
+| West Sanctum (Eversong Woods) | `/azeroth westsanctumretail` |
+| Windrunner Spire (Eversong Woods) | `/azeroth windrunnerspire outside` |
+| Windrunner Village (Eversong Woods) | `/azeroth windrunnervillageretail` |
+| Zeb'Nowa (Eversong Woods) | `/azeroth zebnowaretail` |
+| Zeb'tela Ruins (Eversong Woods) | `/azeroth zebtelaruins` |
+
+#### Hillsbrad Foothills
+
+| Place | Command |
+|---|---|
+| Hillsbrad Foothills | `/azeroth hillsbradfoothillsretail` |
+| Alterac Mountains (Hillsbrad Foothills) | `/azeroth alteracmountainsretail` |
+| Azurelode Mine (Hillsbrad Foothills) | `/azeroth azurelodemineretail` |
+| Brazie Farmstead (Hillsbrad Foothills) | `/azeroth braziefarmstead` |
+| Chillwind Point (Hillsbrad Foothills) | `/azeroth chillwindpointretail` |
+| Corrahn's Dagger (Hillsbrad Foothills) | `/azeroth corrahnsdaggerretail` |
+| Crushridge Hold (Hillsbrad Foothills) | `/azeroth crushridgeholdretail` |
+| Dalaran Crater (Hillsbrad Foothills) | `/azeroth dalarancraterretail` |
+| Dandred's Fold (Hillsbrad Foothills) | `/azeroth dandredsfoldretail` |
+| Darrow Hill (Hillsbrad Foothills) | `/azeroth darrowhillretail` |
+| Dun Garok (Hillsbrad Foothills) | `/azeroth dungarokretail` |
+| Durnholde Keep (Hillsbrad Foothills) | `/azeroth durnholdekeepretail` |
+| Eastern Strand (Hillsbrad Foothills) | `/azeroth easternstrandretail` |
+| Eastpoint Tower (Hillsbrad Foothills) | `/azeroth eastpointtower` |
+| Gallows' Corner (Hillsbrad Foothills) | `/azeroth gallowscornerretail` |
+| Gavin's Naze (Hillsbrad Foothills) | `/azeroth gavinsnazeretail` |
+| Growless Cave (Hillsbrad Foothills) | `/azeroth growlesscaveretail` |
+| Lordamere Lake (Hillsbrad Foothills) | `/azeroth lordamerelake1339retail` |
+| Misty Shore (Hillsbrad Foothills) | `/azeroth mistyshoreretail` |
+| Nethander Stead (Hillsbrad Foothills) | `/azeroth nethandersteadretail` |
+| Purgation Isle (Hillsbrad Foothills) | `/azeroth purgationisleretail` |
+| Ravenholdt Manor (Hillsbrad Foothills) | `/azeroth ravenholdtmanorretail` |
+| Ruins of Alterac (Hillsbrad Foothills) | `/azeroth ruinsofalteracretail` |
+| Ruins of Southshore (Hillsbrad Foothills) | `/azeroth ruinsofsouthshore` |
+| Slaughter Hollow (Hillsbrad Foothills) | `/azeroth slaughterhollowretail` |
+| Sludgeguard Tower (Hillsbrad Foothills) | `/azeroth sludgeguardtower` |
+| Sofera's Naze (Hillsbrad Foothills) | `/azeroth soferasnazeretail` |
+| Southpoint Gate (Hillsbrad Foothills) | `/azeroth southpointgate` |
+| Strahnbrad (Hillsbrad Foothills) | `/azeroth strahnbradretail` |
+| Tarren Mill (Hillsbrad Foothills) | `/azeroth tarrenmillretail` |
+| The Great Sea (Hillsbrad Foothills) | `/azeroth thegreatsea2397retail` |
+| The Headland (Hillsbrad Foothills) | `/azeroth theheadlandretail` |
+| The Sludge Fields (Hillsbrad Foothills) | `/azeroth thesludgefields` |
+| The Uplands (Hillsbrad Foothills) | `/azeroth theuplandsretail` |
+| Thoradin's Wall (Hillsbrad Foothills) | `/azeroth thoradinswall1057retail` |
+| Western Strand (Hillsbrad Foothills) | `/azeroth westernstrandretail` |
+
+#### Isle of Quel'Danas
+
+| Place | Command |
+|---|---|
+| Isle of Quel'Danas | `/azeroth isleofqueldanasretail` |
+| Court of the Phoenix (Isle of Quel'Danas) | `/azeroth courtofthephoenix` |
+| Dawnstar Village (Isle of Quel'Danas) | `/azeroth dawnstarvillageretail` |
+| Golden Boughs (Isle of Quel'Danas) | `/azeroth goldenboughs` |
+| Greengill Coast (Isle of Quel'Danas) | `/azeroth greengillcoastretail` |
+| Magisters' Terrace (Isle of Quel'Danas) | `/azeroth magistersterraceretail outside` |
+| Parhelion Plaza (Isle of Quel'Danas) | `/azeroth parhelionplaza` |
+| Silver Landing (Isle of Quel'Danas) | `/azeroth silverlanding` |
+| Sun's Reach Armory (Isle of Quel'Danas) | `/azeroth sunsreacharmoryretail` |
+| Sun's Reach Harbor (Isle of Quel'Danas) | `/azeroth sunsreachharborretail` |
+| Sun's Reach Sanctum (Isle of Quel'Danas) | `/azeroth sunsreachsanctumretail` |
+| Sunwell Ramparts (Isle of Quel'Danas) | `/azeroth sunwellramparts` |
+| The Shining Span (Isle of Quel'Danas) | `/azeroth theshiningspan16719` |
+| Western Sungrove (Isle of Quel'Danas) | `/azeroth westernsungrove` |
+
+#### Kelp'thar Forest
+
+| Place | Command |
+|---|---|
+| Budd's Dig (Kelp'thar Forest) | `/azeroth buddsdig` |
+| Gnaws' Boneyard (Kelp'thar Forest) | `/azeroth gnawsboneyard` |
+| Gorrok's Lament (Kelp'thar Forest) | `/azeroth gorrokslament` |
+| Gurboggle's Ledge (Kelp'thar Forest) | `/azeroth gurbogglesledge` |
+| Kelp'thar Forest (Kelp'thar Forest) | `/azeroth kelptharforest4953` |
+| Legion's Fate (Kelp'thar Forest) | `/azeroth legionsfate` |
+| Seafarer's Tomb (Kelp'thar Forest) | `/azeroth seafarerstomb` |
+| Shallow's End (Kelp'thar Forest) | `/azeroth shallowsend` |
+| The Clutch (Kelp'thar Forest) | `/azeroth theclutch` |
+| The Lightless Reaches (Kelp'thar Forest) | `/azeroth thelightlessreaches5711` |
+| The Skeletal Reef (Kelp'thar Forest) | `/azeroth theskeletalreef` |
+
+#### Loch Modan
+
+| Place | Command |
+|---|---|
+| Loch Modan | `/azeroth lochmodanretail` |
+| Algaz Station (Loch Modan) | `/azeroth algazstationretail` |
+| Dun Algaz (Loch Modan) | `/azeroth dunalgaz837retail` |
+| Grizzlepaw Ridge (Loch Modan) | `/azeroth grizzlepawridgeretail` |
+| Ironband's Excavation Site (Loch Modan) | `/azeroth ironbandsexcavationsiteretail` |
+| Mo'grosh Stronghold (Loch Modan) | `/azeroth mogroshstrongholdretail` |
+| North Gate Pass (Loch Modan) | `/azeroth northgatepass838retail` |
+| Silver Stream Mine (Loch Modan) | `/azeroth silverstreammineretail` |
+| South Gate Outpost (Loch Modan) | `/azeroth southgateoutpostretail` |
+| South Gate Pass (Loch Modan) | `/azeroth southgatepassretail` |
+| South Gate Pass (Loch Modan) | `/azeroth southgatepass805` |
+| Stonesplinter Valley (Loch Modan) | `/azeroth stonesplintervalleyretail` |
+| Stonewrought Dam (Loch Modan) | `/azeroth stonewroughtdamretail` |
+| The Farstrider Lodge (Loch Modan) | `/azeroth thefarstriderlodgeretail` |
+| The Loch (Loch Modan) | `/azeroth thelochretail` |
+| Thelsamar (Loch Modan) | `/azeroth thelsamarretail` |
+| Twilight Camp (Loch Modan) | `/azeroth twilightcamp` |
+| Valley of Kings (Loch Modan) | `/azeroth valleyofkingsretail` |
+
+#### New Tinkertown
+
+| Place | Command |
+|---|---|
+| Brewnall Village (New Tinkertown) | `/azeroth brewnallvillageretail` |
+| Chill Breeze Valley (New Tinkertown) | `/azeroth chillbreezevalleyretail` |
+| Crushcog's Arsenal (New Tinkertown) | `/azeroth crushcogsarsenal` |
+| Frostmane Hold (New Tinkertown) | `/azeroth frostmaneholdretail` |
+| Iceflow Lake (New Tinkertown) | `/azeroth iceflowlakeretail` |
+| New Tinkertown (New Tinkertown) | `/azeroth newtinkertown` |
+| The Toxic Airfield (New Tinkertown) | `/azeroth thetoxicairfield` |
+
+#### Northern Stranglethorn
+
+| Place | Command |
+|---|---|
+| Bal'lal Ruins (Northern Stranglethorn) | `/azeroth ballalruinsretail` |
+| Balia'mah Ruins (Northern Stranglethorn) | `/azeroth baliamahruinsretail` |
+| Bambala (Northern Stranglethorn) | `/azeroth bambala` |
+| Fort Livingston (Northern Stranglethorn) | `/azeroth fortlivingston` |
+| Grom'gol Base Camp (Northern Stranglethorn) | `/azeroth gromgolbasecampretail` |
+| Kal'ai Ruins (Northern Stranglethorn) | `/azeroth kalairuinsretail` |
+| Kurzen's Compound (Northern Stranglethorn) | `/azeroth kurzenscompoundretail` |
+| Lake Nazferiti (Northern Stranglethorn) | `/azeroth lakenazferitiretail` |
+| Mizjah Ruins (Northern Stranglethorn) | `/azeroth mizjahruinsretail` |
+| Mosh'Ogg Ogre Mound (Northern Stranglethorn) | `/azeroth moshoggogremoundretail` |
+| Nesingwary's Expedition (Northern Stranglethorn) | `/azeroth nesingwarysexpeditionretail` |
+| Rebel Camp (Northern Stranglethorn) | `/azeroth rebelcampretail` |
+| Ruins of Zul'Kunda (Northern Stranglethorn) | `/azeroth ruinsofzulkundaretail` |
+| Ruins of Zul'Mamwe (Northern Stranglethorn) | `/azeroth ruinsofzulmamweretail` |
+| The Great Sea (Northern Stranglethorn) | `/azeroth thegreatsea2339retail` |
+| The Savage Coast (Northern Stranglethorn) | `/azeroth thesavagecoastretail` |
+| The Sundering (Northern Stranglethorn) | `/azeroth thesundering` |
+| The Vile Reef (Northern Stranglethorn) | `/azeroth thevilereefretail` |
+| Tkashi Ruins (Northern Stranglethorn) | `/azeroth tkashiruinsretail` |
+| Venture Co. Base Camp (Northern Stranglethorn) | `/azeroth venturecobasecampretail` |
+| Venture Co. Operations Center (Northern Stranglethorn) | `/azeroth venturecooperationscenterretail` |
+| Yojamba Isle (Northern Stranglethorn) | `/azeroth yojambaisleretail` |
+| Ziata'jai Ruins (Northern Stranglethorn) | `/azeroth ziatajairuinsretail` |
+| Zul'Gurub (Northern Stranglethorn) | `/azeroth zulgurubretail outside` |
+| Zuuldaia Ruins (Northern Stranglethorn) | `/azeroth zuuldaiaruinsretail` |
+
+#### Northshire
+
+| Place | Command |
+|---|---|
+| Echo Ridge Mine (Northshire) | `/azeroth echoridgemineretail` |
+| Northshire Valley (Northshire) | `/azeroth northshirevalleyretail` |
+| Northshire Vineyards (Northshire) | `/azeroth northshirevineyardsretail` |
+
+#### Redridge Mountains
+
+| Place | Command |
+|---|---|
+| Redridge Mountains | `/azeroth redridgemountainsretail` |
+| Alther's Mill (Redridge Mountains) | `/azeroth althersmillretail` |
+| Camp Everstill (Redridge Mountains) | `/azeroth campeverstill` |
+| Galardell Valley (Redridge Mountains) | `/azeroth galardellvalleyretail` |
+| Keeshan's Post (Redridge Mountains) | `/azeroth keeshanspost` |
+| Lake Everstill (Redridge Mountains) | `/azeroth lakeeverstillretail` |
+| Lakeridge Highway (Redridge Mountains) | `/azeroth lakeridgehighwayretail` |
+| Lakeshire (Redridge Mountains) | `/azeroth lakeshireretail` |
+| Redridge Canyons (Redridge Mountains) | `/azeroth redridgecanyonsretail` |
+| Redridge Pass (Redridge Mountains) | `/azeroth redridgepass` |
+| Render's Camp (Redridge Mountains) | `/azeroth renderscampretail` |
+| Render's Rock (Redridge Mountains) | `/azeroth rendersrockretail` |
+| Render's Valley (Redridge Mountains) | `/azeroth rendersvalleyretail` |
+| Rethban Caverns (Redridge Mountains) | `/azeroth rethbancavernsretail` |
+| Shalewind Canyon (Redridge Mountains) | `/azeroth shalewindcanyon` |
+| Stonewatch (Redridge Mountains) | `/azeroth stonewatchretail` |
+| Stonewatch Falls (Redridge Mountains) | `/azeroth stonewatchfallsretail` |
+| Stonewatch Tower (Redridge Mountains) | `/azeroth stonewatchtowerretail` |
+| Three Corners (Redridge Mountains) | `/azeroth threecornersretail` |
+| Tower of Ilgalar (Redridge Mountains) | `/azeroth towerofilgalarretail` |
+| Yowler's Den (Redridge Mountains) | `/azeroth yowlersden` |
+
+#### Ruins of Gilneas
+
+| Place | Command |
+|---|---|
+| Ruins of Gilneas | `/azeroth ruinsofgilneasretail` |
+| Aderic's Repose (Ruins of Gilneas) | `/azeroth adericsrepose` |
+| Dreadwatch Outpost (Ruins of Gilneas) | `/azeroth dreadwatchoutpost` |
+| Emberstone Mine (Ruins of Gilneas) | `/azeroth emberstonemine` |
+| Emberstone Village (Ruins of Gilneas) | `/azeroth emberstonevillage` |
+| Forsaken Forward Command (Ruins of Gilneas) | `/azeroth forsakenforwardcommand` |
+| Gilneas City (Ruins of Gilneas) | `/azeroth gilneascityretail` |
+| Greymane Manor (Ruins of Gilneas) | `/azeroth greymanemanor` |
+| Hayward Fishery (Ruins of Gilneas) | `/azeroth haywardfishery` |
+| Keel Harbor (Ruins of Gilneas) | `/azeroth keelharbor` |
+| Northern Headlands (Ruins of Gilneas) | `/azeroth northernheadlands` |
+| Rutsak's Guard (Ruins of Gilneas) | `/azeroth rutsaksguard` |
+| Stormglen Village (Ruins of Gilneas) | `/azeroth stormglenvillage` |
+| Tempest's Reach (Ruins of Gilneas) | `/azeroth tempestsreach` |
+| The Blackwald (Ruins of Gilneas) | `/azeroth theblackwald` |
+| The Greymane Wall (Ruins of Gilneas) | `/azeroth thegreymanewallretail` |
+| The Headlands (Ruins of Gilneas) | `/azeroth theheadlands` |
+
+#### Searing Gorge
+
+| Place | Command |
+|---|---|
+| Searing Gorge | `/azeroth searinggorgeretail` |
+| Blackchar Cave (Searing Gorge) | `/azeroth blackcharcaveretail` |
+| Blackrock Mountain (Searing Gorge) | `/azeroth blackrockmountain1445retail` |
+| Dustfire Valley (Searing Gorge) | `/azeroth dustfirevalleyretail` |
+| Firewatch Ridge (Searing Gorge) | `/azeroth firewatchridgeretail` |
+| Grimesilt Dig Site (Searing Gorge) | `/azeroth grimesiltdigsiteretail` |
+| Iron Summit (Searing Gorge) | `/azeroth ironsummit` |
+| Pyrox Flats (Searing Gorge) | `/azeroth pyroxflats` |
+| The Cauldron (Searing Gorge) | `/azeroth thecauldronretail` |
+| The Sea of Cinders (Searing Gorge) | `/azeroth theseaofcindersretail` |
+| Thorium Advance (Searing Gorge) | `/azeroth thoriumadvance` |
+| Thorium Point (Searing Gorge) | `/azeroth thoriumpointretail` |
+
+#### Shimmering Expanse
+
+| Place | Command |
+|---|---|
+| Biel'aran Ridge (Shimmering Expanse) | `/azeroth bielaranridge` |
+| Glimmerdeep Gorge (Shimmering Expanse) | `/azeroth glimmerdeepgorge` |
+| Nespirah (Shimmering Expanse) | `/azeroth nespirah` |
+| Quel'Dormir Gardens (Shimmering Expanse) | `/azeroth queldormirgardens` |
+| Quel'Dormir Terrace (Shimmering Expanse) | `/azeroth queldormirterrace` |
+| Ruins of Thelserai Temple (Shimmering Expanse) | `/azeroth ruinsofthelseraitemple` |
+| Ruins of Vashj'ir (Shimmering Expanse) | `/azeroth ruinsofvashjir` |
+| Shimmering Grotto (Shimmering Expanse) | `/azeroth shimmeringgrotto` |
+| Silver Tide Trench (Shimmering Expanse) | `/azeroth silvertidetrench` |
+| The Lightless Reaches (Shimmering Expanse) | `/azeroth thelightlessreaches` |
+| The Severed Span (Shimmering Expanse) | `/azeroth theseveredspan` |
+
+#### Silvermoon City
+
+| Place | Command |
+|---|---|
+| Silvermoon City | `/azeroth silvermooncityretail` |
+| Augurs' Terrace (Silvermoon City) | `/azeroth augursterrace` |
+| Court of Blood (Silvermoon City) | `/azeroth courtofblood` |
+| Court of the Sun (Silvermoon City) | `/azeroth courtofthesun` |
+| Dawning Lane (Silvermoon City) | `/azeroth dawninglaneretail` |
+| Duskglow Gloriette (Silvermoon City) | `/azeroth duskglowgloriette` |
+| Falconwing Square (Silvermoon City) | `/azeroth falconwingsquareretail` |
+| Gardens of Remembrance (Silvermoon City) | `/azeroth gardensofremembrance` |
+| Lithiel's Landing (Silvermoon City) | `/azeroth lithielslanding` |
+| Murder Row (Silvermoon City) | `/azeroth murderrow outside` |
+| Silvermoon Harbor (Silvermoon City) | `/azeroth silvermoonharbor` |
+| Sunwing Rookery (Silvermoon City) | `/azeroth sunwingrookery` |
+| Thalassian University (Silvermoon City) | `/azeroth thalassianuniversity` |
+| The Bazaar (Silvermoon City) | `/azeroth thebazaar` |
+| The Royal Exchange (Silvermoon City) | `/azeroth theroyalexchange` |
+| The Shepherd's Gate (Silvermoon City) | `/azeroth theshepherdsgate` |
+| The Shining Span (Silvermoon City) | `/azeroth theshiningspan` |
+| Walk of Elders (Silvermoon City) | `/azeroth walkofelders` |
+
+#### Silverpine Forest
+
+| Place | Command |
+|---|---|
+| Silverpine Forest | `/azeroth silverpineforestretail` |
+| 7th Legion Base Camp (Silverpine Forest) | `/azeroth 7thlegionbasecamp` |
+| Ambermill (Silverpine Forest) | `/azeroth ambermillretail` |
+| Beren's Peril (Silverpine Forest) | `/azeroth berensperilretail` |
+| Deep Elem Mine (Silverpine Forest) | `/azeroth deepelemmineretail` |
+| Fenris Isle (Silverpine Forest) | `/azeroth fenrisisleretail` |
+| Forsaken High Command (Silverpine Forest) | `/azeroth forsakenhighcommand` |
+| Forsaken Rear Guard (Silverpine Forest) | `/azeroth forsakenrearguard` |
+| Gilneas Liberation Front Base Camp (Silverpine Forest) | `/azeroth gilneasliberationfrontbasecamp` |
+| Lordamere Lake (Silverpine Forest) | `/azeroth lordamerelakeretail` |
+| North Tide's Beachhead (Silverpine Forest) | `/azeroth northtidesbeachhead` |
+| North Tide's Run (Silverpine Forest) | `/azeroth northtidesrunretail` |
+| Olsen's Farthing (Silverpine Forest) | `/azeroth olsensfarthingretail` |
+| Pyrewood Village (Silverpine Forest) | `/azeroth pyrewoodvillageretail` |
+| Shadowfang Keep (Silverpine Forest) | `/azeroth shadowfangkeepretail outside` |
+| South Tide's Run (Silverpine Forest) | `/azeroth southtidesrunretail` |
+| The Battlefront (Silverpine Forest) | `/azeroth thebattlefront` |
+| The Dawning Isles (Silverpine Forest) | `/azeroth thedawningislesretail` |
+| The Decrepit Fields (Silverpine Forest) | `/azeroth thedecrepitfields` |
+| The Forsaken Front (Silverpine Forest) | `/azeroth theforsakenfront` |
+| The Great Sea (Silverpine Forest) | `/azeroth thegreatsea2398retail` |
+| The Ivar Patch (Silverpine Forest) | `/azeroth theivarpatchretail` |
+| The Sepulcher (Silverpine Forest) | `/azeroth thesepulcherretail` |
+| The Shining Strand (Silverpine Forest) | `/azeroth theshiningstrandretail` |
+| The Skittering Dark (Silverpine Forest) | `/azeroth theskitteringdarkretail` |
+| Valgan's Field (Silverpine Forest) | `/azeroth valgansfieldretail` |
+
+#### Stormwind City
+
+| Place | Command |
+|---|---|
+| Stormwind City | `/azeroth stormwindcityretail` |
+| Cathedral Square (Stormwind City) | `/azeroth cathedralsquare` |
+| Dwarven District (Stormwind City) | `/azeroth dwarvendistrict` |
+| Lion's Rest (Stormwind City) | `/azeroth lionsrest` |
+| Mage Quarter (Stormwind City) | `/azeroth magequarter` |
+| Northern Elwynn Mountains (Stormwind City) | `/azeroth northernelwynnmountains` |
+| Old Town (Stormwind City) | `/azeroth oldtown` |
+| Olivia's Pond (Stormwind City) | `/azeroth oliviaspond` |
+| Stormwind City Cemetery (Stormwind City) | `/azeroth stormwindcitycemetery` |
+| Stormwind City Outskirts (Stormwind City) | `/azeroth stormwindcityoutskirts` |
+| Stormwind Embassy (Stormwind City) | `/azeroth stormwindembassy` |
+| Stormwind Harbor (Stormwind City) | `/azeroth stormwindharborretail` |
+| Stormwind Keep (Stormwind City) | `/azeroth stormwindkeep` |
+| Stormwind Lake (Stormwind City) | `/azeroth stormwindlake` |
+| The Canals (Stormwind City) | `/azeroth thecanals` |
+| The Eastern Earthshrine (Stormwind City) | `/azeroth theeasternearthshrine` |
+| The Wollerton Stead (Stormwind City) | `/azeroth thewollertonstead` |
+| Trade District (Stormwind City) | `/azeroth tradedistrict` |
+| Valley of Heroes (Stormwind City) | `/azeroth valleyofheroesretail` |
+
+#### Stranglethorn Vale
+
+| Place | Command |
+|---|---|
+| Northern Stranglethorn (Stranglethorn Vale) | `/azeroth northernstranglethorn` |
+| South Seas (Stranglethorn Vale) | `/azeroth southseasretail` |
+
+#### Swamp of Sorrows
+
+| Place | Command |
+|---|---|
+| Swamp of Sorrows | `/azeroth swampofsorrowsretail` |
+| Bogpaddle (Swamp of Sorrows) | `/azeroth bogpaddle` |
+| Fallow Sanctuary (Swamp of Sorrows) | `/azeroth fallowsanctuaryretail` |
+| Fortune's Fist (Swamp of Sorrows) | `/azeroth fortunesfist` |
+| Marshtide Watch (Swamp of Sorrows) | `/azeroth marshtidewatch` |
+| Misty Reed Farm (Swamp of Sorrows) | `/azeroth mistyreedfarm` |
+| Misty Reed Strand (Swamp of Sorrows) | `/azeroth mistyreedstrandretail` |
+| Misty Valley (Swamp of Sorrows) | `/azeroth mistyvalleyretail` |
+| Pool of Tears (Swamp of Sorrows) | `/azeroth pooloftearsretail` |
+| Purespring Cavern (Swamp of Sorrows) | `/azeroth purespringcavern` |
+| Sorrowmurk (Swamp of Sorrows) | `/azeroth sorrowmurkretail` |
+| Splinterspear Junction (Swamp of Sorrows) | `/azeroth splinterspearjunctionretail` |
+| Stagalbog (Swamp of Sorrows) | `/azeroth stagalbogretail` |
+| Stonard (Swamp of Sorrows) | `/azeroth stonardretail` |
+| The Bloodmire (Swamp of Sorrows) | `/azeroth thebloodmire` |
+| The Forbidding Sea (Swamp of Sorrows) | `/azeroth theforbiddingsea2403retail` |
+| The Harborage (Swamp of Sorrows) | `/azeroth theharborageretail` |
+| The Shifting Mire (Swamp of Sorrows) | `/azeroth theshiftingmireretail` |
+
+#### The Cape of Stranglethorn
+
+| Place | Command |
+|---|---|
+| Battle Ring (The Cape of Stranglethorn) | `/azeroth battleringretail` |
+| Booty Bay (The Cape of Stranglethorn) | `/azeroth bootybayretail` |
+| Cape of Stranglethorn (The Cape of Stranglethorn) | `/azeroth capeofstranglethorn` |
+| Crystalvein Mine (The Cape of Stranglethorn) | `/azeroth crystalveinmineretail` |
+| Explorers' League Digsite (The Cape of Stranglethorn) | `/azeroth explorersleaguedigsite` |
+| Gurubashi Arena (The Cape of Stranglethorn) | `/azeroth gurubashiarenaretail` |
+| Hardwrench Hideaway (The Cape of Stranglethorn) | `/azeroth hardwrenchhideaway` |
+| Jaguero Isle (The Cape of Stranglethorn) | `/azeroth jagueroisleretail` |
+| Janeiro's Point (The Cape of Stranglethorn) | `/azeroth janeirospointretail` |
+| Mistvale Valley (The Cape of Stranglethorn) | `/azeroth mistvalevalleyretail` |
+| Nek'mani Wellspring (The Cape of Stranglethorn) | `/azeroth nekmaniwellspringretail` |
+| Ruins of Aboraz (The Cape of Stranglethorn) | `/azeroth ruinsofaborazretail` |
+| Ruins of Jubuwal (The Cape of Stranglethorn) | `/azeroth ruinsofjubuwalretail` |
+| Southern Savage Coast (The Cape of Stranglethorn) | `/azeroth southernsavagecoastretail` |
+| Spirit Den (The Cape of Stranglethorn) | `/azeroth spiritdenretail` |
+| The Crystal Shore (The Cape of Stranglethorn) | `/azeroth thecrystalshoreretail` |
+| Wild Shore (The Cape of Stranglethorn) | `/azeroth wildshoreretail` |
+
+#### The Coiled Isle
+
+| Place | Command |
+|---|---|
+| The Coiled Isle | `/azeroth thecoiledisle` |
+| Blistering Terrace (The Coiled Isle) | `/azeroth blisteringterrace` |
+| Cloudlight Beacon (The Coiled Isle) | `/azeroth cloudlightbeacon` |
+| Defiant Ring (The Coiled Isle) | `/azeroth defiantring` |
+| Diver's Arch (The Coiled Isle) | `/azeroth diversarch` |
+| Gate of the Eastern Fang (The Coiled Isle) | `/azeroth gateoftheeasternfang` |
+| Gate of the Serpent's Eye (The Coiled Isle) | `/azeroth gateoftheserpentseye` |
+| Gate of the Western Fang (The Coiled Isle) | `/azeroth gateofthewesternfang` |
+| Gnarldor Isle (The Coiled Isle) | `/azeroth gnarldorisle` |
+| Mlurkkr Mire (The Coiled Isle) | `/azeroth mlurkkrmire` |
+| Ofi's Hut (The Coiled Isle) | `/azeroth ofishut` |
+| Path of Whispers (The Coiled Isle) | `/azeroth pathofwhispers` |
+| The Altar of Wrath (The Coiled Isle) | `/azeroth thealtarofwrath` |
+| The Fangs (The Coiled Isle) | `/azeroth thefangsretail` |
+| The Forbidding Sea (The Coiled Isle) | `/azeroth theforbiddingsea17719` |
+| The Forum (The Coiled Isle) | `/azeroth theforum` |
+| The Great Sea (The Coiled Isle) | `/azeroth thegreatsea17718` |
+| The Ring of Glory (The Coiled Isle) | `/azeroth theringofglory` |
+| The Serpent's Tail (The Coiled Isle) | `/azeroth theserpentstail` |
+| The Whispering Marsh (The Coiled Isle) | `/azeroth thewhisperingmarsh` |
+| Tokka's Folly (The Coiled Isle) | `/azeroth tokkasfolly` |
+| Tokka's Landing (The Coiled Isle) | `/azeroth tokkaslanding` |
+| Tooth of Sargoth (The Coiled Isle) | `/azeroth toothofsargoth` |
+| Venom Rise (The Coiled Isle) | `/azeroth venomrise` |
+| Wreck of Gral's Belly (The Coiled Isle) | `/azeroth wreckofgralsbelly` |
+| Wreck of Paku's Talon (The Coiled Isle) | `/azeroth wreckofpakustalon` |
+| Wreck of Sethraliss's Scale (The Coiled Isle) | `/azeroth wreckofsethralisssscale` |
+| Wreck of Torga's Beak (The Coiled Isle) | `/azeroth wreckoftorgasbeak` |
+| Zail'Zar Span (The Coiled Isle) | `/azeroth zailzarspan` |
+
+#### The Great Sea
+
+| Place | Command |
+|---|---|
+| The Great Sea | `/azeroth thegreatsea16217` |
+
+#### The Hinterlands
+
+| Place | Command |
+|---|---|
+| The Hinterlands | `/azeroth thehinterlandsretail` |
+| Aerie Peak (The Hinterlands) | `/azeroth aeriepeakretail` |
+| Agol'watha (The Hinterlands) | `/azeroth agolwatharetail` |
+| Bogen's Ledge (The Hinterlands) | `/azeroth bogensledgeretail` |
+| Featherbeard's Hovel (The Hinterlands) | `/azeroth featherbeardshovelretail` |
+| Hiri'watha Research Station (The Hinterlands) | `/azeroth hiriwatharesearchstation` |
+| Jintha'Alor (The Hinterlands) | `/azeroth jinthaalorretail` |
+| Plaguemist Ravine (The Hinterlands) | `/azeroth plaguemistravineretail` |
+| Quel'Danil Lodge (The Hinterlands) | `/azeroth queldanillodgeretail` |
+| Revantusk Village (The Hinterlands) | `/azeroth revantuskvillageretail` |
+| Seradane (The Hinterlands) | `/azeroth seradaneretail` |
+| Shadra'Alor (The Hinterlands) | `/azeroth shadraalorretail` |
+| Shaol'watha (The Hinterlands) | `/azeroth shaolwatharetail` |
+| Shindigger's Camp (The Hinterlands) | `/azeroth shindiggerscampretail` |
+| Skulk Rock (The Hinterlands) | `/azeroth skulkrockretail` |
+| Stormfeather Outpost (The Hinterlands) | `/azeroth stormfeatheroutpost` |
+| The Altar of Zul (The Hinterlands) | `/azeroth thealtarofzulretail` |
+| The Creeping Ruin (The Hinterlands) | `/azeroth thecreepingruinretail` |
+| The Forbidding Sea (The Hinterlands) | `/azeroth theforbiddingsea2400retail` |
+| The Overlook Cliffs (The Hinterlands) | `/azeroth theoverlookcliffsretail` |
+| Valorwind Lake (The Hinterlands) | `/azeroth valorwindlakeretail` |
+| Wildhammer Keep (The Hinterlands) | `/azeroth wildhammerkeepretail` |
+| Zun'watha (The Hinterlands) | `/azeroth zunwatharetail` |
+
+#### Tirisfal Glades
+
+| Place | Command |
+|---|---|
+| Tirisfal Glades | `/azeroth tirisfalgladesretail` |
+| Agamand Mills (Tirisfal Glades) | `/azeroth agamandmillsretail` |
+| Balnir Farmstead (Tirisfal Glades) | `/azeroth balnirfarmsteadretail` |
+| Brightwater Lake (Tirisfal Glades) | `/azeroth brightwaterlakeretail` |
+| Brill (Tirisfal Glades) | `/azeroth brillretail` |
+| Calston Estate (Tirisfal Glades) | `/azeroth calstonestate` |
+| Cold Hearth Manor (Tirisfal Glades) | `/azeroth coldhearthmanorretail` |
+| Crusader Outpost (Tirisfal Glades) | `/azeroth crusaderoutpostretail` |
+| Death's Watch Waystation (Tirisfal Glades) | `/azeroth deathswatchwaystation` |
+| Faol's Rest (Tirisfal Glades) | `/azeroth faolsrestretail` |
+| Garren's Haunt (Tirisfal Glades) | `/azeroth garrenshauntretail` |
+| Gunther's Retreat (Tirisfal Glades) | `/azeroth gunthersretreatretail` |
+| Nightmare Vale (Tirisfal Glades) | `/azeroth nightmarevaleretail` |
+| Ruins of Lordaeron (Tirisfal Glades) | `/azeroth ruinsoflordaeronretail` |
+| Scarlet Encampment (Tirisfal Glades) | `/azeroth scarletencampment` |
+| Scarlet Palisade (Tirisfal Glades) | `/azeroth scarletpalisade` |
+| Scarlet Watch Post (Tirisfal Glades) | `/azeroth scarletwatchpostretail` |
+| Scarlet Watchtower (Tirisfal Glades) | `/azeroth scarletwatchtower` |
+| Solliden Farmstead (Tirisfal Glades) | `/azeroth sollidenfarmsteadretail` |
+| Stillwater Pond (Tirisfal Glades) | `/azeroth stillwaterpondretail` |
+| Terrace of Repose (Tirisfal Glades) | `/azeroth terraceofreposeretail` |
+| The Bulwark (Tirisfal Glades) | `/azeroth thebulwarkretail` |
+| The Great Sea (Tirisfal Glades) | `/azeroth thegreatsearetail` |
+| The Great Sea (Tirisfal Glades) | `/azeroth thegreatsea2399` |
+| The North Coast (Tirisfal Glades) | `/azeroth thenorthcoastretail` |
+| Tirisfal Glades (Tirisfal Glades) | `/azeroth tirisfalglades14046` |
+| Tirisfal Glades (Tirisfal Glades) | `/azeroth tirisfalglades7975` |
+| Tirisfal Glades (Tirisfal Glades) | `/azeroth tirisfalglades8317` |
+| Venomweb Vale (Tirisfal Glades) | `/azeroth venomwebvaleretail` |
+| Whispering Forest (Tirisfal Glades) | `/azeroth whisperingforestretail` |
+| Whispering Gardens (Tirisfal Glades) | `/azeroth whisperinggardensretail` |
+| Whispering Shore (Tirisfal Glades) | `/azeroth whisperingshoreretail` |
+
+#### Twilight Highlands
+
+| Place | Command |
+|---|---|
+| Twilight Highlands | `/azeroth twilighthighlands` |
+| Altar of Ascension (Twilight Highlands) | `/azeroth altarofascension` |
+| Altar of Twilight (Twilight Highlands) | `/azeroth altaroftwilight` |
+| Black Drake Roost (Twilight Highlands) | `/azeroth blackdrakeroost` |
+| Bloodgulch (Twilight Highlands) | `/azeroth bloodgulch` |
+| Cannon's Inferno (Twilight Highlands) | `/azeroth cannonsinferno` |
+| Crucible of Carnage (Twilight Highlands) | `/azeroth crucibleofcarnage` |
+| Crushblow (Twilight Highlands) | `/azeroth crushblow` |
+| Dragonmaw Pass (Twilight Highlands) | `/azeroth dragonmawpass` |
+| Dragonmaw Port (Twilight Highlands) | `/azeroth dragonmawport` |
+| Dunwald Holdout (Twilight Highlands) | `/azeroth dunwaldholdout` |
+| Dunwald Hovel (Twilight Highlands) | `/azeroth dunwaldhovel` |
+| Dunwald Market Row (Twilight Highlands) | `/azeroth dunwaldmarketrow` |
+| Dunwald Ruins (Twilight Highlands) | `/azeroth dunwaldruins` |
+| Dunwald Town Square (Twilight Highlands) | `/azeroth dunwaldtownsquare` |
+| Firebeard Cemetery (Twilight Highlands) | `/azeroth firebeardcemetery` |
+| Firebeard's Patrol (Twilight Highlands) | `/azeroth firebeardspatrol` |
+| Glopgut's Hollow (Twilight Highlands) | `/azeroth glopgutshollow` |
+| Gorshak War Camp (Twilight Highlands) | `/azeroth gorshakwarcamp` |
+| Grim Batol (Twilight Highlands) | `/azeroth grimbatolretail` |
+| Highbank (Twilight Highlands) | `/azeroth highbank` |
+| Highland Forest (Twilight Highlands) | `/azeroth highlandforest` |
+| Humboldt Conflagration (Twilight Highlands) | `/azeroth humboldtconflagration` |
+| Kirthaven (Twilight Highlands) | `/azeroth kirthaven` |
+| Loch Verrall (Twilight Highlands) | `/azeroth lochverrall` |
+| Obsidian Breakers (Twilight Highlands) | `/azeroth obsidianbreakers` |
+| Obsidian Forest (Twilight Highlands) | `/azeroth obsidianforest` |
+| Ring of the Elements (Twilight Highlands) | `/azeroth ringoftheelements` |
+| Ruins of Drakgor (Twilight Highlands) | `/azeroth ruinsofdrakgor` |
+| Slithering Cove (Twilight Highlands) | `/azeroth slitheringcove` |
+| The Black Breach (Twilight Highlands) | `/azeroth theblackbreach` |
+| The Boneyard (Twilight Highlands) | `/azeroth theboneyard` |
+| The Circle of Life (Twilight Highlands) | `/azeroth thecircleoflife` |
+| The Devouring Breach (Twilight Highlands) | `/azeroth thedevouringbreach` |
+| The Forbidding Sea (Twilight Highlands) | `/azeroth theforbiddingsearetail` |
+| The Gullet (Twilight Highlands) | `/azeroth thegullet` |
+| The Krazzworks (Twilight Highlands) | `/azeroth thekrazzworks` |
+| The Maw of Madness (Twilight Highlands) | `/azeroth themawofmadness` |
+| The Twilight Breach (Twilight Highlands) | `/azeroth thetwilightbreach` |
+| The Twilight Citadel (Twilight Highlands) | `/azeroth thetwilightcitadel` |
+| The Twilight Gate (Twilight Highlands) | `/azeroth thetwilightgate` |
+| Thundermar (Twilight Highlands) | `/azeroth thundermar` |
+| Thundermar Ruins (Twilight Highlands) | `/azeroth thundermarruins` |
+| Thunderstrike Mountain (Twilight Highlands) | `/azeroth thunderstrikemountain` |
+| Twilight Shore (Twilight Highlands) | `/azeroth twilightshoreretail` |
+| Vermillion Redoubt (Twilight Highlands) | `/azeroth vermillionredoubt` |
+| Verrall Delta (Twilight Highlands) | `/azeroth verralldelta` |
+| Verrall River (Twilight Highlands) | `/azeroth verrallriver` |
+| Victor's Point (Twilight Highlands) | `/azeroth victorspoint` |
+| Wyrms' Bend (Twilight Highlands) | `/azeroth wyrmsbend` |
+
+#### Vashj'ir
+
+| Place | Command |
+|---|---|
+| Vashj'ir | `/azeroth vashjir` |
+| Abyssal Depths (Vashj'ir) | `/azeroth abyssaldepths` |
+| Kelp'thar Forest (Vashj'ir) | `/azeroth kelptharforest` |
+| Shimmering Expanse (Vashj'ir) | `/azeroth shimmeringexpanse` |
+
+#### Western Plaguelands
+
+| Place | Command |
+|---|---|
+| Western Plaguelands | `/azeroth westernplaguelandsretail` |
+| Andorhal (Western Plaguelands) | `/azeroth andorhal` |
+| Caer Darrow (Western Plaguelands) | `/azeroth caerdarrowretail` |
+| Charred Outpost (Western Plaguelands) | `/azeroth charredoutpost` |
+| Chillwind Camp (Western Plaguelands) | `/azeroth chillwindcampretail` |
+| Dalson's Farm (Western Plaguelands) | `/azeroth dalsonsfarm` |
+| Darrowmere Lake (Western Plaguelands) | `/azeroth darrowmerelakeretail` |
+| Felstone Field (Western Plaguelands) | `/azeroth felstonefieldretail` |
+| Gahrron's Withering (Western Plaguelands) | `/azeroth gahrronswitheringretail` |
+| Hearthglen (Western Plaguelands) | `/azeroth hearthglenretail` |
+| Malicia's Outpost (Western Plaguelands) | `/azeroth maliciasoutpost` |
+| Northridge Lumber Camp (Western Plaguelands) | `/azeroth northridgelumbercampretail` |
+| Path of Uther (Western Plaguelands) | `/azeroth pathofuther` |
+| Redpine Dell (Western Plaguelands) | `/azeroth redpinedell` |
+| Sorrow Hill (Western Plaguelands) | `/azeroth sorrowhillretail` |
+| Sorrow Hill Crypt (Western Plaguelands) | `/azeroth sorrowhillcrypt` |
+| Taelan's Tower (Western Plaguelands) | `/azeroth taelanstower` |
+| The Bulwark (Western Plaguelands) | `/azeroth thebulwark813` |
+| The Menders' Stead (Western Plaguelands) | `/azeroth themendersstead` |
+| The Weeping Cave (Western Plaguelands) | `/azeroth theweepingcaveretail` |
+| The Writhing Haunt (Western Plaguelands) | `/azeroth thewrithinghauntretail` |
+| Thondroril River (Western Plaguelands) | `/azeroth thondrorilriver2620retail` |
+
+#### Westfall
+
+| Place | Command |
+|---|---|
+| Westfall | `/azeroth westfallretail` |
+| Alexston Farmstead (Westfall) | `/azeroth alexstonfarmsteadretail` |
+| Demont's Place (Westfall) | `/azeroth demontsplaceretail` |
+| Furlbrow's Pumpkin Farm (Westfall) | `/azeroth furlbrowspumpkinfarmretail` |
+| Gold Coast Quarry (Westfall) | `/azeroth goldcoastquarryretail` |
+| Jangolode Mine (Westfall) | `/azeroth jangolodemineretail` |
+| Longshore (Westfall) | `/azeroth longshoreretail` |
+| Moonbrook (Westfall) | `/azeroth moonbrookretail` |
+| Saldean's Farm (Westfall) | `/azeroth saldeansfarmretail` |
+| Sentinel Hill (Westfall) | `/azeroth sentinelhillretail` |
+| Stendel's Pond (Westfall) | `/azeroth stendelspondretail` |
+| The Dagger Hills (Westfall) | `/azeroth thedaggerhillsretail` |
+| The Dead Acre (Westfall) | `/azeroth thedeadacreretail` |
+| The Dust Plains (Westfall) | `/azeroth thedustplainsretail` |
+| The Great Sea (Westfall) | `/azeroth thegreatsea2364retail` |
+| The Jansen Stead (Westfall) | `/azeroth thejansensteadretail` |
+| The Molsen Farm (Westfall) | `/azeroth themolsenfarmretail` |
+| The Raging Chasm (Westfall) | `/azeroth theragingchasm` |
+| Westfall Lighthouse (Westfall) | `/azeroth westfalllighthouseretail` |
+
+#### Wetlands
+
+| Place | Command |
+|---|---|
+| Wetlands | `/azeroth wetlandsretail` |
+| Angerfang Encampment (Wetlands) | `/azeroth angerfangencampmentretail` |
+| Baradin Bay (Wetlands) | `/azeroth baradinbayretail` |
+| Black Channel Marsh (Wetlands) | `/azeroth blackchannelmarshretail` |
+| Bluegill Marsh (Wetlands) | `/azeroth bluegillmarshretail` |
+| Direforge Hill (Wetlands) | `/azeroth direforgehillretail` |
+| Dragonmaw Gates (Wetlands) | `/azeroth dragonmawgatesretail` |
+| Dun Algaz (Wetlands) | `/azeroth dunalgazretail` |
+| Dun Modr (Wetlands) | `/azeroth dunmodrretail` |
+| Greenwarden's Grove (Wetlands) | `/azeroth greenwardensgrove` |
+| Ironbeard's Tomb (Wetlands) | `/azeroth ironbeardstombretail` |
+| Menethil Bay (Wetlands) | `/azeroth menethilbayretail` |
+| Menethil Harbor (Wetlands) | `/azeroth menethilharborretail` |
+| Mosshide Fen (Wetlands) | `/azeroth mosshidefenretail` |
+| Raptor Ridge (Wetlands) | `/azeroth raptorridgeretail` |
+| Saltspray Glen (Wetlands) | `/azeroth saltsprayglenretail` |
+| Slabchisel's Survey (Wetlands) | `/azeroth slabchiselssurvey` |
+| Sundown Marsh (Wetlands) | `/azeroth sundownmarshretail` |
+| Swiftgear Station (Wetlands) | `/azeroth swiftgearstation` |
+| Thandol Span (Wetlands) | `/azeroth thandolspanretail` |
+| The Great Sea (Wetlands) | `/azeroth thegreatsea2365retail` |
+| The Green Belt (Wetlands) | `/azeroth thegreenbeltretail` |
+| The Lost Fleet (Wetlands) | `/azeroth thelostfleetretail` |
+| Thelgen Rock (Wetlands) | `/azeroth thelgenrockretail` |
+| Whelgar's Excavation Site (Wetlands) | `/azeroth whelgarsexcavationsiteretail` |
+| Whelgar's Retreat (Wetlands) | `/azeroth whelgarsretreat` |
+
+#### Zul'Aman
+
+| Place | Command |
+|---|---|
+| Zul'Aman | `/azeroth zulaman outside` |
+| Akil'zon's Reach (Zul'Aman) | `/azeroth akilzonsreach` |
+| Amani'Zar Village (Zul'Aman) | `/azeroth amanizarvillage` |
+| Atal'Abasi (Zul'Aman) | `/azeroth atalabasi` |
+| Atal'Aman (Zul'Aman) | `/azeroth atalaman` |
+| Bitterbark (Zul'Aman) | `/azeroth bitterbark` |
+| Broken Throne (Zul'Aman) | `/azeroth brokenthrone` |
+| Camp Stonewash (Zul'Aman) | `/azeroth campstonewash` |
+| Funerary Coast (Zul'Aman) | `/azeroth funerarycoast` |
+| Hermit's Mooring (Zul'Aman) | `/azeroth hermitsmooring` |
+| Leech Bog (Zul'Aman) | `/azeroth leechbog` |
+| Maisara Deeps (Zul'Aman) | `/azeroth maisaradeeps` |
+| Miststone Wells (Zul'Aman) | `/azeroth miststonewells` |
+| Nalorakk's Prowl (Zul'Aman) | `/azeroth nalorakksprowl` |
+| Revantusk Sedge (Zul'Aman) | `/azeroth revantusksedge` |
+| Shadebasin Watch (Zul'Aman) | `/azeroth shadebasinwatch` |
+| Shrine of Filo (Zul'Aman) | `/azeroth shrineoffilo` |
+| Shrine of Kulzi (Zul'Aman) | `/azeroth shrineofkulzi` |
+| Solemn Valley (Zul'Aman) | `/azeroth solemnvalley` |
+| Speaker's Rest (Zul'Aman) | `/azeroth speakersrest` |
+| Spiritpaw Backwoods (Zul'Aman) | `/azeroth spiritpawbackwoods` |
+| Spiritpaw Borough (Zul'Aman) | `/azeroth spiritpawborough` |
+| Strait of Hexx'alor (Zul'Aman) | `/azeroth straitofhexxalor` |
+| Temple of Akil'zon (Zul'Aman) | `/azeroth templeofakilzon` |
+| Temple of Halazzi (Zul'Aman) | `/azeroth templeofhalazzi` |
+| Temple of Jan'alai (Zul'Aman) | `/azeroth templeofjanalai` |
+| The Forbidding Sea (Zul'Aman) | `/azeroth theforbiddingsea17720` |
+| The Great Sea (Zul'Aman) | `/azeroth thegreatsea16860` |
+| The Skybridge (Zul'Aman) | `/azeroth theskybridge` |
+| The Stump (Zul'Aman) | `/azeroth thestump` |
+| Thresh Cove (Zul'Aman) | `/azeroth threshcove` |
+| Torntusk Overlook (Zul'Aman) | `/azeroth torntuskoverlook` |
+| Witherbark Bluffs (Zul'Aman) | `/azeroth witherbarkbluffs` |
+| Zeb'Alar Lumberyard (Zul'Aman) | `/azeroth zebalarlumberyard` |
+| Zul'Aman Depths (Zul'Aman) | `/azeroth zulamandepths` |
+
+### Kalimdor (Retail)
+
+#### Ahn'Qiraj: The Fallen Kingdom
+
+| Place | Command |
+|---|---|
+| Ahn'Qiraj: The Fallen Kingdom | `/azeroth ahnqirajthefallenkingdom` |
+
+#### Ashenvale
+
+| Place | Command |
+|---|---|
+| Ashenvale | `/azeroth ashenvaleretail` |
+| Astranaar (Ashenvale) | `/azeroth astranaarretail` |
+| Bathran's Haunt (Ashenvale) | `/azeroth bathranshauntretail` |
+| Blackfathom Camp (Ashenvale) | `/azeroth blackfathomcamp` |
+| Bloodtooth Camp (Ashenvale) | `/azeroth bloodtoothcampretail` |
+| Bolyun's Camp (Ashenvale) | `/azeroth bolyunscamp` |
+| Bough Shadow (Ashenvale) | `/azeroth boughshadowretail` |
+| Demon Fall Canyon (Ashenvale) | `/azeroth demonfallcanyonretail` |
+| Demon Fall Ridge (Ashenvale) | `/azeroth demonfallridgeretail` |
+| Falfarren River (Ashenvale) | `/azeroth falfarrenriverretail` |
+| Fallen Sky Lake (Ashenvale) | `/azeroth fallenskylakeretail` |
+| Felfire Hill (Ashenvale) | `/azeroth felfirehillretail` |
+| Fire Scar Shrine (Ashenvale) | `/azeroth firescarshrineretail` |
+| Forest Song (Ashenvale) | `/azeroth forestsongretail` |
+| Greenpaw Village (Ashenvale) | `/azeroth greenpawvillageretail` |
+| Hellscream's Watch (Ashenvale) | `/azeroth hellscreamswatch` |
+| House of Edune (Ashenvale) | `/azeroth houseofedune` |
+| Krolg's Hut (Ashenvale) | `/azeroth krolgshut` |
+| Lake Falathim (Ashenvale) | `/azeroth lakefalathimretail` |
+| Maestra's Post (Ashenvale) | `/azeroth maestraspostretail` |
+| Moonwell of Cleansing (Ashenvale) | `/azeroth moonwellofcleansing` |
+| Moonwell of Purity (Ashenvale) | `/azeroth moonwellofpurity` |
+| Mystral Lake (Ashenvale) | `/azeroth mystrallakeretail` |
+| Night Run (Ashenvale) | `/azeroth nightrunretail` |
+| Nightsong Woods (Ashenvale) | `/azeroth nightsongwoodsretail` |
+| Orendil's Retreat (Ashenvale) | `/azeroth orendilsretreat` |
+| Raynewood Retreat (Ashenvale) | `/azeroth raynewoodretreatretail` |
+| Raynewood Tower (Ashenvale) | `/azeroth raynewoodtower` |
+| Remains of Iris Lake (Ashenvale) | `/azeroth remainsofirislake` |
+| Ruuzel's Isle (Ashenvale) | `/azeroth ruuzelsisle` |
+| Satyrnaar (Ashenvale) | `/azeroth satyrnaarretail` |
+| Silverwind Refuge (Ashenvale) | `/azeroth silverwindrefugeretail` |
+| Silverwing Grove (Ashenvale) | `/azeroth silverwinggroveretail` |
+| Silverwing Outpost (Ashenvale) | `/azeroth silverwingoutpostretail` |
+| Southfury River (Ashenvale) | `/azeroth southfuryriver879` |
+| Splintertree Post (Ashenvale) | `/azeroth splintertreepostretail` |
+| Stardust Spire (Ashenvale) | `/azeroth stardustspire` |
+| Talondeep Vale (Ashenvale) | `/azeroth talondeepvale` |
+| The Dor'Danil Barrow Den (Ashenvale) | `/azeroth thedordanilbarrowdenretail` |
+| The Howling Vale (Ashenvale) | `/azeroth thehowlingvaleretail` |
+| The Ruins of Ordil'Aran (Ashenvale) | `/azeroth theruinsofordilaranretail` |
+| The Ruins of Stardust (Ashenvale) | `/azeroth theruinsofstardustretail` |
+| The Shady Nook (Ashenvale) | `/azeroth theshadynookretail` |
+| The Shrine of Aessina (Ashenvale) | `/azeroth theshrineofaessinaretail` |
+| The Skunkworks (Ashenvale) | `/azeroth theskunkworks` |
+| The Veiled Sea (Ashenvale) | `/azeroth theveiledsea2325` |
+| The Zoram Strand (Ashenvale) | `/azeroth thezoramstrandretail` |
+| Thistlefur Hold (Ashenvale) | `/azeroth thistlefurhold` |
+| Thistlefur Village (Ashenvale) | `/azeroth thistlefurvillageretail` |
+| Thunder Peak (Ashenvale) | `/azeroth thunderpeak` |
+| Warsong Labor Camp (Ashenvale) | `/azeroth warsonglaborcampretail` |
+| Warsong Lumber Camp (Ashenvale) | `/azeroth warsonglumbercampretail` |
+| Xavian (Ashenvale) | `/azeroth xavianretail` |
+| Zoram'gar Outpost (Ashenvale) | `/azeroth zoramgaroutpostretail` |
+
+#### Azshara
+
+| Place | Command |
+|---|---|
+| Azshara | `/azeroth azshararetail` |
+| Arcane Pinnacle (Azshara) | `/azeroth arcanepinnacle` |
+| Bay of Storms (Azshara) | `/azeroth bayofstormsretail` |
+| Bear's Head (Azshara) | `/azeroth bearsheadretail` |
+| Bilgewater Harbor (Azshara) | `/azeroth bilgewaterharbor` |
+| Bitter Reaches (Azshara) | `/azeroth bitterreachesretail` |
+| Blackmaw Hold (Azshara) | `/azeroth blackmawhold` |
+| Darnassian Base Camp (Azshara) | `/azeroth darnassianbasecamp` |
+| Forlorn Ridge (Azshara) | `/azeroth forlornridgeretail` |
+| Gallywix Pleasure Palace (Azshara) | `/azeroth gallywixpleasurepalace` |
+| Hull of the Foebreaker (Azshara) | `/azeroth hullofthefoebreaker` |
+| Jagged Reef (Azshara) | `/azeroth jaggedreefretail` |
+| Lake Mennar (Azshara) | `/azeroth lakemennarretail` |
+| Legash Encampment (Azshara) | `/azeroth legashencampmentretail` |
+| Mountainfoot Strip Mine (Azshara) | `/azeroth mountainfootstripmine` |
+| Northern Rocketway Exchange (Azshara) | `/azeroth northernrocketwayexchange` |
+| Orgrimmar Rear Gate (Azshara) | `/azeroth orgrimmarreargate` |
+| Orgrimmar Rocketway Exchange (Azshara) | `/azeroth orgrimmarrocketwayexchange` |
+| Ravencrest Monument (Azshara) | `/azeroth ravencrestmonumentretail` |
+| Rethress Sanctum (Azshara) | `/azeroth rethresssanctumretail` |
+| Ruins of Arkkoran (Azshara) | `/azeroth ruinsofarkkoran` |
+| Ruins of Eldarath  (Azshara) | `/azeroth ruinsofeldarathretail` |
+| Ruins of Nordressa (Azshara) | `/azeroth ruinsofnordressa` |
+| Sable Ridge (Azshara) | `/azeroth sableridge` |
+| Southern Rocketway Terminus (Azshara) | `/azeroth southernrocketwayterminus` |
+| Southfury River (Azshara) | `/azeroth southfuryriver878` |
+| Southridge Beach (Azshara) | `/azeroth southridgebeachretail` |
+| Storm Cliffs (Azshara) | `/azeroth stormcliffs` |
+| Talrendis Point (Azshara) | `/azeroth talrendispointretail` |
+| The Ancient Grove (Azshara) | `/azeroth theancientgrove` |
+| The Great Sea (Azshara) | `/azeroth thegreatsearetail9001` |
+| The Ruined Reaches (Azshara) | `/azeroth theruinedreachesretail` |
+| The Secret Lab (Azshara) | `/azeroth thesecretlab` |
+| The Shattered Strand (Azshara) | `/azeroth theshatteredstrandretail` |
+| Tower of Eldara (Azshara) | `/azeroth towerofeldararetail` |
+| Trial of Fire (Azshara) | `/azeroth trialoffire` |
+| Trial of Frost (Azshara) | `/azeroth trialoffrost` |
+| Trial of Shadow (Azshara) | `/azeroth trialofshadow` |
+| Valormok (Azshara) | `/azeroth valormokretail` |
+
+#### Camp Narache
+
+| Place | Command |
+|---|---|
+| Brambleblade Ravine (Camp Narache) | `/azeroth bramblebladeravineretail` |
+| Camp Narache (Camp Narache) | `/azeroth campnaracheretail` |
+| Fargaze Mesa (Camp Narache) | `/azeroth fargazemesa` |
+| Red Cloud Mesa (Camp Narache) | `/azeroth redcloudmesaretail` |
+| The Battleboar Pen (Camp Narache) | `/azeroth thebattleboarpen` |
+| The Thornsnarl (Camp Narache) | `/azeroth thethornsnarl` |
+| Thornmantle's Hideout (Camp Narache) | `/azeroth thornmantleshideout` |
+
+#### Darkshore
+
+| Place | Command |
+|---|---|
+| Darkshore | `/azeroth darkshoreretail` |
+| Ameth'Aran (Darkshore) | `/azeroth ametharanretail` |
+| Auberdine Refugee Camp (Darkshore) | `/azeroth auberdinerefugeecamp` |
+| Bashal'Aran (Darkshore) | `/azeroth bashalaranretail` |
+| Blackwood Camp (Darkshore) | `/azeroth blackwoodcamp` |
+| Blackwood Den (Darkshore) | `/azeroth blackwooddenretail` |
+| Cliffspring Falls (Darkshore) | `/azeroth cliffspringfallsretail` |
+| Cliffspring River (Darkshore) | `/azeroth cliffspringriverretail` |
+| Darkshore (Darkshore) | `/azeroth darkshore9981` |
+| Grove of the Ancients (Darkshore) | `/azeroth groveoftheancientsretail` |
+| Lor'danel (Darkshore) | `/azeroth lordanel` |
+| Maw of the Void (Darkshore) | `/azeroth mawofthevoid` |
+| Mist's Edge (Darkshore) | `/azeroth mistsedgeretail` |
+| Moontouched Den (Darkshore) | `/azeroth moontouchedden` |
+| Nazj'vel (Darkshore) | `/azeroth nazjvel` |
+| Remtravel's Excavation (Darkshore) | `/azeroth remtravelsexcavationretail` |
+| Ruins of Auberdine (Darkshore) | `/azeroth ruinsofauberdine` |
+| Ruins of Lornesta (Darkshore) | `/azeroth ruinsoflornesta` |
+| Ruins of Mathystra (Darkshore) | `/azeroth ruinsofmathystraretail` |
+| Shatterspear Pass (Darkshore) | `/azeroth shatterspearpass` |
+| Shatterspear Vale (Darkshore) | `/azeroth shatterspearvale` |
+| Shatterspear War Camp (Darkshore) | `/azeroth shatterspearwarcamp` |
+| The Blazing Strand (Darkshore) | `/azeroth theblazingstrand` |
+| The Eye of the Vortex (Darkshore) | `/azeroth theeyeofthevortex` |
+| The Long Wash (Darkshore) | `/azeroth thelongwashretail` |
+| The Master's Glaive (Darkshore) | `/azeroth themastersglaiveretail` |
+| The Veiled Sea (Darkshore) | `/azeroth theveiledsea2326` |
+| Tower of Althalaxx (Darkshore) | `/azeroth towerofalthalaxxretail` |
+| Twilight Shore (Darkshore) | `/azeroth twilightshoreretail9001` |
+| Twilight Vale (Darkshore) | `/azeroth twilightvaleretail` |
+| Wildbend River (Darkshore) | `/azeroth wildbendriverretail` |
+| Withering Thicket (Darkshore) | `/azeroth witheringthicket` |
+| Wreckage of the Silver Dawning (Darkshore) | `/azeroth wreckageofthesilverdawning` |
+
+#### Darnassus
+
+| Place | Command |
+|---|---|
+| Darnassus | `/azeroth darnassusretail` |
+| Cenarion Enclave (Darnassus) | `/azeroth cenarionenclaveretail` |
+| Craftsmen's Terrace (Darnassus) | `/azeroth craftsmensterraceretail` |
+| The Howling Oak (Darnassus) | `/azeroth thehowlingoak` |
+| The Temple Gardens (Darnassus) | `/azeroth thetemplegardensretail` |
+| Tradesmen's Terrace (Darnassus) | `/azeroth tradesmensterraceretail` |
+| Warrior's Terrace (Darnassus) | `/azeroth warriorsterraceretail` |
+
+#### Desolace
+
+| Place | Command |
+|---|---|
+| Desolace | `/azeroth desolaceretail` |
+| Cenarion Wildlands (Desolace) | `/azeroth cenarionwildlands` |
+| Ethel Rethor (Desolace) | `/azeroth ethelrethorretail` |
+| Furien's Post (Desolace) | `/azeroth furienspost` |
+| Gelkis Village (Desolace) | `/azeroth gelkisvillageretail` |
+| Ghost Walker Post (Desolace) | `/azeroth ghostwalkerpostretail` |
+| Karnum's Glade (Desolace) | `/azeroth karnumsglade` |
+| Kodo Graveyard (Desolace) | `/azeroth kodograveyardretail` |
+| Kormek's Hut (Desolace) | `/azeroth kormekshutretail` |
+| Magram Territory (Desolace) | `/azeroth magramterritory` |
+| Mannoroc Coven (Desolace) | `/azeroth mannoroccovenretail` |
+| Nijel's Point (Desolace) | `/azeroth nijelspointretail` |
+| Ranazjar Isle (Desolace) | `/azeroth ranazjarisleretail` |
+| Sar'theris Strand (Desolace) | `/azeroth sartherisstrandretail` |
+| Sargeron (Desolace) | `/azeroth sargeronretail` |
+| Scrabblescrew's Camp (Desolace) | `/azeroth scrabblescrewscampretail` |
+| Shadowbreak Ravine (Desolace) | `/azeroth shadowbreakravineretail` |
+| Shadowprey Village (Desolace) | `/azeroth shadowpreyvillageretail` |
+| Shok'Thokar (Desolace) | `/azeroth shokthokar` |
+| Slitherblade Shore (Desolace) | `/azeroth slitherbladeshore` |
+| Tethris Aran (Desolace) | `/azeroth tethrisaranretail` |
+| Thargad's Camp (Desolace) | `/azeroth thargadscamp` |
+| The Veiled Sea (Desolace) | `/azeroth theveiledsea2324` |
+| Thunder Axe Fortress (Desolace) | `/azeroth thunderaxefortressretail` |
+| Thunk's Abode (Desolace) | `/azeroth thunksabode` |
+| Valley of Bones (Desolace) | `/azeroth valleyofbonesretail` |
+| Valley of Spears (Desolace) | `/azeroth valleyofspearsretail` |
+
+#### Durotar
+
+| Place | Command |
+|---|---|
+| Durotar | `/azeroth durotarretail` |
+| Bladefist Bay (Durotar) | `/azeroth bladefistbayretail` |
+| Darkspear Strand (Durotar) | `/azeroth darkspearstrandretail` |
+| Deadeye Shore (Durotar) | `/azeroth deadeyeshoreretail` |
+| Drygulch Ravine (Durotar) | `/azeroth drygulchravineretail` |
+| Echo Isles (Durotar) | `/azeroth echoislesretail` |
+| Hidden Path (Durotar) | `/azeroth hiddenpathretail` |
+| Jaggedswine Farm (Durotar) | `/azeroth jaggedswinefarmretail` |
+| Northwatch Foothold (Durotar) | `/azeroth northwatchfoothold` |
+| Razor Hill (Durotar) | `/azeroth razorhillretail` |
+| Razor Hill Outskirts (Durotar) | `/azeroth razorhilloutskirts` |
+| Razor Hill Watchtower (Durotar) | `/azeroth razorhillwatchtower` |
+| Razormane Grounds (Durotar) | `/azeroth razormanegroundsretail` |
+| Razorwind Canyon (Durotar) | `/azeroth razorwindcanyonretail` |
+| Rocktusk Farm (Durotar) | `/azeroth rocktuskfarmretail` |
+| Scuttle Coast (Durotar) | `/azeroth scuttlecoastretail` |
+| Sen'jin Village (Durotar) | `/azeroth senjinvillageretail` |
+| Sen'jin Village Outskirts (Durotar) | `/azeroth senjinvillageoutskirts` |
+| Shrine of the Dormant Flame (Durotar) | `/azeroth shrineofthedormantflameretail` |
+| Skull Rock (Durotar) | `/azeroth skullrockretail` |
+| Southfury River (Durotar) | `/azeroth southfuryriverretail` |
+| Southfury Watershed (Durotar) | `/azeroth southfurywatershed` |
+| Spirit Rock (Durotar) | `/azeroth spiritrockretail` |
+| The Dranosh'ar Blockade (Durotar) | `/azeroth thedranosharblockade` |
+| The Great Sea (Durotar) | `/azeroth thegreatsea2320` |
+| Thunder Ridge (Durotar) | `/azeroth thunderridgeretail` |
+| Tiragarde Keep (Durotar) | `/azeroth tiragardekeepretail` |
+| Tor'kren Farm (Durotar) | `/azeroth torkrenfarmretail` |
+
+#### Dustwallow Marsh
+
+| Place | Command |
+|---|---|
+| Dustwallow Marsh | `/azeroth dustwallowmarshretail` |
+| Alcaz Island (Dustwallow Marsh) | `/azeroth alcazislandretail` |
+| Beezil's Wreck (Dustwallow Marsh) | `/azeroth beezilswreckretail` |
+| Blackhoof Village (Dustwallow Marsh) | `/azeroth blackhoofvillage` |
+| Bloodfen Burrow (Dustwallow Marsh) | `/azeroth bloodfenburrowretail` |
+| Bluefen (Dustwallow Marsh) | `/azeroth bluefenretail` |
+| Brackenwall Village (Dustwallow Marsh) | `/azeroth brackenwallvillageretail` |
+| Darkmist Cavern (Dustwallow Marsh) | `/azeroth darkmistcavernretail` |
+| Direhorn Post (Dustwallow Marsh) | `/azeroth direhornpost` |
+| Dreadmurk Shore (Dustwallow Marsh) | `/azeroth dreadmurkshoreretail` |
+| Dustwallow Bay (Dustwallow Marsh) | `/azeroth dustwallowbayretail` |
+| Lost Point (Dustwallow Marsh) | `/azeroth lostpointretail` |
+| Mudsprocket (Dustwallow Marsh) | `/azeroth mudsprocket` |
+| Nat's Landing (Dustwallow Marsh) | `/azeroth natslanding` |
+| North Point Tower (Dustwallow Marsh) | `/azeroth northpointtowerretail` |
+| Sentry Point (Dustwallow Marsh) | `/azeroth sentrypointretail` |
+| Shady Rest Inn (Dustwallow Marsh) | `/azeroth shadyrestinnretail` |
+| Stonemaul Ruins (Dustwallow Marsh) | `/azeroth stonemaulruinsretail` |
+| Swamplight Manor (Dustwallow Marsh) | `/azeroth swamplightmanorretail` |
+| Tabetha's Farm (Dustwallow Marsh) | `/azeroth tabethasfarm` |
+| The Den of Flame (Dustwallow Marsh) | `/azeroth thedenofflameretail` |
+| The Dragonmurk (Dustwallow Marsh) | `/azeroth thedragonmurkretail` |
+| The Great Sea (Dustwallow Marsh) | `/azeroth thegreatsea2318` |
+| The Quagmire (Dustwallow Marsh) | `/azeroth thequagmireretail` |
+| Theramore Isle (Dustwallow Marsh) | `/azeroth theramoreisleretail` |
+| Tidefury Cove (Dustwallow Marsh) | `/azeroth tidefurycoveretail` |
+| Witch Hill (Dustwallow Marsh) | `/azeroth witchhillretail` |
+| Wyrmbog (Dustwallow Marsh) | `/azeroth wyrmbogretail` |
+
+#### Echo Isles
+
+| Place | Command |
+|---|---|
+| Bloodtalon Shore (Echo Isles) | `/azeroth bloodtalonshore` |
+| Darkspear Hold (Echo Isles) | `/azeroth darkspearhold` |
+| Darkspear Isle (Echo Isles) | `/azeroth darkspearisle` |
+| Darkspear Shore (Echo Isles) | `/azeroth darkspearshore` |
+| Darkspear Training Grounds (Echo Isles) | `/azeroth darkspeartraininggrounds` |
+| Spitescale Cove (Echo Isles) | `/azeroth spitescalecove` |
+| Zalazane's Fall (Echo Isles) | `/azeroth zalazanesfall` |
+
+#### Felwood
+
+| Place | Command |
+|---|---|
+| Felwood | `/azeroth felwoodretail` |
+| Bloodvenom Falls (Felwood) | `/azeroth bloodvenomfallsretail` |
+| Bloodvenom Post  (Felwood) | `/azeroth bloodvenompostretail` |
+| Bloodvenom River (Felwood) | `/azeroth bloodvenomriverretail` |
+| Deadwood Village (Felwood) | `/azeroth deadwoodvillageretail` |
+| Emerald Sanctuary (Felwood) | `/azeroth emeraldsanctuaryretail` |
+| Felpaw Village (Felwood) | `/azeroth felpawvillageretail` |
+| Irontree Clearing (Felwood) | `/azeroth irontreeclearing` |
+| Irontree Woods (Felwood) | `/azeroth irontreewoodsretail` |
+| Jadefire Glen (Felwood) | `/azeroth jadefireglenretail` |
+| Jadefire Run (Felwood) | `/azeroth jadefirerunretail` |
+| Jaedenar (Felwood) | `/azeroth jaedenarretail` |
+| Morlos'Aran (Felwood) | `/azeroth morlosaranretail` |
+| Ruins of Constellas (Felwood) | `/azeroth ruinsofconstellasretail` |
+| Shadowlurk Ridge (Felwood) | `/azeroth shadowlurkridge` |
+| Shatter Scar Vale (Felwood) | `/azeroth shatterscarvaleretail` |
+| Sindweller's Rise (Felwood) | `/azeroth sindwellersrise` |
+| Talonbranch Glade  (Felwood) | `/azeroth talonbranchgladeretail` |
+| Timbermaw Hold (Felwood) | `/azeroth timbermawholdretail` |
+| Whisperwind Grove (Felwood) | `/azeroth whisperwindgrove` |
+| Wildheart Point (Felwood) | `/azeroth wildheartpoint` |
+
+#### Feralas
+
+| Place | Command |
+|---|---|
+| Feralas | `/azeroth feralasretail` |
+| Camp Ataya (Feralas) | `/azeroth campataya` |
+| Camp Mojache (Feralas) | `/azeroth campmojacheretail` |
+| Darkmist Ruins (Feralas) | `/azeroth darkmistruins` |
+| Dire Maul (Feralas) | `/azeroth diremaulretail` |
+| Dream Bough (Feralas) | `/azeroth dreamboughretail` |
+| Dreamer's Rest (Feralas) | `/azeroth dreamersrest` |
+| Feathermoon Stronghold (Feralas) | `/azeroth feathermoonstrongholdretail` |
+| Feral Scar Vale (Feralas) | `/azeroth feralscarvaleretail` |
+| Frayfeather Highlands (Feralas) | `/azeroth frayfeatherhighlandsretail` |
+| Gordunni Outpost (Feralas) | `/azeroth gordunnioutpostretail` |
+| Grimtotem Compound (Feralas) | `/azeroth grimtotemcompoundretail` |
+| High Wilderness (Feralas) | `/azeroth highwildernessretail` |
+| Isle of Dread (Feralas) | `/azeroth isleofdreadretail` |
+| Jademir Lake (Feralas) | `/azeroth jademirlakeretail` |
+| Lake Dumont (Feralas) | `/azeroth lakedumont` |
+| Lariss Pavilion (Feralas) | `/azeroth larisspavilionretail` |
+| Lower Wilds (Feralas) | `/azeroth lowerwildsretail` |
+| New Thalanaar (Feralas) | `/azeroth newthalanaar` |
+| Oneiros (Feralas) | `/azeroth oneirosretail` |
+| Rage Scar Hold (Feralas) | `/azeroth ragescarholdretail` |
+| Ruins of Feathermoon (Feralas) | `/azeroth ruinsoffeathermoon` |
+| Ruins of Isildien (Feralas) | `/azeroth ruinsofisildienretail` |
+| Ruins of Ravenwind (Feralas) | `/azeroth ruinsofravenwindretail` |
+| Ruins of Solarsal (Feralas) | `/azeroth ruinsofsolarsalretail` |
+| Sardor Isle (Feralas) | `/azeroth sardorisleretail` |
+| Shadebough (Feralas) | `/azeroth shadebough` |
+| Stonemaul Hold (Feralas) | `/azeroth stonemaulhold` |
+| Thalanaar (Feralas) | `/azeroth thalanaarretail` |
+| The Emerald Summit (Feralas) | `/azeroth theemeraldsummit` |
+| The Forgotten Coast (Feralas) | `/azeroth theforgottencoastretail` |
+| The Maul (Feralas) | `/azeroth themaulretail` |
+| The Steam Pools (Feralas) | `/azeroth thesteampools` |
+| The Twin Colossals (Feralas) | `/azeroth thetwincolossalsretail` |
+| The Veiled Sea (Feralas) | `/azeroth theveiledsea2323` |
+| The Writhing Deep (Feralas) | `/azeroth thewrithingdeepretail` |
+| Tower of Estulan (Feralas) | `/azeroth towerofestulan` |
+| Verdantis River (Feralas) | `/azeroth verdantisriverretail` |
+| Wildwind Lake (Feralas) | `/azeroth wildwindlakeretail` |
+| Woodpaw Den (Feralas) | `/azeroth woodpawdenretail` |
+| Woodpaw Hills (Feralas) | `/azeroth woodpawhillsretail` |
+
+#### Moonglade
+
+| Place | Command |
+|---|---|
+| Moonglade | `/azeroth moongladeretail` |
+| Lake Elune'ara (Moonglade) | `/azeroth lakeeluneararetail` |
+| Nighthaven (Moonglade) | `/azeroth nighthavenretail` |
+| Shrine of Remulos (Moonglade) | `/azeroth shrineofremulosretail` |
+| Stormrage Barrow Dens (Moonglade) | `/azeroth stormragebarrowdensretail` |
+
+#### Mount Hyjal
+
+| Place | Command |
+|---|---|
+| Mount Hyjal | `/azeroth mounthyjal` |
+| Ascendant's Rise (Mount Hyjal) | `/azeroth ascendantsrise` |
+| Ashen Lake (Mount Hyjal) | `/azeroth ashenlake` |
+| Blackhorn's Penance (Mount Hyjal) | `/azeroth blackhornspenance` |
+| Darkwhisper Gorge (Mount Hyjal) | `/azeroth darkwhispergorgeretail` |
+| Darkwhisper Pass (Mount Hyjal) | `/azeroth darkwhisperpass` |
+| Doom's Vigil (Mount Hyjal) | `/azeroth doomsvigil` |
+| Gar'gol's Hovel (Mount Hyjal) | `/azeroth gargolshovel` |
+| Gates of Sothann (Mount Hyjal) | `/azeroth gatesofsothann` |
+| Grove of Aessina (Mount Hyjal) | `/azeroth groveofaessina` |
+| Hyjal Barrow Dens (Mount Hyjal) | `/azeroth hyjalbarrowdens` |
+| Lake Edunel (Mount Hyjal) | `/azeroth lakeedunel` |
+| Leyara's Sorrow (Mount Hyjal) | `/azeroth leyarassorrow` |
+| Lightning Ledge (Mount Hyjal) | `/azeroth lightningledge` |
+| Maw of Lycanthoth (Mount Hyjal) | `/azeroth mawoflycanthoth` |
+| Nordrassil (Mount Hyjal) | `/azeroth nordrassil` |
+| Nordune Ridge (Mount Hyjal) | `/azeroth norduneridge` |
+| Rim of the World (Mount Hyjal) | `/azeroth rimoftheworld` |
+| Ruins of Lar'donir (Mount Hyjal) | `/azeroth ruinsoflardonir` |
+| Sanctuary of Malorne (Mount Hyjal) | `/azeroth sanctuaryofmalorne` |
+| Seat of the Chosen (Mount Hyjal) | `/azeroth seatofthechosen` |
+| Sethria's Roost (Mount Hyjal) | `/azeroth sethriasroost` |
+| Shrine of Aviana (Mount Hyjal) | `/azeroth shrineofavianaretail` |
+| Shrine of Goldrinn (Mount Hyjal) | `/azeroth shrineofgoldrinn` |
+| Sulfuron Spire (Mount Hyjal) | `/azeroth sulfuronspire` |
+| The Circle of Cinders (Mount Hyjal) | `/azeroth thecircleofcinders` |
+| The Forge of Supplication (Mount Hyjal) | `/azeroth theforgeofsupplication` |
+| The Regrowth (Mount Hyjal) | `/azeroth theregrowth` |
+| The Scorched Plain (Mount Hyjal) | `/azeroth thescorchedplain` |
+| The Throne of Flame (Mount Hyjal) | `/azeroth thethroneofflame` |
+| The Tranquil Grove (Mount Hyjal) | `/azeroth thetranquilgrove` |
+| The Twilight Gauntlet (Mount Hyjal) | `/azeroth thetwilightgauntlet` |
+| The Verdant Thicket (Mount Hyjal) | `/azeroth theverdantthicket` |
+| Twilight Command Post (Mount Hyjal) | `/azeroth twilightcommandpost` |
+| Whistling Grove (Mount Hyjal) | `/azeroth whistlinggrove` |
+| Wolf's Run (Mount Hyjal) | `/azeroth wolfsrun` |
+
+#### Mulgore
+
+| Place | Command |
+|---|---|
+| Mulgore | `/azeroth mulgoreretail` |
+| Bael'dun Digsite (Mulgore) | `/azeroth baeldundigsiteretail` |
+| Bloodhoof Village (Mulgore) | `/azeroth bloodhoofvillageretail` |
+| Camp Sungraze (Mulgore) | `/azeroth campsungraze` |
+| Palemane Rock (Mulgore) | `/azeroth palemanerockretail` |
+| Ravaged Caravan (Mulgore) | `/azeroth ravagedcaravanretail` |
+| Red Rocks (Mulgore) | `/azeroth redrocksretail` |
+| Stonebull Lake (Mulgore) | `/azeroth stonebulllakeretail` |
+| Stonetalon Pass (Mulgore) | `/azeroth stonetalonpass4836` |
+| The Golden Plains (Mulgore) | `/azeroth thegoldenplainsretail` |
+| The Rolling Plains (Mulgore) | `/azeroth therollingplainsretail` |
+| The Venture Co. Mine (Mulgore) | `/azeroth theventurecomineretail` |
+| Thunderhorn Water Well (Mulgore) | `/azeroth thunderhornwaterwellretail` |
+| Wildmane Water Well (Mulgore) | `/azeroth wildmanewaterwellretail` |
+| Windfury Ridge (Mulgore) | `/azeroth windfuryridgeretail` |
+| Winterhoof Water Well (Mulgore) | `/azeroth winterhoofwaterwellretail` |
+
+#### Northern Barrens
+
+| Place | Command |
+|---|---|
+| Northern Barrens | `/azeroth northernbarrens` |
+| Boulder Lode Mine (Northern Barrens) | `/azeroth boulderlodemineretail` |
+| Darsok's Outpost (Northern Barrens) | `/azeroth darsoksoutpost` |
+| Dreadmist Camp (Northern Barrens) | `/azeroth dreadmistcamp` |
+| Dreadmist Peak (Northern Barrens) | `/azeroth dreadmistpeakretail` |
+| Far Watch Post (Northern Barrens) | `/azeroth farwatchpostretail` |
+| Fray Island (Northern Barrens) | `/azeroth frayislandretail` |
+| Gold Road (Northern Barrens) | `/azeroth goldroadretail` |
+| Grol'dom Farm (Northern Barrens) | `/azeroth groldomfarmretail` |
+| Lushwater Oasis (Northern Barrens) | `/azeroth lushwateroasisretail` |
+| Mor'shan Base Camp (Northern Barrens) | `/azeroth morshanbasecampretail` |
+| Nozzlepot's Outpost (Northern Barrens) | `/azeroth nozzlepotsoutpost` |
+| Ratchet (Northern Barrens) | `/azeroth ratchetretail` |
+| Shrine of the Fallen Warrior (Northern Barrens) | `/azeroth shrineofthefallenwarriorretail` |
+| Southfury River (Northern Barrens) | `/azeroth southfuryriver815` |
+| The Crossroads (Northern Barrens) | `/azeroth thecrossroadsretail` |
+| The Dry Hills (Northern Barrens) | `/azeroth thedryhillsretail` |
+| The Forgotten Pools (Northern Barrens) | `/azeroth theforgottenpoolsretail` |
+| The Great Sea (Northern Barrens) | `/azeroth thegreatsea2319` |
+| The Merchant Coast (Northern Barrens) | `/azeroth themerchantcoastretail` |
+| The Mor'shan Rampart (Northern Barrens) | `/azeroth themorshanrampartretail` |
+| The Sludge Fen (Northern Barrens) | `/azeroth thesludgefenretail` |
+| The Stagnant Oasis (Northern Barrens) | `/azeroth thestagnantoasisretail` |
+| The Tidus Stair (Northern Barrens) | `/azeroth thetidusstairretail` |
+| Thorn Hill (Northern Barrens) | `/azeroth thornhillretail` |
+
+#### Orgrimmar
+
+| Place | Command |
+|---|---|
+| Orgrimmar | `/azeroth orgrimmarretail` |
+| Orgrimmar Embassy (Orgrimmar) | `/azeroth orgrimmarembassy` |
+| The Drag (Orgrimmar) | `/azeroth thedrag` |
+| The Western Earthshrine (Orgrimmar) | `/azeroth thewesternearthshrine` |
+| Valley of Honor (Orgrimmar) | `/azeroth valleyofhonor` |
+| Valley of Spirits (Orgrimmar) | `/azeroth valleyofspirits` |
+| Valley of Strength (Orgrimmar) | `/azeroth valleyofstrength` |
+| Valley of Wisdom (Orgrimmar) | `/azeroth valleyofwisdom` |
+
+#### Shadowglen
+
+| Place | Command |
+|---|---|
+| Aldrassil (Shadowglen) | `/azeroth aldrassilretail` |
+| Shadowglen (Shadowglen) | `/azeroth shadowglenretail` |
+
+#### Silithus
+
+| Place | Command |
+|---|---|
+| Silithus | `/azeroth silithusretail` |
+| Bones of Grakkarond (Silithus) | `/azeroth bonesofgrakkarondretail` |
+| Bronzebeard Encampment (Silithus) | `/azeroth bronzebeardencampmentretail` |
+| Cenarion Hold (Silithus) | `/azeroth cenarionholdretail` |
+| Hive'Ashi (Silithus) | `/azeroth hiveashiretail` |
+| Hive'Regal (Silithus) | `/azeroth hiveregalretail` |
+| Hive'Zora (Silithus) | `/azeroth hivezoraretail` |
+| Ravaged Twilight Camp (Silithus) | `/azeroth ravagedtwilightcampretail` |
+| Southwind Village (Silithus) | `/azeroth southwindvillageretail` |
+| Staghelm Point (Silithus) | `/azeroth staghelmpointretail` |
+| The Crystal Vale (Silithus) | `/azeroth thecrystalvaleretail` |
+| The Scarab Dais (Silithus) | `/azeroth thescarabdaisretail` |
+| The Scarab Wall (Silithus) | `/azeroth thescarabwallretail` |
+| The Swarming Pillar (Silithus) | `/azeroth theswarmingpillarretail` |
+| The Veiled Sea (Silithus) | `/azeroth theveiledsea2477` |
+| Twilight Base Camp (Silithus) | `/azeroth twilightbasecampretail` |
+| Twilight Outpost (Silithus) | `/azeroth twilightoutpostretail` |
+| Twilight Post (Silithus) | `/azeroth twilightpostretail` |
+| Valor's Rest (Silithus) | `/azeroth valorsrestretail` |
+
+#### Southern Barrens
+
+| Place | Command |
+|---|---|
+| Southern Barrens | `/azeroth southernbarrensretail` |
+| Bael Modan (Southern Barrens) | `/azeroth baelmodanretail` |
+| Bael Modan Excavation (Southern Barrens) | `/azeroth baelmodanexcavation` |
+| Battlescar (Southern Barrens) | `/azeroth battlescar` |
+| Camp Una'fe (Southern Barrens) | `/azeroth campunafe` |
+| Desolation Hold (Southern Barrens) | `/azeroth desolationhold` |
+| Fields of Blood (Southern Barrens) | `/azeroth fieldsofblood` |
+| Firestone Point (Southern Barrens) | `/azeroth firestonepoint` |
+| Fort Triumph (Southern Barrens) | `/azeroth forttriumph` |
+| Forward Command (Southern Barrens) | `/azeroth forwardcommand` |
+| Frazzlecraz Motherlode (Southern Barrens) | `/azeroth frazzlecrazmotherlode` |
+| Honor's Stand (Southern Barrens) | `/azeroth honorsstandretail` |
+| Hunter's Hill (Southern Barrens) | `/azeroth huntershill` |
+| Northwatch Hold (Southern Barrens) | `/azeroth northwatchholdretail` |
+| Overgrown Camp (Southern Barrens) | `/azeroth overgrowncamp` |
+| Ruins of Taurajo (Southern Barrens) | `/azeroth ruinsoftaurajo` |
+| Spearhead (Southern Barrens) | `/azeroth spearhead` |
+| Stonetalon Pass (Southern Barrens) | `/azeroth stonetalonpass` |
+| Teegan's Expedition (Southern Barrens) | `/azeroth teegansexpedition` |
+| The Great Divide (Southern Barrens) | `/azeroth thegreatdivide` |
+| The Great Divide (Southern Barrens) | `/azeroth thegreatdivide5839` |
+| The Great Gate (Southern Barrens) | `/azeroth thegreatgate` |
+| The High Road (Southern Barrens) | `/azeroth thehighroadretail` |
+| The Nightmare Scar (Southern Barrens) | `/azeroth thenightmarescar` |
+| The Overgrowth (Southern Barrens) | `/azeroth theovergrowth` |
+| Twinbraid's Patrol (Southern Barrens) | `/azeroth twinbraidspatrol` |
+| Vendetta Point (Southern Barrens) | `/azeroth vendettapoint` |
+
+#### Stonetalon Mountains
+
+| Place | Command |
+|---|---|
+| Stonetalon Mountains | `/azeroth stonetalonmountainsretail` |
+| Battlescar Valley (Stonetalon Mountains) | `/azeroth battlescarvalley` |
+| Blackwolf River (Stonetalon Mountains) | `/azeroth blackwolfriverretail` |
+| Boulderslide Ravine (Stonetalon Mountains) | `/azeroth boulderslideravineretail` |
+| Camp Aparaje (Stonetalon Mountains) | `/azeroth campaparajeretail` |
+| Cliffwalker Post (Stonetalon Mountains) | `/azeroth cliffwalkerpost` |
+| Cragpool Lake (Stonetalon Mountains) | `/azeroth cragpoollakeretail` |
+| Dagger Pass (Stonetalon Mountains) | `/azeroth daggerpass` |
+| Farwatcher's Glen (Stonetalon Mountains) | `/azeroth farwatchersglen` |
+| Greatwood Vale (Stonetalon Mountains) | `/azeroth greatwoodvaleretail` |
+| Grimtotem Post (Stonetalon Mountains) | `/azeroth grimtotempostretail` |
+| Krom'gar Fortress (Stonetalon Mountains) | `/azeroth kromgarfortress` |
+| Malaka'jin (Stonetalon Mountains) | `/azeroth malakajinretail` |
+| Mirkfallon Lake (Stonetalon Mountains) | `/azeroth mirkfallonlakeretail` |
+| Mirkfallon Post (Stonetalon Mountains) | `/azeroth mirkfallonpost` |
+| Northwatch Expedition Base Camp (Stonetalon Mountains) | `/azeroth northwatchexpeditionbasecamp` |
+| Ruins of Eldre'thar (Stonetalon Mountains) | `/azeroth ruinsofeldrethar` |
+| Sishir Canyon (Stonetalon Mountains) | `/azeroth sishircanyonretail` |
+| Stonetalon Peak (Stonetalon Mountains) | `/azeroth stonetalonpeakretail` |
+| Sun Rock Retreat (Stonetalon Mountains) | `/azeroth sunrockretreatretail` |
+| Talondeep Pass (Stonetalon Mountains) | `/azeroth talondeeppass` |
+| Thal'darah Grove (Stonetalon Mountains) | `/azeroth thaldarahgrove` |
+| Thal'darah Overlook (Stonetalon Mountains) | `/azeroth thaldarahoverlook` |
+| The Charred Vale (Stonetalon Mountains) | `/azeroth thecharredvaleretail` |
+| The Fold (Stonetalon Mountains) | `/azeroth thefold` |
+| The Sludgewerks (Stonetalon Mountains) | `/azeroth thesludgewerks` |
+| The Talon Den (Stonetalon Mountains) | `/azeroth thetalondenretail` |
+| Trueshot Point (Stonetalon Mountains) | `/azeroth trueshotpoint` |
+| Unearthed Grounds (Stonetalon Mountains) | `/azeroth unearthedgrounds` |
+| Webwinder Hollow (Stonetalon Mountains) | `/azeroth webwinderhollow` |
+| Webwinder Path (Stonetalon Mountains) | `/azeroth webwinderpathretail` |
+| Windshear Crag (Stonetalon Mountains) | `/azeroth windshearcragretail` |
+| Windshear Heights (Stonetalon Mountains) | `/azeroth windshearheights` |
+| Windshear Hold (Stonetalon Mountains) | `/azeroth windshearhold` |
+| Windshear Mine (Stonetalon Mountains) | `/azeroth windshearmine` |
+| Windshear Valley (Stonetalon Mountains) | `/azeroth windshearvalley` |
+
+#### Tanaris
+
+| Place | Command |
+|---|---|
+| Tanaris | `/azeroth tanarisretail` |
+| Abyssal Sands (Tanaris) | `/azeroth abyssalsandsretail` |
+| Bootlegger Outpost (Tanaris) | `/azeroth bootleggeroutpost` |
+| Broken Pillar (Tanaris) | `/azeroth brokenpillarretail` |
+| Caverns of Time (Tanaris) | `/azeroth cavernsoftimeretail` |
+| Dawnrise Expedition (Tanaris) | `/azeroth dawnriseexpedition` |
+| Dunemaul Compound (Tanaris) | `/azeroth dunemaulcompoundretail` |
+| Dunemaul Recruitment Camp (Tanaris) | `/azeroth dunemaulrecruitmentcamp` |
+| Eastmoon Ruins (Tanaris) | `/azeroth eastmoonruinsretail` |
+| Gadgetzan (Tanaris) | `/azeroth gadgetzanretail` |
+| Land's End Beach (Tanaris) | `/azeroth landsendbeachretail` |
+| Lost Rigger Cove (Tanaris) | `/azeroth lostriggercoveretail` |
+| Noonshade Ruins (Tanaris) | `/azeroth noonshaderuinsretail` |
+| Ruins of Uldum (Tanaris) | `/azeroth ruinsofuldum` |
+| Sandsorrow Watch (Tanaris) | `/azeroth sandsorrowwatchretail` |
+| South Seas (Tanaris) | `/azeroth southseasretail9001` |
+| Southbreak Shore (Tanaris) | `/azeroth southbreakshoreretail` |
+| Southmoon Ruins (Tanaris) | `/azeroth southmoonruinsretail` |
+| Steamwheedle Port (Tanaris) | `/azeroth steamwheedleportretail` |
+| Steelspark Station (Tanaris) | `/azeroth steelsparkstation` |
+| The Deserted Workshop (Tanaris) | `/azeroth thedesertedworkshop` |
+| The Gaping Chasm (Tanaris) | `/azeroth thegapingchasmretail` |
+| The Noxious Lair (Tanaris) | `/azeroth thenoxiouslairretail` |
+| Thistleshrub Valley (Tanaris) | `/azeroth thistleshrubvalleyretail` |
+| Valley of the Watchers (Tanaris) | `/azeroth valleyofthewatchersretail` |
+| Waterspring Field (Tanaris) | `/azeroth waterspringfieldretail` |
+| Wavestrider Beach (Tanaris) | `/azeroth wavestriderbeachretail` |
+| Zalashji's Den (Tanaris) | `/azeroth zalashjisdenretail` |
+| Zul'Farrak (Tanaris) | `/azeroth zulfarrakretail` |
+
+#### Teldrassil
+
+| Place | Command |
+|---|---|
+| Teldrassil | `/azeroth teldrassilretail` |
+| Ban'ethil Hollow (Teldrassil) | `/azeroth banethilhollowretail` |
+| Dolanaar (Teldrassil) | `/azeroth dolanaarretail` |
+| Gnarlpine Hold (Teldrassil) | `/azeroth gnarlpineholdretail` |
+| Lake Al'Ameth (Teldrassil) | `/azeroth lakealamethretail` |
+| Pools of Arlithrien (Teldrassil) | `/azeroth poolsofarlithrienretail` |
+| Rut'theran Village (Teldrassil) | `/azeroth ruttheranvillageretail` |
+| Starbreeze Village (Teldrassil) | `/azeroth starbreezevillageretail` |
+| The Cleft (Teldrassil) | `/azeroth thecleftretail` |
+| The Oracle Glade (Teldrassil) | `/azeroth theoraclegladeretail` |
+| The Veiled Sea (Teldrassil) | `/azeroth theveiledsearetail` |
+| Wellspring Hovel (Teldrassil) | `/azeroth wellspringhovel` |
+| Wellspring Lake (Teldrassil) | `/azeroth wellspringlakeretail` |
+| Wellspring River (Teldrassil) | `/azeroth wellspringriverretail` |
+
+#### Thousand Needles
+
+| Place | Command |
+|---|---|
+| Thousand Needles | `/azeroth thousandneedlesretail` |
+| Arikara's Needle (Thousand Needles) | `/azeroth arikarasneedle` |
+| Darkcloud Pinnacle (Thousand Needles) | `/azeroth darkcloudpinnacleretail` |
+| Freewind Post (Thousand Needles) | `/azeroth freewindpostretail` |
+| Highperch (Thousand Needles) | `/azeroth highperchretail` |
+| Mirage Abyss (Thousand Needles) | `/azeroth mirageabyss` |
+| Raceway Ruins (Thousand Needles) | `/azeroth racewayruins` |
+| Razorfen Downs (Thousand Needles) | `/azeroth razorfendownsretail` |
+| Southsea Holdfast (Thousand Needles) | `/azeroth southseaholdfast` |
+| Splithoof Crag (Thousand Needles) | `/azeroth splithoofcragretail` |
+| Splithoof Heights (Thousand Needles) | `/azeroth splithoofheights` |
+| Sunken Dig Site (Thousand Needles) | `/azeroth sunkendigsite` |
+| The Great Lift (Thousand Needles) | `/azeroth thegreatliftretail` |
+| The Shimmering Deep (Thousand Needles) | `/azeroth theshimmeringdeep` |
+| The Twilight Withering (Thousand Needles) | `/azeroth thetwilightwithering` |
+| Tirth's Haunt (Thousand Needles) | `/azeroth tirthshaunt` |
+| Twilight Aerie (Thousand Needles) | `/azeroth twilightaerie` |
+| Twilight Bulwark (Thousand Needles) | `/azeroth twilightbulwark` |
+| Westreach Summit (Thousand Needles) | `/azeroth westreachsummit` |
+| Whitereach Post (Thousand Needles) | `/azeroth whitereachpostretail` |
+
+#### Thunder Bluff
+
+| Place | Command |
+|---|---|
+| Elder Rise (Thunder Bluff) | `/azeroth elderriseretail` |
+| Hunter Rise (Thunder Bluff) | `/azeroth hunterriseretail` |
+| Spirit Rise (Thunder Bluff) | `/azeroth spiritriseretail` |
+| Thunder Bluff (Thunder Bluff) | `/azeroth thunderbluffretail` |
+
+#### Uldum
+
+| Place | Command |
+|---|---|
+| Uldum | `/azeroth uldumretail` |
+| Akhenet Fields (Uldum) | `/azeroth akhenetfields` |
+| Arsad Trade Post (Uldum) | `/azeroth arsadtradepost` |
+| Bluff of the South Wind (Uldum) | `/azeroth bluffofthesouthwind` |
+| Cradle of the Ancients (Uldum) | `/azeroth cradleoftheancients` |
+| Gate of Hamatep (Uldum) | `/azeroth gateofhamatep` |
+| Halls of Origination (Uldum) | `/azeroth hallsoforigination outside` |
+| Keset Pass (Uldum) | `/azeroth kesetpass` |
+| Khartut's Tomb (Uldum) | `/azeroth khartutstomb` |
+| Lost City of the Tol'vir (Uldum) | `/azeroth lostcityofthetolvir outside` |
+| Maker's Ascent (Uldum) | `/azeroth makersascent` |
+| Mar'at (Uldum) | `/azeroth marat` |
+| Mount Akher (Uldum) | `/azeroth mountakher` |
+| Nahom (Uldum) | `/azeroth nahom` |
+| Neferset City (Uldum) | `/azeroth nefersetcity` |
+| Neferset City Outskirts (Uldum) | `/azeroth nefersetcityoutskirts` |
+| Oasis of Vir'sar (Uldum) | `/azeroth oasisofvirsar` |
+| Obelisk of the Moon (Uldum) | `/azeroth obeliskofthemoon` |
+| Obelisk of the Stars (Uldum) | `/azeroth obeliskofthestars` |
+| Obelisk of the Sun (Uldum) | `/azeroth obeliskofthesun` |
+| Orsis (Uldum) | `/azeroth orsis` |
+| Pilgrim's Precipice (Uldum) | `/azeroth pilgrimsprecipice` |
+| Ramkahen (Uldum) | `/azeroth ramkahen` |
+| Ramkahen Legion Outpost (Uldum) | `/azeroth ramkahenlegionoutpost` |
+| Ruins of Ahmtul (Uldum) | `/azeroth ruinsofahmtul` |
+| Ruins of Ammon (Uldum) | `/azeroth ruinsofammon` |
+| Ruins of Khintaset (Uldum) | `/azeroth ruinsofkhintaset` |
+| Sahket Wastes (Uldum) | `/azeroth sahketwastes` |
+| Schnottz's Landing (Uldum) | `/azeroth schnottzslanding` |
+| Seal of the Sun King (Uldum) | `/azeroth sealofthesunking` |
+| Sullah's Sideshow (Uldum) | `/azeroth sullahssideshow` |
+| Sunstone Terrace (Uldum) | `/azeroth sunstoneterrace` |
+| Sunwatcher's Ridge (Uldum) | `/azeroth sunwatchersridge` |
+| Surveyors' Outpost (Uldum) | `/azeroth surveyorsoutpost` |
+| Tahret Grounds (Uldum) | `/azeroth tahretgrounds` |
+| Temple of Uldum (Uldum) | `/azeroth templeofuldum` |
+| The Cursed Landing (Uldum) | `/azeroth thecursedlanding` |
+| The Gate of Unending Cycles (Uldum) | `/azeroth thegateofunendingcycles` |
+| The Pit of Scales (Uldum) | `/azeroth thepitofscales` |
+| The Steps of Fate (Uldum) | `/azeroth thestepsoffate` |
+| The Trail of Devastation (Uldum) | `/azeroth thetrailofdevastation` |
+| Tomb of the Sun King (Uldum) | `/azeroth tombofthesunking` |
+| Tombs of the Precursors (Uldum) | `/azeroth tombsoftheprecursors` |
+| Vir'naal Dam (Uldum) | `/azeroth virnaaldam` |
+| Vir'naal Lake (Uldum) | `/azeroth virnaallake` |
+| Vir'naal Oasis (Uldum) | `/azeroth virnaaloasis` |
+| Vir'naal River (Uldum) | `/azeroth virnaalriver` |
+| Vir'naal River Delta (Uldum) | `/azeroth virnaalriverdelta` |
+
+#### Un'Goro Crater
+
+| Place | Command |
+|---|---|
+| Un'Goro Crater | `/azeroth ungorocraterretail` |
+| Fire Plume Ridge (Un'Goro Crater) | `/azeroth fireplumeridgeretail` |
+| Fungal Rock (Un'Goro Crater) | `/azeroth fungalrockretail` |
+| Golakka Hot Springs (Un'Goro Crater) | `/azeroth golakkahotspringsretail` |
+| Ironstone Plateau (Un'Goro Crater) | `/azeroth ironstoneplateauretail` |
+| Lakkari Tar Pits (Un'Goro Crater) | `/azeroth lakkaritarpitsretail` |
+| Marshal's Refuge (Un'Goro Crater) | `/azeroth marshalsrefugeretail` |
+| Marshal's Stand (Un'Goro Crater) | `/azeroth marshalsstand` |
+| Mossy Pile (Un'Goro Crater) | `/azeroth mossypile` |
+| Terror Run (Un'Goro Crater) | `/azeroth terrorrunretail` |
+| The Marshlands (Un'Goro Crater) | `/azeroth themarshlandsretail` |
+| The Roiling Gardens (Un'Goro Crater) | `/azeroth theroilinggardens` |
+| The Screaming Reaches (Un'Goro Crater) | `/azeroth thescreamingreaches` |
+| The Shaper's Terrace (Un'Goro Crater) | `/azeroth theshapersterraceretail` |
+| The Slithering Scar (Un'Goro Crater) | `/azeroth theslitheringscarretail` |
+| Waygate (Un'Goro Crater) | `/azeroth waygateretail` |
+
+#### Valley of Trials
+
+| Place | Command |
+|---|---|
+| Valley of Trials (Valley of Trials) | `/azeroth valleyoftrialsretail` |
+
+#### Winterspring
+
+| Place | Command |
+|---|---|
+| Winterspring | `/azeroth winterspringretail` |
+| Beryl Egress (Winterspring) | `/azeroth berylegress` |
+| Darkwhisper Gorge (Winterspring) | `/azeroth darkwhispergorge2256` |
+| Dun Mandarr (Winterspring) | `/azeroth dunmandarrretail` |
+| Everlook (Winterspring) | `/azeroth everlookretail` |
+| Frostfire Hot Springs (Winterspring) | `/azeroth frostfirehotspringsretail` |
+| Frostsaber Rock (Winterspring) | `/azeroth frostsaberrockretail` |
+| Frostwhisper Gorge (Winterspring) | `/azeroth frostwhispergorgeretail` |
+| Goodgrub Smoking Pit (Winterspring) | `/azeroth goodgrubsmokingpit` |
+| Ice Thistle Hills (Winterspring) | `/azeroth icethistlehillsretail` |
+| Lake Kel'Theril (Winterspring) | `/azeroth lakekeltherilretail` |
+| Mazthoril (Winterspring) | `/azeroth mazthorilretail` |
+| Owl Wing Thicket (Winterspring) | `/azeroth owlwingthicketretail` |
+| Snowden Chalet (Winterspring) | `/azeroth snowdenchalet` |
+| Starfall Village (Winterspring) | `/azeroth starfallvillageretail` |
+| The Great Sea (Winterspring) | `/azeroth thegreatsea5979` |
+| The Great Sea (Winterspring) | `/azeroth thegreatsea332` |
+| The Hidden Grove (Winterspring) | `/azeroth thehiddengroveretail` |
+| The Ruins of Kel'Theril (Winterspring) | `/azeroth theruinsofkeltherilretail` |
+| Timbermaw Post (Winterspring) | `/azeroth timbermawpostretail` |
+| Winterfall Village (Winterspring) | `/azeroth winterfallvillageretail` |
+
+### Outland, Eversong and Azuremyst (Retail)
+
+#### Ammen Vale
+
+| Place | Command |
+|---|---|
+| Ammen Fields (Ammen Vale) | `/azeroth ammenfieldsretail` |
+| Ammen Vale (Ammen Vale) | `/azeroth ammenvaleretail` |
+| Crash Site (Ammen Vale) | `/azeroth crashsiteretail` |
+| Nestlewood Hills (Ammen Vale) | `/azeroth nestlewoodhillsretail` |
+| Nestlewood Thicket (Ammen Vale) | `/azeroth nestlewoodthicketretail` |
+| Shadow Ridge (Ammen Vale) | `/azeroth shadowridgeretail` |
+| Silverline Lake (Ammen Vale) | `/azeroth silverlinelakeretail` |
+| The Sacred Grove (Ammen Vale) | `/azeroth thesacredgroveretail` |
+
+#### Azuremyst Isle
+
+| Place | Command |
+|---|---|
+| Azuremyst Isle | `/azeroth azuremystisleretail` |
+| Ammen Ford (Azuremyst Isle) | `/azeroth ammenfordretail` |
+| Azure Watch (Azuremyst Isle) | `/azeroth azurewatchretail` |
+| Bristlelimb Village (Azuremyst Isle) | `/azeroth bristlelimbvillageretail` |
+| Emberglade (Azuremyst Isle) | `/azeroth embergladeretail` |
+| Fairbridge Strand (Azuremyst Isle) | `/azeroth fairbridgestrandretail` |
+| Geezle's Camp (Azuremyst Isle) | `/azeroth geezlescampretail` |
+| Menagerie Wreckage (Azuremyst Isle) | `/azeroth menageriewreckageretail` |
+| Moongraze Woods (Azuremyst Isle) | `/azeroth moongrazewoodsretail` |
+| Moonwing Den (Azuremyst Isle) | `/azeroth moonwingdenretail` |
+| Odesyus' Landing (Azuremyst Isle) | `/azeroth odesyuslandingretail` |
+| Pod Cluster (Azuremyst Isle) | `/azeroth podclusterretail` |
+| Pod Wreckage (Azuremyst Isle) | `/azeroth podwreckageretail` |
+| Silting Shore (Azuremyst Isle) | `/azeroth siltingshoreretail` |
+| Silvermyst Isle (Azuremyst Isle) | `/azeroth silvermystisleretail` |
+| Stillpine Hold (Azuremyst Isle) | `/azeroth stillpineholdretail` |
+| Tides' Hollow (Azuremyst Isle) | `/azeroth tideshollowretail` |
+| Traitor's Cove (Azuremyst Isle) | `/azeroth traitorscoveretail` |
+| Valaar's Berth (Azuremyst Isle) | `/azeroth valaarsberthretail` |
+| Wildwind Path (Azuremyst Isle) | `/azeroth wildwindpathretail` |
+| Wildwind Peak (Azuremyst Isle) | `/azeroth wildwindpeakretail` |
+| Wrathscale Point (Azuremyst Isle) | `/azeroth wrathscalepointretail` |
+
+#### Blade's Edge Mountains
+
+| Place | Command |
+|---|---|
+| Blade's Edge Mountains | `/azeroth bladesedgemountainsretail` |
+| Bash'ir Landing (Blade's Edge Mountains) | `/azeroth bashirlandingretail` |
+| Blackwing Coven (Blade's Edge Mountains) | `/azeroth blackwingcovenretail` |
+| Blade Tooth Canyon (Blade's Edge Mountains) | `/azeroth bladetoothcanyonretail` |
+| Bladed Gulch (Blade's Edge Mountains) | `/azeroth bladedgulchretail` |
+| Blades' Run (Blade's Edge Mountains) | `/azeroth bladesrunretail` |
+| Bladespire Grounds (Blade's Edge Mountains) | `/azeroth bladespiregroundsretail` |
+| Bladespire Hold (Blade's Edge Mountains) | `/azeroth bladespireholdretail` |
+| Bladespire Outpost (Blade's Edge Mountains) | `/azeroth bladespireoutpostretail` |
+| Bloodmaul Camp (Blade's Edge Mountains) | `/azeroth bloodmaulcampretail` |
+| Bloodmaul Outpost (Blade's Edge Mountains) | `/azeroth bloodmauloutpostretail` |
+| Bloodmaul Ravine (Blade's Edge Mountains) | `/azeroth bloodmaulravineretail` |
+| Boulder'mok (Blade's Edge Mountains) | `/azeroth bouldermokretail` |
+| Broken Wilds (Blade's Edge Mountains) | `/azeroth brokenwildsretail` |
+| Churning Gulch (Blade's Edge Mountains) | `/azeroth churninggulchretail` |
+| Circle of Blood (Blade's Edge Mountains) | `/azeroth circleofbloodretail` |
+| Crystal Spine (Blade's Edge Mountains) | `/azeroth crystalspineretail` |
+| Cursed Hollow (Blade's Edge Mountains) | `/azeroth cursedhollowretail` |
+| Daggermaw Canyon (Blade's Edge Mountains) | `/azeroth daggermawcanyonretail` |
+| Death's Door (Blade's Edge Mountains) | `/azeroth deathsdoorretail` |
+| Draenethyst Mine (Blade's Edge Mountains) | `/azeroth draenethystmineretail` |
+| Dragons' End (Blade's Edge Mountains) | `/azeroth dragonsendretail` |
+| Dragonspine Ridge (Blade's Edge Mountains) | `/azeroth dragonspineridgeretail` |
+| Evergrove (Blade's Edge Mountains) | `/azeroth evergroveretail` |
+| Forge Camp: Anger (Blade's Edge Mountains) | `/azeroth forgecampangerretail` |
+| Forge Camp: Terror (Blade's Edge Mountains) | `/azeroth forgecampterrorretail` |
+| Forge Camp: Wrath (Blade's Edge Mountains) | `/azeroth forgecampwrathretail` |
+| Furywing's Perch (Blade's Edge Mountains) | `/azeroth furywingsperchretail` |
+| Grishnath (Blade's Edge Mountains) | `/azeroth grishnathretail` |
+| Gruul's Lair (Blade's Edge Mountains) | `/azeroth gruulslairretail` |
+| Insidion's Perch (Blade's Edge Mountains) | `/azeroth insidionsperchretail` |
+| Jagged Ridge (Blade's Edge Mountains) | `/azeroth jaggedridgeretail` |
+| Mok'Nathal Village (Blade's Edge Mountains) | `/azeroth moknathalvillageretail` |
+| Northmaul Tower (Blade's Edge Mountains) | `/azeroth northmaultowerretail` |
+| Obsidia's Perch (Blade's Edge Mountains) | `/azeroth obsidiasperchretail` |
+| Ogri'la (Blade's Edge Mountains) | `/azeroth ogrilaretail` |
+| Raven's Wood (Blade's Edge Mountains) | `/azeroth ravenswoodretail` |
+| Razaan's Landing (Blade's Edge Mountains) | `/azeroth razaanslandingretail` |
+| Razor Ridge (Blade's Edge Mountains) | `/azeroth razorridgeretail` |
+| Rivendark's Perch (Blade's Edge Mountains) | `/azeroth rivendarksperchretail` |
+| Ruuan Weald (Blade's Edge Mountains) | `/azeroth ruuanwealdretail` |
+| Scalewing Shelf (Blade's Edge Mountains) | `/azeroth scalewingshelfretail` |
+| Shartuul's Transporter (Blade's Edge Mountains) | `/azeroth shartuulstransporterretail` |
+| Singing Ridge (Blade's Edge Mountains) | `/azeroth singingridgeretail` |
+| Skald (Blade's Edge Mountains) | `/azeroth skaldretail` |
+| Skyguard Outpost (Blade's Edge Mountains) | `/azeroth skyguardoutpostretail` |
+| Soulgrinder's Barrow (Blade's Edge Mountains) | `/azeroth soulgrindersbarrowretail` |
+| Southmaul Tower (Blade's Edge Mountains) | `/azeroth southmaultowerretail` |
+| Sylvanaar (Blade's Edge Mountains) | `/azeroth sylvanaarretail` |
+| The Living Grove (Blade's Edge Mountains) | `/azeroth thelivinggroveretail` |
+| Thunderlord Stronghold (Blade's Edge Mountains) | `/azeroth thunderlordstrongholdretail` |
+| Toshley's Station (Blade's Edge Mountains) | `/azeroth toshleysstationretail` |
+| Trogma's Claim (Blade's Edge Mountains) | `/azeroth trogmasclaimretail` |
+| Veil Lashh (Blade's Edge Mountains) | `/azeroth veillashhretail` |
+| Veil Ruuan (Blade's Edge Mountains) | `/azeroth veilruuanretail` |
+| Veil Vekh (Blade's Edge Mountains) | `/azeroth veilvekhretail` |
+| Vekhaar Stand (Blade's Edge Mountains) | `/azeroth vekhaarstandretail` |
+| Vim'gol's Circle (Blade's Edge Mountains) | `/azeroth vimgolscircleretail` |
+| Vortex Summit (Blade's Edge Mountains) | `/azeroth vortexsummit` |
+| Wyrmskull Bridge (Blade's Edge Mountains) | `/azeroth wyrmskullbridgeretail` |
+
+#### Bloodmyst Isle
+
+| Place | Command |
+|---|---|
+| Bloodmyst Isle | `/azeroth bloodmystisleretail` |
+| Amberweb Pass (Bloodmyst Isle) | `/azeroth amberwebpassretail` |
+| Axxarien (Bloodmyst Isle) | `/azeroth axxarienretail` |
+| Beryl Coast (Bloodmyst Isle) | `/azeroth berylcoastretail` |
+| Blacksilt Shore (Bloodmyst Isle) | `/azeroth blacksiltshoreretail` |
+| Bladewood (Bloodmyst Isle) | `/azeroth bladewoodretail` |
+| Blood Watch (Bloodmyst Isle) | `/azeroth bloodwatchretail` |
+| Bloodcurse Isle (Bloodmyst Isle) | `/azeroth bloodcurseisleretail` |
+| Bristlelimb Enclave (Bloodmyst Isle) | `/azeroth bristlelimbenclaveretail` |
+| Kessel's Crossing (Bloodmyst Isle) | `/azeroth kesselscrossingretail` |
+| Middenvale (Bloodmyst Isle) | `/azeroth middenvaleretail` |
+| Mystwood (Bloodmyst Isle) | `/azeroth mystwoodretail` |
+| Nazzivian (Bloodmyst Isle) | `/azeroth nazzivianretail` |
+| Ragefeather Ridge (Bloodmyst Isle) | `/azeroth ragefeatherridgeretail` |
+| Ruins of Loreth'Aran (Bloodmyst Isle) | `/azeroth ruinsofloretharanretail` |
+| Talon Stand (Bloodmyst Isle) | `/azeroth talonstandretail` |
+| Tel'athion's Camp (Bloodmyst Isle) | `/azeroth telathionscampretail` |
+| The Bloodcursed Reef (Bloodmyst Isle) | `/azeroth thebloodcursedreefretail` |
+| The Bloodwash (Bloodmyst Isle) | `/azeroth thebloodwashretail` |
+| The Crimson Reach (Bloodmyst Isle) | `/azeroth thecrimsonreachretail` |
+| The Cryo-Core (Bloodmyst Isle) | `/azeroth thecryocoreretail` |
+| The Foul Pool (Bloodmyst Isle) | `/azeroth thefoulpoolretail` |
+| The Hidden Reef (Bloodmyst Isle) | `/azeroth thehiddenreefretail` |
+| The Lost Fold (Bloodmyst Isle) | `/azeroth thelostfoldretail` |
+| The Vector Coil (Bloodmyst Isle) | `/azeroth thevectorcoilretail` |
+| The Warp Piston (Bloodmyst Isle) | `/azeroth thewarppistonretail` |
+| Veridian Point (Bloodmyst Isle) | `/azeroth veridianpointretail` |
+| Vindicator's Rest (Bloodmyst Isle) | `/azeroth vindicatorsrestretail` |
+| Wrathscale Lair (Bloodmyst Isle) | `/azeroth wrathscalelairretail` |
+| Wyrmscar Island (Bloodmyst Isle) | `/azeroth wyrmscarislandretail` |
+
+#### Burning Crusade
+
+| Place | Command |
+|---|---|
+| Eversong Woods (Burning Crusade) | `/azeroth eversongwoodsburningcrusade` |
+| Silvermoon City (Burning Crusade) | `/azeroth silvermooncityburningcrusade` |
+
+#### Burning Crusade)
+
+| Place | Command |
+|---|---|
+| Azurebreeze Coast (Eversong Woods (Burning Crusade)) | `/azeroth azurebreezecoastretail9530` |
+| Dawning Lane (Eversong Woods (Burning Crusade)) | `/azeroth dawninglaneretail9530` |
+| Duskwither Grounds (Eversong Woods (Burning Crusade)) | `/azeroth duskwithergroundsretail` |
+| East Sanctum (Eversong Woods (Burning Crusade)) | `/azeroth eastsanctumretail9530` |
+| Elrendar Falls (Eversong Woods (Burning Crusade)) | `/azeroth elrendarfallsretail` |
+| Fairbreeze Village (Eversong Woods (Burning Crusade)) | `/azeroth fairbreezevillageretail9530` |
+| Falconwing Square (Eversong Woods (Burning Crusade)) | `/azeroth falconwingsquareretail9530` |
+| Farstrider Retreat (Eversong Woods (Burning Crusade)) | `/azeroth farstriderretreatretail` |
+| Feth's Way (Eversong Woods (Burning Crusade)) | `/azeroth fethswayretail` |
+| Golden Strand (Eversong Woods (Burning Crusade)) | `/azeroth goldenstrandretail` |
+| Goldenbough Pass (Eversong Woods (Burning Crusade)) | `/azeroth goldenboughpassretail9530` |
+| Lake Elrendar (Eversong Woods (Burning Crusade)) | `/azeroth lakeelrendar3473retail` |
+| North Sanctum (Eversong Woods (Burning Crusade)) | `/azeroth northsanctumretail9530` |
+| Ruins of Silvermoon (Eversong Woods (Burning Crusade)) | `/azeroth ruinsofsilvermoonretail` |
+| Runestone Falithas (Eversong Woods (Burning Crusade)) | `/azeroth runestonefalithasretail9530` |
+| Runestone Shan'dor (Eversong Woods (Burning Crusade)) | `/azeroth runestoneshandorretail9530` |
+| Saltheril's Haven (Eversong Woods (Burning Crusade)) | `/azeroth saltherilshavenretail9530` |
+| Skulking Row (Eversong Woods (Burning Crusade)) | `/azeroth skulkingrowretail` |
+| Stillwhisper Pond (Eversong Woods (Burning Crusade)) | `/azeroth stillwhisperpondretail9530` |
+| Sunsail Anchorage (Eversong Woods (Burning Crusade)) | `/azeroth sunsailanchorageretail9530` |
+| The Dead Scar (Eversong Woods (Burning Crusade)) | `/azeroth thedeadscarretail` |
+| The Living Wood (Eversong Woods (Burning Crusade)) | `/azeroth thelivingwoodretail` |
+| The Scorched Grove (Eversong Woods (Burning Crusade)) | `/azeroth thescorchedgroveretail` |
+| Thuron's Livery (Eversong Woods (Burning Crusade)) | `/azeroth thuronsliveryretail9530` |
+| Tor'Watha (Eversong Woods (Burning Crusade)) | `/azeroth torwatharetail9530` |
+| Tranquil Shore (Eversong Woods (Burning Crusade)) | `/azeroth tranquilshoreretail` |
+| West Sanctum (Eversong Woods (Burning Crusade)) | `/azeroth westsanctumretail9530` |
+| Zeb'Watha (Eversong Woods (Burning Crusade)) | `/azeroth zebwatharetail` |
+
+#### Ghostlands
+
+| Place | Command |
+|---|---|
+| Ghostlands | `/azeroth ghostlandsretail` |
+| Amani Catacombs (Ghostlands) | `/azeroth amanicatacombsretail` |
+| Amani Mountains (Ghostlands) | `/azeroth amanimountains` |
+| Amani Pass (Ghostlands) | `/azeroth amanipassretail9530` |
+| An'daroth (Ghostlands) | `/azeroth andarothretail` |
+| An'owyn (Ghostlands) | `/azeroth anowynretail` |
+| An'telas (Ghostlands) | `/azeroth antelasretail` |
+| Andilien Estate (Ghostlands) | `/azeroth andilienestateretail` |
+| Bleeding Ziggurat (Ghostlands) | `/azeroth bleedingzigguratretail` |
+| Dawnstar Spire (Ghostlands) | `/azeroth dawnstarspireretail9530` |
+| Deatholme (Ghostlands) | `/azeroth deatholmeretail` |
+| Elrendar Crossing (Ghostlands) | `/azeroth elrendarcrossingretail` |
+| Elrendar River (Ghostlands) | `/azeroth elrendarriverretail9530` |
+| Farstrider Enclave (Ghostlands) | `/azeroth farstriderenclaveretail9530` |
+| Goldenmist Village (Ghostlands) | `/azeroth goldenmistvillageretail9530` |
+| Hatchet Hills (Ghostlands) | `/azeroth hatchethillsretail` |
+| Howling Ziggurat (Ghostlands) | `/azeroth howlingzigguratretail` |
+| Isle of Tribulations (Ghostlands) | `/azeroth isleoftribulationsretail` |
+| Lake Elrendar (Ghostlands) | `/azeroth lakeelrendarretail9530` |
+| Sanctum of the Moon (Ghostlands) | `/azeroth sanctumofthemoonretail9530` |
+| Sanctum of the Sun (Ghostlands) | `/azeroth sanctumofthesunretail9530` |
+| Shalandis Isle (Ghostlands) | `/azeroth shalandisisleretail` |
+| Suncrown Village (Ghostlands) | `/azeroth suncrownvillageretail9530` |
+| Sungraze Peak (Ghostlands) | `/azeroth sungrazepeakretail` |
+| Thalassian Pass (Ghostlands) | `/azeroth thalassianpassretail9530` |
+| Thalassian Range (Ghostlands) | `/azeroth thalassianrangeretail` |
+| The Dead Scar (Ghostlands) | `/azeroth thedeadscar3514retail` |
+| Tranquillien (Ghostlands) | `/azeroth tranquillienretail9530` |
+| Underlight Mines (Ghostlands) | `/azeroth underlightminesretail` |
+| Windrunner Village (Ghostlands) | `/azeroth windrunnervillageretail9530` |
+| Zeb'Nowa (Ghostlands) | `/azeroth zebnowaretail9530` |
+| Zeb'Sora (Ghostlands) | `/azeroth zebsoraretail` |
+| Zeb'Tela (Ghostlands) | `/azeroth zebtelaretail` |
+
+#### Hellfire Peninsula
+
+| Place | Command |
+|---|---|
+| Hellfire Peninsula | `/azeroth hellfirepeninsularetail` |
+| Broken Hill (Hellfire Peninsula) | `/azeroth brokenhillretail` |
+| Cenarion Post (Hellfire Peninsula) | `/azeroth cenarionpostretail` |
+| Den of Haal'esh (Hellfire Peninsula) | `/azeroth denofhaaleshretail` |
+| Dustquill Ravine (Hellfire Peninsula) | `/azeroth dustquillravineretail` |
+| East Supply Caravan (Hellfire Peninsula) | `/azeroth eastsupplycaravanretail` |
+| Expedition Armory (Hellfire Peninsula) | `/azeroth expeditionarmoryretail` |
+| Expedition Point (Hellfire Peninsula) | `/azeroth expeditionpointretail` |
+| Falcon Watch (Hellfire Peninsula) | `/azeroth falconwatchretail` |
+| Fallen Sky Ridge (Hellfire Peninsula) | `/azeroth fallenskyridgeretail` |
+| Felspark Ravine (Hellfire Peninsula) | `/azeroth felsparkravineretail` |
+| Forge Camp: Mageddon (Hellfire Peninsula) | `/azeroth forgecampmageddonretail` |
+| Forge Camp: Rage (Hellfire Peninsula) | `/azeroth forgecamprageretail` |
+| Gor'gaz Outpost (Hellfire Peninsula) | `/azeroth gorgazoutpostretail` |
+| Haal'eshi Gorge (Hellfire Peninsula) | `/azeroth haaleshigorgeretail` |
+| Hellfire Basin (Hellfire Peninsula) | `/azeroth hellfirebasinretail` |
+| Hellfire Citadel (Hellfire Peninsula) | `/azeroth hellfirecitadelretail` |
+| Honor Hold (Hellfire Peninsula) | `/azeroth honorholdretail` |
+| Invasion Point: Annihilator (Hellfire Peninsula) | `/azeroth invasionpointannihilatorretail` |
+| Mag'har Grounds (Hellfire Peninsula) | `/azeroth maghargroundsretail` |
+| Mag'har Post (Hellfire Peninsula) | `/azeroth magharpostretail` |
+| Northern Rampart (Hellfire Peninsula) | `/azeroth northernrampartretail` |
+| Pools of Aggonar (Hellfire Peninsula) | `/azeroth poolsofaggonarretail` |
+| Razorthorn Trail (Hellfire Peninsula) | `/azeroth razorthorntrailretail` |
+| Reaver's Fall (Hellfire Peninsula) | `/azeroth reaversfallretail` |
+| Ruins of Sha'naar (Hellfire Peninsula) | `/azeroth ruinsofshanaarretail` |
+| Sha'naari Wastes (Hellfire Peninsula) | `/azeroth shanaariwastesretail` |
+| Southern Rampart (Hellfire Peninsula) | `/azeroth southernrampartretail` |
+| Spinebreaker Mountains (Hellfire Peninsula) | `/azeroth spinebreakermountainsretail` |
+| Spinebreaker Pass (Hellfire Peninsula) | `/azeroth spinebreakerpassretail` |
+| Spinebreaker Post (Hellfire Peninsula) | `/azeroth spinebreakerpostretail` |
+| Stonewall Canyon (Hellfire Peninsula) | `/azeroth stonewallcanyonretail` |
+| Supply Caravan (Hellfire Peninsula) | `/azeroth supplycaravanretail` |
+| Temple of Telhamat (Hellfire Peninsula) | `/azeroth templeoftelhamatretail` |
+| The Abyssal Shelf (Hellfire Peninsula) | `/azeroth theabyssalshelfretail` |
+| The Great Fissure (Hellfire Peninsula) | `/azeroth thegreatfissureretail` |
+| The Legion Front (Hellfire Peninsula) | `/azeroth thelegionfrontretail` |
+| The Overlook (Hellfire Peninsula) | `/azeroth theoverlookretail` |
+| The Path of Anguish (Hellfire Peninsula) | `/azeroth thepathofanguishretail` |
+| The Path of Glory (Hellfire Peninsula) | `/azeroth thepathofgloryretail` |
+| The Stadium (Hellfire Peninsula) | `/azeroth thestadiumretail` |
+| The Stair of Destiny (Hellfire Peninsula) | `/azeroth thestairofdestinyretail` |
+| The Warp Fields (Hellfire Peninsula) | `/azeroth thewarpfieldsretail` |
+| Thornfang Hill (Hellfire Peninsula) | `/azeroth thornfanghillretail` |
+| Thrallmar (Hellfire Peninsula) | `/azeroth thrallmarretail` |
+| Throne of Kil'jaeden (Hellfire Peninsula) | `/azeroth throneofkiljaedenretail` |
+| Valley of Bones (Hellfire Peninsula) | `/azeroth valleyofbonesretail9530` |
+| Void Ridge (Hellfire Peninsula) | `/azeroth voidridgeretail` |
+| Zeppelin Crash (Hellfire Peninsula) | `/azeroth zeppelincrashretail` |
+| Zeth'Gor (Hellfire Peninsula) | `/azeroth zethgorretail` |
+
+#### Isle of Quel'Danas
+
+| Place | Command |
+|---|---|
+| Isle of Quel'Danas | `/azeroth isleofqueldanasretail9530` |
+| Dawnstar Village (Isle of Quel'Danas) | `/azeroth dawnstarvillageretail9530` |
+| Greengill Coast (Isle of Quel'Danas) | `/azeroth greengillcoastretail9530` |
+| Magisters' Terrace (Isle of Quel'Danas) | `/azeroth magistersterraceretail9530` |
+| Shattered Sun Staging Area (Isle of Quel'Danas) | `/azeroth shatteredsunstagingarearetail` |
+| Silvermoon's Pride (Isle of Quel'Danas) | `/azeroth silvermoonsprideretail` |
+| Sun's Reach Armory (Isle of Quel'Danas) | `/azeroth sunsreacharmoryretail9530` |
+| Sun's Reach Harbor (Isle of Quel'Danas) | `/azeroth sunsreachharborretail9530` |
+| Sun's Reach Sanctum (Isle of Quel'Danas) | `/azeroth sunsreachsanctumretail9530` |
+| Sunwell Plateau (Isle of Quel'Danas) | `/azeroth sunwellplateauretail` |
+| The Bloodoath (Isle of Quel'Danas) | `/azeroth thebloodoathretail` |
+| The Dawnchaser (Isle of Quel'Danas) | `/azeroth thedawnchaserretail` |
+| The Dawning Square (Isle of Quel'Danas) | `/azeroth thedawningsquareretail` |
+| The Dead Scar (Isle of Quel'Danas) | `/azeroth thedeadscar4092retail` |
+| The Sin'loren (Isle of Quel'Danas) | `/azeroth thesinlorenretail` |
+
+#### Nagrand
+
+| Place | Command |
+|---|---|
+| Nagrand | `/azeroth nagrandretail` |
+| Abandoned Armory (Nagrand) | `/azeroth abandonedarmoryretail` |
+| Aeris Landing (Nagrand) | `/azeroth aerislandingretail` |
+| Ancestral Grounds (Nagrand) | `/azeroth ancestralgroundsretail` |
+| Arena Floor (Nagrand) | `/azeroth arenafloorretail` |
+| Burning Blade Ruins (Nagrand) | `/azeroth burningbladeruinsretail` |
+| Clan Watch (Nagrand) | `/azeroth clanwatchretail` |
+| Elemental Plateau (Nagrand) | `/azeroth elementalplateauretail` |
+| Forge Camp: Fear (Nagrand) | `/azeroth forgecampfearretail` |
+| Forge Camp: Hate (Nagrand) | `/azeroth forgecamphateretail` |
+| Garadar (Nagrand) | `/azeroth garadarretail` |
+| Halaa (Nagrand) | `/azeroth halaaretail` |
+| Halaani Basin (Nagrand) | `/azeroth halaanibasinretail` |
+| Kil'sorrow Fortress (Nagrand) | `/azeroth kilsorrowfortressretail` |
+| Lake Sunspring (Nagrand) | `/azeroth lakesunspringretail` |
+| Laughing Skull Courtyard (Nagrand) | `/azeroth laughingskullcourtyardretail` |
+| Laughing Skull Ruins (Nagrand) | `/azeroth laughingskullruinsretail` |
+| Mag'hari Procession (Nagrand) | `/azeroth maghariprocessionretail` |
+| Nesingwary Safari (Nagrand) | `/azeroth nesingwarysafariretail` |
+| Northwind Cleft (Nagrand) | `/azeroth northwindcleftretail` |
+| Oshu'gun (Nagrand) | `/azeroth oshugunretail` |
+| Skysong Lake (Nagrand) | `/azeroth skysonglakeretail` |
+| Southwind Cleft (Nagrand) | `/azeroth southwindcleftretail` |
+| Spirit Fields (Nagrand) | `/azeroth spiritfieldsretail` |
+| Sunspring Post (Nagrand) | `/azeroth sunspringpostretail` |
+| Telaar (Nagrand) | `/azeroth telaarretail` |
+| Telaari Basin (Nagrand) | `/azeroth telaaribasinretail` |
+| The Barrier Hills (Nagrand) | `/azeroth thebarrierhills3760retail` |
+| The High Path (Nagrand) | `/azeroth thehighpathretail` |
+| The Low Path (Nagrand) | `/azeroth thelowpathretail` |
+| The Ring of Blood (Nagrand) | `/azeroth theringofbloodretail` |
+| The Ring of Trials (Nagrand) | `/azeroth theringoftrialsretail` |
+| The Twilight Ridge (Nagrand) | `/azeroth thetwilightridgeretail` |
+| Throne of the Elements (Nagrand) | `/azeroth throneoftheelementsretail` |
+| Warmaul Hill (Nagrand) | `/azeroth warmaulhillretail` |
+| Windyreed Pass (Nagrand) | `/azeroth windyreedpassretail` |
+| Windyreed Village (Nagrand) | `/azeroth windyreedvillageretail` |
+| Zangar Ridge (Nagrand) | `/azeroth zangarridgeretail` |
+
+#### Netherstorm
+
+| Place | Command |
+|---|---|
+| Netherstorm | `/azeroth netherstormretail` |
+| Access Shaft Zeon (Netherstorm) | `/azeroth accessshaftzeonretail` |
+| Area 52 (Netherstorm) | `/azeroth area52retail` |
+| Arklon Ruins (Netherstorm) | `/azeroth arklonruinsretail` |
+| Arklonis Ridge (Netherstorm) | `/azeroth arklonisridgeretail` |
+| Camp of Boom (Netherstorm) | `/azeroth campofboomretail` |
+| Celestial Ridge (Netherstorm) | `/azeroth celestialridgeretail` |
+| Chapel Yard (Netherstorm) | `/azeroth chapelyardretail` |
+| Cosmowrench (Netherstorm) | `/azeroth cosmowrenchretail` |
+| Eco-Dome Farfield (Netherstorm) | `/azeroth ecodomefarfieldretail` |
+| Eco-Dome Midrealm (Netherstorm) | `/azeroth ecodomemidrealmretail` |
+| Eco-Dome Skyperch (Netherstorm) | `/azeroth ecodomeskyperchretail` |
+| Eco-Dome Sutheron (Netherstorm) | `/azeroth ecodomesutheronretail` |
+| Ethereum Staging Grounds (Netherstorm) | `/azeroth ethereumstaginggroundsretail` |
+| Forge Base: Gehenna (Netherstorm) | `/azeroth forgebasegehennaretail` |
+| Forge Base: Oblivion (Netherstorm) | `/azeroth forgebaseoblivionretail` |
+| Gyro-Plank Bridge (Netherstorm) | `/azeroth gyroplankbridgeretail` |
+| Invasion Point: Destroyer (Netherstorm) | `/azeroth invasionpointdestroyerretail` |
+| Invasion Point: Overlord (Netherstorm) | `/azeroth invasionpointoverlordretail` |
+| Manaforge Ara (Netherstorm) | `/azeroth manaforgeararetail` |
+| Manaforge B'naar (Netherstorm) | `/azeroth manaforgebnaarretail` |
+| Manaforge Coruu (Netherstorm) | `/azeroth manaforgecoruuretail` |
+| Manaforge Duro (Netherstorm) | `/azeroth manaforgeduroretail` |
+| Manaforge Ultris (Netherstorm) | `/azeroth manaforgeultrisretail` |
+| Midrealm Post (Netherstorm) | `/azeroth midrealmpostretail` |
+| Netherstone (Netherstorm) | `/azeroth netherstoneretail` |
+| Protectorate Watch Post (Netherstorm) | `/azeroth protectoratewatchpostretail` |
+| Ruins of Enkaat (Netherstorm) | `/azeroth ruinsofenkaatretail` |
+| Ruins of Farahlon (Netherstorm) | `/azeroth ruinsoffarahlonretail` |
+| Socrethar's Seat (Netherstorm) | `/azeroth socretharsseatretail` |
+| Sunfury Hold (Netherstorm) | `/azeroth sunfuryholdretail` |
+| Tempest Keep (Netherstorm) | `/azeroth tempestkeepretail` |
+| The Crumbling Waste (Netherstorm) | `/azeroth thecrumblingwasteretail` |
+| The Heap (Netherstorm) | `/azeroth theheapretail` |
+| The Proving Grounds (Netherstorm) | `/azeroth theprovinggroundsretail` |
+| The Scrap Field (Netherstorm) | `/azeroth thescrapfieldretail` |
+| The Stormspire (Netherstorm) | `/azeroth thestormspireretail` |
+| The Tempest Rift (Netherstorm) | `/azeroth thetempestriftretail` |
+| The Vortex Fields (Netherstorm) | `/azeroth thevortexfieldsretail` |
+| Town Square (Netherstorm) | `/azeroth townsquareretail` |
+| Trelleum Mine (Netherstorm) | `/azeroth trelleummineretail` |
+| Tuluman's Landing (Netherstorm) | `/azeroth tulumanslandingretail` |
+| Voidwind Plateau (Netherstorm) | `/azeroth voidwindplateauretail` |
+| Wizard Row (Netherstorm) | `/azeroth wizardrowretail` |
+
+#### Shadowmoon Valley
+
+| Place | Command |
+|---|---|
+| Shadowmoon Valley | `/azeroth shadowmoonvalleyretail` |
+| Altar of Sha'tar (Shadowmoon Valley) | `/azeroth altarofshatarretail` |
+| Ata'mal Terrace (Shadowmoon Valley) | `/azeroth atamalterraceretail` |
+| Coilskar Cistern (Shadowmoon Valley) | `/azeroth coilskarcisternretail` |
+| Coilskar Point (Shadowmoon Valley) | `/azeroth coilskarpointretail` |
+| Crimson Watch (Shadowmoon Valley) | `/azeroth crimsonwatchretail` |
+| Dragonmaw Base Camp (Shadowmoon Valley) | `/azeroth dragonmawbasecampretail` |
+| Dragonmaw Fortress (Shadowmoon Valley) | `/azeroth dragonmawfortressretail` |
+| Dragonmaw Skyway (Shadowmoon Valley) | `/azeroth dragonmawskywayretail` |
+| Eclipse Point (Shadowmoon Valley) | `/azeroth eclipsepointretail` |
+| Eclipsion Fields (Shadowmoon Valley) | `/azeroth eclipsionfieldsretail` |
+| Illidari Point (Shadowmoon Valley) | `/azeroth illidaripointretail` |
+| Invasion Point: Cataclysm (Shadowmoon Valley) | `/azeroth invasionpointcataclysmretail` |
+| Legion Hold (Shadowmoon Valley) | `/azeroth legionholdretail` |
+| Magma Fields (Shadowmoon Valley) | `/azeroth magmafieldsretail` |
+| Netherwing Fields (Shadowmoon Valley) | `/azeroth netherwingfieldsretail` |
+| Netherwing Ledge (Shadowmoon Valley) | `/azeroth netherwingledgeretail` |
+| Netherwing Pass (Shadowmoon Valley) | `/azeroth netherwingpassretail` |
+| Oronok's Farm (Shadowmoon Valley) | `/azeroth oronoksfarmretail` |
+| Ruins of Baa'ri (Shadowmoon Valley) | `/azeroth ruinsofbaariretail` |
+| Ruins of Karabor (Shadowmoon Valley) | `/azeroth ruinsofkaraborretail` |
+| Sanctum of the Stars (Shadowmoon Valley) | `/azeroth sanctumofthestarsretail` |
+| Shadowmoon Village (Shadowmoon Valley) | `/azeroth shadowmoonvillageretail` |
+| Shattered Plains (Shadowmoon Valley) | `/azeroth shatteredplainsretail` |
+| Sketh'lon Base Camp (Shadowmoon Valley) | `/azeroth skethlonbasecampretail` |
+| Sketh'lon Wreckage (Shadowmoon Valley) | `/azeroth skethlonwreckageretail` |
+| The Altar of Damnation (Shadowmoon Valley) | `/azeroth thealtarofdamnationretail` |
+| The Altar of Shadows (Shadowmoon Valley) | `/azeroth thealtarofshadowsretail` |
+| The Black Temple (Shadowmoon Valley) | `/azeroth theblacktempleretail` |
+| The Deathforge (Shadowmoon Valley) | `/azeroth thedeathforgeretail` |
+| The Fel Pits (Shadowmoon Valley) | `/azeroth thefelpitsretail` |
+| The Fetid Pool (Shadowmoon Valley) | `/azeroth thefetidpoolretail` |
+| The Hand of Gul'dan (Shadowmoon Valley) | `/azeroth thehandofguldanretail` |
+| The Path of Conquest (Shadowmoon Valley) | `/azeroth thepathofconquestretail` |
+| The Scalding Pools (Shadowmoon Valley) | `/azeroth thescaldingpoolsretail` |
+| Warden's Cage (Shadowmoon Valley) | `/azeroth wardenscageretail` |
+| Wildhammer Stronghold (Shadowmoon Valley) | `/azeroth wildhammerstrongholdretail` |
+
+#### Shattrath City
+
+| Place | Command |
+|---|---|
+| Shattrath City | `/azeroth shattrathcityretail` |
+| Aldor Rise (Shattrath City) | `/azeroth aldorriseretail` |
+| Lower City (Shattrath City) | `/azeroth lowercityretail` |
+| Scryer's Tier (Shattrath City) | `/azeroth scryerstierretail` |
+
+#### Sunstrider Isle
+
+| Place | Command |
+|---|---|
+| Shrine of Dath'Remar (Sunstrider Isle) | `/azeroth shrineofdathremarretail` |
+| Sunstrider Isle (Sunstrider Isle) | `/azeroth sunstriderisleretail9530` |
+
+#### Terokkar Forest
+
+| Place | Command |
+|---|---|
+| Terokkar Forest | `/azeroth terokkarforestretail` |
+| Allerian Post (Terokkar Forest) | `/azeroth allerianpostretail` |
+| Allerian Stronghold (Terokkar Forest) | `/azeroth allerianstrongholdretail` |
+| Auchenai Grounds (Terokkar Forest) | `/azeroth auchenaigroundsretail` |
+| Auchindoun (Terokkar Forest) | `/azeroth auchindounretail` |
+| Blackwind Lake (Terokkar Forest) | `/azeroth blackwindlakeretail` |
+| Blackwind Landing (Terokkar Forest) | `/azeroth blackwindlandingretail` |
+| Blackwind Valley (Terokkar Forest) | `/azeroth blackwindvalleyretail` |
+| Bleeding Hollow Ruins (Terokkar Forest) | `/azeroth bleedinghollowruinsretail` |
+| Bonechewer Ruins (Terokkar Forest) | `/azeroth bonechewerruinsretail` |
+| Carrion Hill (Terokkar Forest) | `/azeroth carrionhillretail` |
+| Cenarion Thicket (Terokkar Forest) | `/azeroth cenarionthicketretail` |
+| Derelict Caravan (Terokkar Forest) | `/azeroth derelictcaravanretail` |
+| Firewing Point (Terokkar Forest) | `/azeroth firewingpointretail` |
+| Grangol'var Village (Terokkar Forest) | `/azeroth grangolvarvillageretail` |
+| Lake Ere'Noru (Terokkar Forest) | `/azeroth lakeerenoruretail` |
+| Lake Jorune (Terokkar Forest) | `/azeroth lakejoruneretail` |
+| Lower Veil Shil'ak (Terokkar Forest) | `/azeroth lowerveilshilakretail` |
+| Netherweb Ridge (Terokkar Forest) | `/azeroth netherwebridgeretail` |
+| Raastok Glade (Terokkar Forest) | `/azeroth raastokgladeretail` |
+| Razorthorn Rise (Terokkar Forest) | `/azeroth razorthornriseretail` |
+| Razorthorn Shelf (Terokkar Forest) | `/azeroth razorthornshelfretail` |
+| Refugee Caravan (Terokkar Forest) | `/azeroth refugeecaravanretail` |
+| Ring of Observance (Terokkar Forest) | `/azeroth ringofobservanceretail` |
+| Sha'tari Base Camp (Terokkar Forest) | `/azeroth shataribasecampretail` |
+| Shadow Tomb (Terokkar Forest) | `/azeroth shadowtombretail` |
+| Silmyr Lake (Terokkar Forest) | `/azeroth silmyrlakeretail` |
+| Skethyl Mountains (Terokkar Forest) | `/azeroth skethylmountainsretail` |
+| Skettis (Terokkar Forest) | `/azeroth skettisretail` |
+| Sorrow Wing Point (Terokkar Forest) | `/azeroth sorrowwingpointretail` |
+| Stonebreaker Camp (Terokkar Forest) | `/azeroth stonebreakercampretail` |
+| Stonebreaker Hold (Terokkar Forest) | `/azeroth stonebreakerholdretail` |
+| Terokk's Rest (Terokkar Forest) | `/azeroth terokksrestretail` |
+| The Barrier Hills (Terokkar Forest) | `/azeroth thebarrierhillsretail` |
+| The Bone Wastes (Terokkar Forest) | `/azeroth thebonewastesretail` |
+| The Shadow Stair (Terokkar Forest) | `/azeroth theshadowstairretail` |
+| Tomb of Lights (Terokkar Forest) | `/azeroth tomboflightsretail` |
+| Tuurem (Terokkar Forest) | `/azeroth tuuremretail` |
+| Upper Veil Shil'ak (Terokkar Forest) | `/azeroth upperveilshilakretail` |
+| Veil Ala'rak (Terokkar Forest) | `/azeroth veilalarakretail` |
+| Veil Harr'ik (Terokkar Forest) | `/azeroth veilharrikretail` |
+| Veil Lithic (Terokkar Forest) | `/azeroth veillithicretail` |
+| Veil Reskk (Terokkar Forest) | `/azeroth veilreskkretail` |
+| Veil Rhaze (Terokkar Forest) | `/azeroth veilrhazeretail` |
+| Veil Shalas (Terokkar Forest) | `/azeroth veilshalasretail` |
+| Veil Shienor (Terokkar Forest) | `/azeroth veilshienorretail` |
+| Veil Skith (Terokkar Forest) | `/azeroth veilskithretail` |
+| Wayne's Refuge (Terokkar Forest) | `/azeroth waynesrefugeretail` |
+| Writhing Mound (Terokkar Forest) | `/azeroth writhingmoundretail` |
+
+#### The Exodar
+
+| Place | Command |
+|---|---|
+| The Exodar | `/azeroth theexodarretail` |
+
+#### The North Sea
+
+| Place | Command |
+|---|---|
+| The North Sea | `/azeroth thenorthsearetail9530` |
+
+#### The Veiled Sea
+
+| Place | Command |
+|---|---|
+| The Veiled Sea | `/azeroth theveiledsearetail9530` |
+
+#### Twisting Nether
+
+| Place | Command |
+|---|---|
+| Twisting Nether | `/azeroth twistingnetherretail` |
+
+#### Zangarmarsh
+
+| Place | Command |
+|---|---|
+| Zangarmarsh | `/azeroth zangarmarshretail` |
+| Ango'rosh Grounds (Zangarmarsh) | `/azeroth angoroshgroundsretail` |
+| Ango'rosh Stronghold (Zangarmarsh) | `/azeroth angoroshstrongholdretail` |
+| Bloodscale Enclave (Zangarmarsh) | `/azeroth bloodscaleenclaveretail` |
+| Bloodscale Grounds (Zangarmarsh) | `/azeroth bloodscalegroundsretail` |
+| Boha'mu Ruins (Zangarmarsh) | `/azeroth bohamuruinsretail` |
+| Cenarion Refuge (Zangarmarsh) | `/azeroth cenarionrefugeretail` |
+| Cenarion Watchpost (Zangarmarsh) | `/azeroth cenarionwatchpostretail` |
+| Daggerfen Village (Zangarmarsh) | `/azeroth daggerfenvillageretail` |
+| Darkcrest Enclave (Zangarmarsh) | `/azeroth darkcrestenclaveretail` |
+| Darkcrest Shore (Zangarmarsh) | `/azeroth darkcrestshoreretail` |
+| Feralfen Village (Zangarmarsh) | `/azeroth feralfenvillageretail` |
+| Funggor Cavern (Zangarmarsh) | `/azeroth funggorcavernretail` |
+| Hewn Bog (Zangarmarsh) | `/azeroth hewnbogretail` |
+| Marshlight Lake (Zangarmarsh) | `/azeroth marshlightlakeretail` |
+| Orebor Harborage (Zangarmarsh) | `/azeroth oreborharborageretail` |
+| Portal Clearing (Zangarmarsh) | `/azeroth portalclearingretail` |
+| Quagg Ridge (Zangarmarsh) | `/azeroth quaggridgeretail` |
+| Serpent Lake (Zangarmarsh) | `/azeroth serpentlakeretail` |
+| Sporeggar (Zangarmarsh) | `/azeroth sporeggarretail` |
+| Sporewind Lake (Zangarmarsh) | `/azeroth sporewindlakeretail` |
+| Swamprat Post (Zangarmarsh) | `/azeroth swampratpostretail` |
+| Telredor (Zangarmarsh) | `/azeroth telredorretail` |
+| The Dead Mire (Zangarmarsh) | `/azeroth thedeadmireretail` |
+| The Lagoon (Zangarmarsh) | `/azeroth thelagoonretail` |
+| The Spawning Glen (Zangarmarsh) | `/azeroth thespawningglenretail` |
+| Twin Spire Ruins (Zangarmarsh) | `/azeroth twinspireruinsretail` |
+| Umbrafen Lake (Zangarmarsh) | `/azeroth umbrafenlakeretail` |
+| Umbrafen Village (Zangarmarsh) | `/azeroth umbrafenvillageretail` |
+| Zabra'jin (Zangarmarsh) | `/azeroth zabrajinretail` |
+
+### Northrend (Retail)
+
+#### Borean Tundra
+
+| Place | Command |
+|---|---|
+| Borean Tundra | `/azeroth boreantundraretail` |
+| Amber Ledge (Borean Tundra) | `/azeroth amberledgeretail` |
+| Beryl Point (Borean Tundra) | `/azeroth berylpointretail` |
+| Blistering Pool (Borean Tundra) | `/azeroth blisteringpoolretail` |
+| Bloodspore Plains (Borean Tundra) | `/azeroth bloodsporeplainsretail` |
+| Bor'gorok Outpost (Borean Tundra) | `/azeroth borgorokoutpostretail` |
+| Charred Rise (Borean Tundra) | `/azeroth charredriseretail` |
+| Coast of Echoes (Borean Tundra) | `/azeroth coastofechoesretail` |
+| Coldarra (Borean Tundra) | `/azeroth coldarraretail` |
+| Coldrock Quarry (Borean Tundra) | `/azeroth coldrockquarryretail` |
+| D.E.H.T.A. Encampment (Borean Tundra) | `/azeroth dehtaencampmentretail` |
+| Death's Stand (Borean Tundra) | `/azeroth deathsstandretail` |
+| Echo Cove (Borean Tundra) | `/azeroth echocoveretail` |
+| Farshire (Borean Tundra) | `/azeroth farshireretail` |
+| Farshire Lighthouse (Borean Tundra) | `/azeroth farshirelighthouseretail` |
+| Festering Pools (Borean Tundra) | `/azeroth festeringpoolsretail` |
+| Fizzcrank Airstrip (Borean Tundra) | `/azeroth fizzcrankairstripretail` |
+| Fizzcrank Pumping Station (Borean Tundra) | `/azeroth fizzcrankpumpingstationretail` |
+| Frozen Reach (Borean Tundra) | `/azeroth frozenreachretail` |
+| Gammoth (Borean Tundra) | `/azeroth gammothretail` |
+| Garrosh's Landing (Borean Tundra) | `/azeroth garroshslandingretail` |
+| Glimmer Bay (Borean Tundra) | `/azeroth glimmerbayretail` |
+| Kaskala (Borean Tundra) | `/azeroth kaskalaretail` |
+| Kaw's Roost (Borean Tundra) | `/azeroth kawsroostretail` |
+| Lake Kum'uya (Borean Tundra) | `/azeroth lakekumuyaretail` |
+| Magmoth (Borean Tundra) | `/azeroth magmothretail` |
+| Mid Point Station (Borean Tundra) | `/azeroth midpointstationretail` |
+| Mightstone Quarry (Borean Tundra) | `/azeroth mightstonequarryretail` |
+| Nasam's Talon (Borean Tundra) | `/azeroth nasamstalonretail` |
+| Njord's Breath Bay (Borean Tundra) | `/azeroth njordsbreathbayretail` |
+| North Point Station (Borean Tundra) | `/azeroth northpointstationretail` |
+| Pal'ea (Borean Tundra) | `/azeroth palearetail` |
+| Plains of Nasam (Borean Tundra) | `/azeroth plainsofnasamretail` |
+| Riplash Ruins (Borean Tundra) | `/azeroth riplashruinsretail` |
+| Riplash Strand (Borean Tundra) | `/azeroth riplashstrandretail` |
+| Ruins of Eldra'nath (Borean Tundra) | `/azeroth ruinsofeldranathretail` |
+| Sands of Nasam (Borean Tundra) | `/azeroth sandsofnasamretail` |
+| Scalding Pools (Borean Tundra) | `/azeroth scaldingpoolsretail` |
+| Shrine of Scales (Borean Tundra) | `/azeroth shrineofscalesretail` |
+| South Point Station (Borean Tundra) | `/azeroth southpointstationretail` |
+| Spire of Blood (Borean Tundra) | `/azeroth spireofbloodretail` |
+| Spire of Decay (Borean Tundra) | `/azeroth spireofdecayretail` |
+| Spire of Pain (Borean Tundra) | `/azeroth spireofpainretail` |
+| Steam Springs (Borean Tundra) | `/azeroth steamspringsretail` |
+| Steeljaw's Caravan (Borean Tundra) | `/azeroth steeljawscaravanretail` |
+| Talramas (Borean Tundra) | `/azeroth talramasretail` |
+| Taunka'le Village (Borean Tundra) | `/azeroth taunkalevillageretail` |
+| Temple City of En'kilah (Borean Tundra) | `/azeroth templecityofenkilahretail` |
+| The Abandoned Reach (Borean Tundra) | `/azeroth theabandonedreachretail` |
+| The Borean Wall (Borean Tundra) | `/azeroth theboreanwallretail` |
+| The Dens of Dying (Borean Tundra) | `/azeroth thedensofdyingretail` |
+| The Flood Plains (Borean Tundra) | `/azeroth thefloodplainsretail` |
+| The Geyser Fields (Borean Tundra) | `/azeroth thegeyserfieldsretail` |
+| The Nexus (Borean Tundra) | `/azeroth thenexusretail` |
+| The Wailing Ziggurat (Borean Tundra) | `/azeroth thewailingzigguratretail` |
+| The Westrift (Borean Tundra) | `/azeroth thewestriftretail` |
+| Torp's Farm (Borean Tundra) | `/azeroth torpsfarmretail` |
+| Transborea (Borean Tundra) | `/azeroth transborearetail` |
+| Transitus Shield (Borean Tundra) | `/azeroth transitusshieldretail` |
+| Unu'pe (Borean Tundra) | `/azeroth unuperetail` |
+| Valiance Keep (Borean Tundra) | `/azeroth valiancekeepretail` |
+| Warsong Farms Outpost (Borean Tundra) | `/azeroth warsongfarmsoutpostretail` |
+| Warsong Granary (Borean Tundra) | `/azeroth warsonggranaryretail` |
+| Warsong Hold (Borean Tundra) | `/azeroth warsongholdretail` |
+| Warsong Jetty (Borean Tundra) | `/azeroth warsongjettyretail` |
+| Warsong Slaughterhouse (Borean Tundra) | `/azeroth warsongslaughterhouseretail` |
+| West Point Station (Borean Tundra) | `/azeroth westpointstationretail` |
+| Winterfin Retreat (Borean Tundra) | `/azeroth winterfinretreatretail` |
+| Winterfin Village (Borean Tundra) | `/azeroth winterfinvillageretail` |
+
+#### Crystalsong Forest
+
+| Place | Command |
+|---|---|
+| Crystalsong Forest | `/azeroth crystalsongforestretail` |
+| Forlorn Woods (Crystalsong Forest) | `/azeroth forlornwoodsretail` |
+| Ruins of Shandaral (Crystalsong Forest) | `/azeroth ruinsofshandaralretail` |
+| Sunreaver's Command (Crystalsong Forest) | `/azeroth sunreaverscommandretail` |
+| The Azure Front (Crystalsong Forest) | `/azeroth theazurefrontretail` |
+| The Decrepit Flow (Crystalsong Forest) | `/azeroth thedecrepitflowretail` |
+| The Great Tree (Crystalsong Forest) | `/azeroth thegreattreeretail` |
+| The Mirror of Twilight (Crystalsong Forest) | `/azeroth themirroroftwilightretail` |
+| The Twilight Rivulet (Crystalsong Forest) | `/azeroth thetwilightrivuletretail` |
+| The Unbound Thicket (Crystalsong Forest) | `/azeroth theunboundthicketretail` |
+| Violet Stand (Crystalsong Forest) | `/azeroth violetstandretail` |
+| Windrunner's Overlook (Crystalsong Forest) | `/azeroth windrunnersoverlookretail` |
+
+#### Dragonblight
+
+| Place | Command |
+|---|---|
+| Dragonblight | `/azeroth dragonblightretail` |
+| 7th Legion Front (Dragonblight) | `/azeroth 7thlegionfrontretail` |
+| Agmar's Hammer (Dragonblight) | `/azeroth agmarshammerretail` |
+| Angrathar the Wrathgate (Dragonblight) | `/azeroth angratharthewrathgateretail` |
+| Azure Dragonshrine (Dragonblight) | `/azeroth azuredragonshrineretail` |
+| Bronze Dragonshrine (Dragonblight) | `/azeroth bronzedragonshrineretail` |
+| Coldwind Heights (Dragonblight) | `/azeroth coldwindheightsretail` |
+| Coldwind Pass (Dragonblight) | `/azeroth coldwindpassretail` |
+| Crusader's Landing (Dragonblight) | `/azeroth crusaderslandingretail` |
+| Dawn's Reach (Dragonblight) | `/azeroth dawnsreachretail` |
+| Dragon's Fall (Dragonblight) | `/azeroth dragonsfallretail` |
+| Dragonspine Tributary (Dragonblight) | `/azeroth dragonspinetributaryretail` |
+| Drak'Mar Lake (Dragonblight) | `/azeroth drakmarlakeretail` |
+| Eldritch Heights (Dragonblight) | `/azeroth eldritchheightsretail` |
+| Emerald Dragonshrine (Dragonblight) | `/azeroth emeralddragonshrineretail` |
+| Fordragon Hold (Dragonblight) | `/azeroth fordragonholdretail` |
+| Galakrond's Rest (Dragonblight) | `/azeroth galakrondsrestretail` |
+| Glittering Strand (Dragonblight) | `/azeroth glitteringstrandretail` |
+| Icemist Village (Dragonblight) | `/azeroth icemistvillageretail` |
+| Indu'le Village (Dragonblight) | `/azeroth indulevillageretail` |
+| Jintha'kalar (Dragonblight) | `/azeroth jinthakalarretail` |
+| Kili'ua's Atoll (Dragonblight) | `/azeroth kiliuasatollretail` |
+| Kor'kron Vanguard (Dragonblight) | `/azeroth korkronvanguardretail` |
+| Lake Indu'le (Dragonblight) | `/azeroth lakeinduleretail` |
+| Light's Trust (Dragonblight) | `/azeroth lightstrustretail` |
+| Lothalor Woodlands (Dragonblight) | `/azeroth lothalorwoodlandsretail` |
+| Moa'ki Harbor (Dragonblight) | `/azeroth moakiharborretail` |
+| Moonrest Gardens (Dragonblight) | `/azeroth moonrestgardensretail` |
+| New Hearthglen (Dragonblight) | `/azeroth newhearthglenretail` |
+| Nozzlerust Post (Dragonblight) | `/azeroth nozzlerustpostretail` |
+| Obsidian Dragonshrine (Dragonblight) | `/azeroth obsidiandragonshrineretail` |
+| Onslaught Base Camp (Dragonblight) | `/azeroth onslaughtbasecampretail` |
+| Path of the Titans (Dragonblight) | `/azeroth pathofthetitansretail` |
+| Path of the Titans (Dragonblight) | `/azeroth pathofthetitans8186` |
+| Ruby Dragonshrine (Dragonblight) | `/azeroth rubydragonshrineretail` |
+| Scarlet Point (Dragonblight) | `/azeroth scarletpointretail` |
+| Snowfall Glade (Dragonblight) | `/azeroth snowfallgladeretail` |
+| Stars' Rest (Dragonblight) | `/azeroth starsrestretail` |
+| The Briny Pinnacle (Dragonblight) | `/azeroth thebrinypinnacleretail` |
+| The Carrion Fields (Dragonblight) | `/azeroth thecarrionfieldsretail` |
+| The Court of Skulls (Dragonblight) | `/azeroth thecourtofskullsretail` |
+| The Crystal Vice (Dragonblight) | `/azeroth thecrystalviceretail` |
+| The Dragon Wastes (Dragonblight) | `/azeroth thedragonwastesretail` |
+| The Forgotten Shore (Dragonblight) | `/azeroth theforgottenshoreretail` |
+| The Mirror of Dawn (Dragonblight) | `/azeroth themirrorofdawnretail` |
+| The Wicked Coil (Dragonblight) | `/azeroth thewickedcoilretail` |
+| Thorson's Post (Dragonblight) | `/azeroth thorsonspostretail` |
+| Vengeance Pass (Dragonblight) | `/azeroth vengeancepassretail` |
+| Venomspite (Dragonblight) | `/azeroth venomspiteretail` |
+| Westwind Refugee Camp (Dragonblight) | `/azeroth westwindrefugeecampretail` |
+| Wintergarde Keep (Dragonblight) | `/azeroth wintergardekeepretail` |
+| Wintergarde Mine (Dragonblight) | `/azeroth wintergardemineretail` |
+
+#### Grizzly Hills
+
+| Place | Command |
+|---|---|
+| Grizzly Hills | `/azeroth grizzlyhillsretail` |
+| Amberpine Lodge (Grizzly Hills) | `/azeroth amberpinelodgeretail` |
+| Ashwood Lake (Grizzly Hills) | `/azeroth ashwoodlakeretail` |
+| Ashwood Post (Grizzly Hills) | `/azeroth ashwoodpostretail` |
+| Aspen Grove Post (Grizzly Hills) | `/azeroth aspengrovepostretail` |
+| Blackriver Logging Camp (Grizzly Hills) | `/azeroth blackriverloggingcampretail` |
+| Bloodmoon Isle (Grizzly Hills) | `/azeroth bloodmoonisleretail` |
+| Blue Sky Logging Grounds (Grizzly Hills) | `/azeroth blueskylogginggroundsretail` |
+| Bonesnap's Camp (Grizzly Hills) | `/azeroth bonesnapscampretail` |
+| Boulder Hills (Grizzly Hills) | `/azeroth boulderhillsretail` |
+| Camp Oneqwah (Grizzly Hills) | `/azeroth camponeqwahretail` |
+| Conquest Hold (Grizzly Hills) | `/azeroth conquestholdretail` |
+| Drak'Tharon Keep (Grizzly Hills) | `/azeroth draktharonkeepretail` |
+| Drak'atal Passage (Grizzly Hills) | `/azeroth drakatalpassageretail` |
+| Drakil'jin Ruins (Grizzly Hills) | `/azeroth drakiljinruinsretail` |
+| Dun Argol (Grizzly Hills) | `/azeroth dunargolretail` |
+| Eastwind Shore (Grizzly Hills) | `/azeroth eastwindshoreretail` |
+| Evergreen Trading Post (Grizzly Hills) | `/azeroth evergreentradingpostretail` |
+| Forest's Edge Post (Grizzly Hills) | `/azeroth forestsedgepostretail` |
+| Granite Springs (Grizzly Hills) | `/azeroth granitespringsretail` |
+| Grizzlemaw (Grizzly Hills) | `/azeroth grizzlemawretail` |
+| Harkor's Camp (Grizzly Hills) | `/azeroth harkorscampretail` |
+| Heart's Blood Shrine (Grizzly Hills) | `/azeroth heartsbloodshrineretail` |
+| Heartwood Trading Post (Grizzly Hills) | `/azeroth heartwoodtradingpostretail` |
+| Rage Fang Shrine (Grizzly Hills) | `/azeroth ragefangshrineretail` |
+| Redwood Trading Post (Grizzly Hills) | `/azeroth redwoodtradingpostretail` |
+| Ruins of Drak'Zin (Grizzly Hills) | `/azeroth ruinsofdrakzinretail` |
+| Ruins of Tethys (Grizzly Hills) | `/azeroth ruinsoftethysretail` |
+| Shadowfang Tower (Grizzly Hills) | `/azeroth shadowfangtowerretail` |
+| Silverbrook (Grizzly Hills) | `/azeroth silverbrookretail` |
+| Silverbrook Hills (Grizzly Hills) | `/azeroth silverbrookhillsretail` |
+| Solstice Village (Grizzly Hills) | `/azeroth solsticevillageretail` |
+| The Broken Bluffs (Grizzly Hills) | `/azeroth thebrokenbluffsretail` |
+| The Conquest Pit (Grizzly Hills) | `/azeroth theconquestpitretail` |
+| The Forgotten Overlook (Grizzly Hills) | `/azeroth theforgottenoverlookretail` |
+| The Path of Iron (Grizzly Hills) | `/azeroth thepathofironretail` |
+| Thor Modan (Grizzly Hills) | `/azeroth thormodanretail` |
+| Ursoc's Den (Grizzly Hills) | `/azeroth ursocsdenretail` |
+| Venture Bay (Grizzly Hills) | `/azeroth venturebayretail` |
+| Voldrune (Grizzly Hills) | `/azeroth voldruneretail` |
+| Vordrassil Pass (Grizzly Hills) | `/azeroth vordrassilpassretail` |
+| Vordrassil's Heart (Grizzly Hills) | `/azeroth vordrassilsheartretail` |
+| Vordrassil's Limb (Grizzly Hills) | `/azeroth vordrassilslimbretail` |
+| Vordrassil's Tears (Grizzly Hills) | `/azeroth vordrassilstearsretail` |
+| Westfall Brigade Encampment (Grizzly Hills) | `/azeroth westfallbrigadeencampmentretail` |
+| White Pine Trading Post (Grizzly Hills) | `/azeroth whitepinetradingpostretail` |
+| Zeb'Halak (Grizzly Hills) | `/azeroth zebhalakretail` |
+| Zim'bo's Hideout (Grizzly Hills) | `/azeroth zimboshideoutretail` |
+
+#### Howling Fjord
+
+| Place | Command |
+|---|---|
+| Howling Fjord | `/azeroth howlingfjordretail` |
+| Apothecary Camp (Howling Fjord) | `/azeroth apothecarycampretail` |
+| Baelgun's Excavation Site (Howling Fjord) | `/azeroth baelgunsexcavationsiteretail` |
+| Baleheim (Howling Fjord) | `/azeroth baleheimretail` |
+| Balejar Watch (Howling Fjord) | `/azeroth balejarwatchretail` |
+| Bleeding Vale (Howling Fjord) | `/azeroth bleedingvaleretail` |
+| Caldemere Lake (Howling Fjord) | `/azeroth caldemerelakeretail` |
+| Camp Winterhoof (Howling Fjord) | `/azeroth campwinterhoofretail` |
+| Cauldros Isle (Howling Fjord) | `/azeroth cauldrosisleretail` |
+| Chillmere Coast (Howling Fjord) | `/azeroth chillmerecoastretail` |
+| Daggercap Bay (Howling Fjord) | `/azeroth daggercapbayretail` |
+| Derelict Strand (Howling Fjord) | `/azeroth derelictstrandretail` |
+| Ember Clutch (Howling Fjord) | `/azeroth emberclutchretail` |
+| Ember Spear Tower (Howling Fjord) | `/azeroth emberspeartowerretail` |
+| Explorers' League Outpost (Howling Fjord) | `/azeroth explorersleagueoutpostretail` |
+| Falls of Ymiron (Howling Fjord) | `/azeroth fallsofymironretail` |
+| Fort Wildervar (Howling Fjord) | `/azeroth fortwildervarretail` |
+| Frostblade Peak (Howling Fjord) | `/azeroth frostbladepeakretail` |
+| Garvan's Reef (Howling Fjord) | `/azeroth garvansreefretail` |
+| Ghostblade Post (Howling Fjord) | `/azeroth ghostbladepostretail` |
+| Giants' Run (Howling Fjord) | `/azeroth giantsrunretail` |
+| Gjalerbron (Howling Fjord) | `/azeroth gjalerbronretail` |
+| Gjalerhorn (Howling Fjord) | `/azeroth gjalerhornretail` |
+| Halgrind (Howling Fjord) | `/azeroth halgrindretail` |
+| Iskaal (Howling Fjord) | `/azeroth iskaalretail` |
+| Ivald's Ruin (Howling Fjord) | `/azeroth ivaldsruinretail` |
+| Kamagua (Howling Fjord) | `/azeroth kamaguaretail` |
+| Lake Cauldros (Howling Fjord) | `/azeroth lakecauldrosretail` |
+| Lydell's Ambush (Howling Fjord) | `/azeroth lydellsambushretail` |
+| New Agamand (Howling Fjord) | `/azeroth newagamandretail` |
+| Nifflevar (Howling Fjord) | `/azeroth nifflevarretail` |
+| North Spear Tower (Howling Fjord) | `/azeroth northspeartowerretail` |
+| Rivenwood (Howling Fjord) | `/azeroth rivenwoodretail` |
+| Scalawag Point (Howling Fjord) | `/azeroth scalawagpointretail` |
+| Shattered Straits (Howling Fjord) | `/azeroth shatteredstraitsretail` |
+| Shield Hill (Howling Fjord) | `/azeroth shieldhillretail` |
+| Skorn (Howling Fjord) | `/azeroth skornretail` |
+| Sorlof's Strand (Howling Fjord) | `/azeroth sorlofsstrandretail` |
+| Steel Gate (Howling Fjord) | `/azeroth steelgateretail` |
+| The Ancient Lift (Howling Fjord) | `/azeroth theancientliftretail` |
+| The Broken Bluffs (Howling Fjord) | `/azeroth thebrokenbluffs4252retail` |
+| The Frozen Glade (Howling Fjord) | `/azeroth thefrozengladeretail` |
+| The Isle of Spears (Howling Fjord) | `/azeroth theisleofspearsretail` |
+| The Twisted Glade (Howling Fjord) | `/azeroth thetwistedgladeretail` |
+| The Vibrant Glade (Howling Fjord) | `/azeroth thevibrantgladeretail` |
+| Thorvald's Camp (Howling Fjord) | `/azeroth thorvaldscampretail` |
+| Twin Shores (Howling Fjord) | `/azeroth twinshoresretail` |
+| Valgarde (Howling Fjord) | `/azeroth valgarderetail` |
+| Vengeance Landing (Howling Fjord) | `/azeroth vengeancelandingretail` |
+| Vengeance Lift (Howling Fjord) | `/azeroth vengeanceliftretail` |
+| West Spear Tower (Howling Fjord) | `/azeroth westspeartowerretail` |
+| Westguard Keep (Howling Fjord) | `/azeroth westguardkeepretail` |
+| Whisper Gulch (Howling Fjord) | `/azeroth whispergulchretail` |
+| Winter's Breath Lake (Howling Fjord) | `/azeroth wintersbreathlakeretail` |
+| Wyrmskull Village (Howling Fjord) | `/azeroth wyrmskullvillageretail` |
+
+#### Hrothgar's Landing
+
+| Place | Command |
+|---|---|
+| Hrothgar's Landing | `/azeroth hrothgarslandingretail` |
+| The Sea Reaver's Run (Hrothgar's Landing) | `/azeroth theseareaversrunretail` |
+
+#### Icecrown
+
+| Place | Command |
+|---|---|
+| Icecrown | `/azeroth icecrownretail` |
+| Aldur'thar: The Desolation Gate (Icecrown) | `/azeroth aldurtharthedesolationgateretail` |
+| Argent Tournament Grounds (Icecrown) | `/azeroth argenttournamentgroundsretail` |
+| Battlescar Spire (Icecrown) | `/azeroth battlescarspireretail` |
+| Blackwatch (Icecrown) | `/azeroth blackwatchretail` |
+| Cathedral of Darkness (Icecrown) | `/azeroth cathedralofdarknessretail` |
+| Corp'rethar: The Horror Gate (Icecrown) | `/azeroth corpretharthehorrorgateretail` |
+| Crusaders' Pinnacle (Icecrown) | `/azeroth crusaderspinnacleretail` |
+| Death's Rise (Icecrown) | `/azeroth deathsriseretail` |
+| Deathspeaker's Watch (Icecrown) | `/azeroth deathspeakerswatchretail` |
+| First Legion Forward Camp (Icecrown) | `/azeroth firstlegionforwardcampretail` |
+| Icecrown Citadel (Icecrown) | `/azeroth icecrowncitadelretail` |
+| Icecrown Glacier (Icecrown) | `/azeroth icecrownglacierretail` |
+| Ironwall Dam (Icecrown) | `/azeroth ironwalldamretail` |
+| Ironwall Rampart (Icecrown) | `/azeroth ironwallrampartretail` |
+| Jotunheim (Icecrown) | `/azeroth jotunheimretail` |
+| Malykriss: The Vile Hold (Icecrown) | `/azeroth malykrissthevileholdretail` |
+| Mord'rethar: The Death Gate (Icecrown) | `/azeroth mordretharthedeathgateretail` |
+| Njorndar Village (Icecrown) | `/azeroth njorndarvillageretail` |
+| Onslaught Harbor (Icecrown) | `/azeroth onslaughtharborretail` |
+| Quel'Delar's Rest (Icecrown) | `/azeroth queldelarsrestretail` |
+| Rise of Suffering (Icecrown) | `/azeroth riseofsufferingretail` |
+| Savage Ledge (Icecrown) | `/azeroth savageledgeretail` |
+| Scourgeholme (Icecrown) | `/azeroth scourgeholmeretail` |
+| Silent Vigil (Icecrown) | `/azeroth silentvigilretail` |
+| Sindragosa's Fall (Icecrown) | `/azeroth sindragosasfallretail` |
+| The Alliance Valiants' Ring (Icecrown) | `/azeroth thealliancevaliantsringretail` |
+| The Argent Valiants' Ring (Icecrown) | `/azeroth theargentvaliantsringretail` |
+| The Argent Vanguard (Icecrown) | `/azeroth theargentvanguardretail` |
+| The Aspirants' Ring (Icecrown) | `/azeroth theaspirantsringretail` |
+| The Bombardment (Icecrown) | `/azeroth thebombardmentretail` |
+| The Breach (Icecrown) | `/azeroth thebreachretail` |
+| The Broken Front (Icecrown) | `/azeroth thebrokenfrontretail` |
+| The Conflagration (Icecrown) | `/azeroth theconflagrationretail` |
+| The Court of Bones (Icecrown) | `/azeroth thecourtofbonesretail` |
+| The Fleshwerks (Icecrown) | `/azeroth thefleshwerksretail` |
+| The Horde Valiants' Ring (Icecrown) | `/azeroth thehordevaliantsringretail` |
+| The Pit of Fiends (Icecrown) | `/azeroth thepitoffiendsretail` |
+| The Ring of Champions (Icecrown) | `/azeroth theringofchampionsretail` |
+| The Shadow Vault (Icecrown) | `/azeroth theshadowvaultretail` |
+| The Valley of Fallen Heroes (Icecrown) | `/azeroth thevalleyoffallenheroesretail` |
+| The Valley of Lost Hope (Icecrown) | `/azeroth thevalleyoflosthoperetail` |
+| Valhalas (Icecrown) | `/azeroth valhalasretail` |
+| Valley of Echoes (Icecrown) | `/azeroth valleyofechoesretail` |
+| Weeping Quarry (Icecrown) | `/azeroth weepingquarryretail` |
+| Ymirheim (Icecrown) | `/azeroth ymirheimretail` |
+
+#### Sholazar Basin
+
+| Place | Command |
+|---|---|
+| Sholazar Basin | `/azeroth sholazarbasinretail` |
+| Bittertide Lake (Sholazar Basin) | `/azeroth bittertidelakeretail` |
+| Death's Hand Encampment (Sholazar Basin) | `/azeroth deathshandencampmentretail` |
+| Dorian's Outpost (Sholazar Basin) | `/azeroth doriansoutpostretail` |
+| Frenzyheart Hill (Sholazar Basin) | `/azeroth frenzyhearthillretail` |
+| Frenzyheart River (Sholazar Basin) | `/azeroth frenzyheartriverretail` |
+| Hardknuckle Clearing (Sholazar Basin) | `/azeroth hardknuckleclearingretail` |
+| Kartak's Hold (Sholazar Basin) | `/azeroth kartaksholdretail` |
+| Lakeside Landing (Sholazar Basin) | `/azeroth lakesidelandingretail` |
+| Mistwhisper Refuge (Sholazar Basin) | `/azeroth mistwhisperrefugeretail` |
+| Mosswalker Village (Sholazar Basin) | `/azeroth mosswalkervillageretail` |
+| Nesingwary Base Camp (Sholazar Basin) | `/azeroth nesingwarybasecampretail` |
+| Rainspeaker Canopy (Sholazar Basin) | `/azeroth rainspeakercanopyretail` |
+| Rainspeaker Rapids (Sholazar Basin) | `/azeroth rainspeakerrapidsretail` |
+| River's Heart (Sholazar Basin) | `/azeroth riversheartretail` |
+| Sapphire Hive (Sholazar Basin) | `/azeroth sapphirehiveretail` |
+| Sparktouched Haven (Sholazar Basin) | `/azeroth sparktouchedhavenretail` |
+| Spearborn Encampment (Sholazar Basin) | `/azeroth spearbornencampmentretail` |
+| Swindlegrin's Dig (Sholazar Basin) | `/azeroth swindlegrinsdigretail` |
+| The Avalanche (Sholazar Basin) | `/azeroth theavalancheretail` |
+| The Blight Line (Sholazar Basin) | `/azeroth theblightlineretail` |
+| The Bonefields (Sholazar Basin) | `/azeroth thebonefieldsretail` |
+| The Bones of Nozronn (Sholazar Basin) | `/azeroth thebonesofnozronnretail` |
+| The Glimmering Pillar (Sholazar Basin) | `/azeroth theglimmeringpillarretail` |
+| The Lifeblood Pillar (Sholazar Basin) | `/azeroth thelifebloodpillarretail` |
+| The Lost Lands (Sholazar Basin) | `/azeroth thelostlandsretail` |
+| The Lost Passage (Sholazar Basin) | `/azeroth thelostpassageretail` |
+| The Mosslight Pillar (Sholazar Basin) | `/azeroth themosslightpillarretail` |
+| The Path of the Lifewarden (Sholazar Basin) | `/azeroth thepathofthelifewardenretail` |
+| The Savage Thicket (Sholazar Basin) | `/azeroth thesavagethicketretail` |
+| The Seabreach Flow (Sholazar Basin) | `/azeroth theseabreachflowretail` |
+| The Skyreach Pillar (Sholazar Basin) | `/azeroth theskyreachpillarretail` |
+| The Stormwright's Shelf (Sholazar Basin) | `/azeroth thestormwrightsshelfretail` |
+| The Sundered Shard (Sholazar Basin) | `/azeroth thesunderedshardretail` |
+| The Suntouched Pillar (Sholazar Basin) | `/azeroth thesuntouchedpillarretail` |
+| Waygate (Sholazar Basin) | `/azeroth waygateretail9571` |
+| Wildgrowth Mangal (Sholazar Basin) | `/azeroth wildgrowthmangalretail` |
+| Wintergrasp River (Sholazar Basin) | `/azeroth wintergraspriverretail` |
+
+#### The Frozen Sea
+
+| Place | Command |
+|---|---|
+| The Frozen Sea | `/azeroth thefrozensearetail` |
+
+#### The North Sea
+
+| Place | Command |
+|---|---|
+| The North Sea | `/azeroth thenorthsearetail` |
+
+#### The Storm Peaks
+
+| Place | Command |
+|---|---|
+| The Storm Peaks | `/azeroth thestormpeaksretail` |
+| Abandoned Camp (The Storm Peaks) | `/azeroth abandonedcampretail` |
+| Bor's Breath (The Storm Peaks) | `/azeroth borsbreathretail` |
+| Bor's Fall (The Storm Peaks) | `/azeroth borsfallretail` |
+| Bouldercrag's Refuge (The Storm Peaks) | `/azeroth bouldercragsrefugeretail` |
+| Brann's Base-Camp (The Storm Peaks) | `/azeroth brannsbasecampretail` |
+| Brunnhildar Village (The Storm Peaks) | `/azeroth brunnhildarvillageretail` |
+| Camp Tunka'lo (The Storm Peaks) | `/azeroth camptunkaloretail` |
+| Crystalweb Cavern (The Storm Peaks) | `/azeroth crystalwebcavernretail` |
+| Dragonspine Peaks (The Storm Peaks) | `/azeroth dragonspinepeaksretail` |
+| Dun Niffelem (The Storm Peaks) | `/azeroth dunniffelemretail` |
+| Engine of the Makers (The Storm Peaks) | `/azeroth engineofthemakersretail` |
+| Fjorn's Anvil (The Storm Peaks) | `/azeroth fjornsanvilretail` |
+| Frostfield Lake (The Storm Peaks) | `/azeroth frostfieldlakeretail` |
+| Frosthold (The Storm Peaks) | `/azeroth frostholdretail` |
+| Garm (The Storm Peaks) | `/azeroth garmretail` |
+| Garm's Bane (The Storm Peaks) | `/azeroth garmsbaneretail` |
+| Garm's Rise (The Storm Peaks) | `/azeroth garmsriseretail` |
+| Grom'arsh Crash-Site (The Storm Peaks) | `/azeroth gromarshcrashsiteretail` |
+| Halls of Lightning (The Storm Peaks) | `/azeroth hallsoflightningretail` |
+| Halls of Stone (The Storm Peaks) | `/azeroth hallsofstoneretail` |
+| K3 (The Storm Peaks) | `/azeroth k3retail` |
+| Narvir's Cradle (The Storm Peaks) | `/azeroth narvirscradleretail` |
+| Nidavelir (The Storm Peaks) | `/azeroth nidavelirretail` |
+| Plain of Echoes (The Storm Peaks) | `/azeroth plainofechoesretail` |
+| Ricket's Folly (The Storm Peaks) | `/azeroth ricketsfollyretail` |
+| Rohemdal Pass (The Storm Peaks) | `/azeroth rohemdalpassretail` |
+| Sifreldar Village (The Storm Peaks) | `/azeroth sifreldarvillageretail` |
+| Snowblind Hills (The Storm Peaks) | `/azeroth snowblindhillsretail` |
+| Snowblind Terrace (The Storm Peaks) | `/azeroth snowblindterraceretail` |
+| Snowdrift Plains (The Storm Peaks) | `/azeroth snowdriftplainsretail` |
+| Sparksocket Minefield (The Storm Peaks) | `/azeroth sparksocketminefieldretail` |
+| Stormcrest (The Storm Peaks) | `/azeroth stormcrestretail` |
+| Temple of Storms (The Storm Peaks) | `/azeroth templeofstormsretail` |
+| Temple of Wisdom (The Storm Peaks) | `/azeroth templeofwisdomretail` |
+| Terrace of the Makers (The Storm Peaks) | `/azeroth terraceofthemakersretail` |
+| The Blighted Pool (The Storm Peaks) | `/azeroth theblightedpoolretail` |
+| The Broodmother's Nest (The Storm Peaks) | `/azeroth thebroodmothersnestretail` |
+| The Foot Steppes (The Storm Peaks) | `/azeroth thefootsteppesretail` |
+| The Frigid Tomb (The Storm Peaks) | `/azeroth thefrigidtombretail` |
+| The Inventor's Library (The Storm Peaks) | `/azeroth theinventorslibraryretail` |
+| The Pit of the Fang (The Storm Peaks) | `/azeroth thepitofthefangretail` |
+| Thunderfall (The Storm Peaks) | `/azeroth thunderfallretail` |
+| Torseg's Rest (The Storm Peaks) | `/azeroth torsegsrestretail` |
+| Ulduar (The Storm Peaks) | `/azeroth ulduarretail` |
+| Valkyrion (The Storm Peaks) | `/azeroth valkyrionretail` |
+| Valley of Ancient Winters (The Storm Peaks) | `/azeroth valleyofancientwintersretail` |
+
+#### Wintergrasp
+
+| Place | Command |
+|---|---|
+| Wintergrasp | `/azeroth wintergraspretail` |
+| Central Bridge (Wintergrasp) | `/azeroth centralbridgeretail` |
+| Eastern Bridge (Wintergrasp) | `/azeroth easternbridgeretail` |
+| Eastspark Workshop (Wintergrasp) | `/azeroth eastsparkworkshopretail` |
+| Flamewatch Tower (Wintergrasp) | `/azeroth flamewatchtowerretail` |
+| Glacial Falls (Wintergrasp) | `/azeroth glacialfallsretail` |
+| Shadowsight Tower (Wintergrasp) | `/azeroth shadowsighttowerretail` |
+| The Broken Temple (Wintergrasp) | `/azeroth thebrokentempleretail` |
+| The Cauldron of Flames (Wintergrasp) | `/azeroth thecauldronofflamesretail` |
+| The Chilled Quagmire (Wintergrasp) | `/azeroth thechilledquagmireretail` |
+| The Forest of Shadows (Wintergrasp) | `/azeroth theforestofshadowsretail` |
+| The Steppe of Life (Wintergrasp) | `/azeroth thesteppeofliferetail` |
+| The Sunken Ring (Wintergrasp) | `/azeroth thesunkenringretail` |
+| Western Bridge (Wintergrasp) | `/azeroth westernbridgeretail` |
+| Westspark Workshop (Wintergrasp) | `/azeroth westsparkworkshopretail` |
+| Winter's Edge Tower (Wintergrasp) | `/azeroth wintersedgetowerretail` |
+| Wintergrasp Fortress (Wintergrasp) | `/azeroth wintergraspfortressretail` |
+
+#### Zul'Drak
+
+| Place | Command |
+|---|---|
+| Zul'Drak | `/azeroth zuldrakretail` |
+| Altar of Har'koa (Zul'Drak) | `/azeroth altarofharkoaretail` |
+| Altar of Mam'toth (Zul'Drak) | `/azeroth altarofmamtothretail` |
+| Altar of Quetz'lun (Zul'Drak) | `/azeroth altarofquetzlunretail` |
+| Altar of Rhunok (Zul'Drak) | `/azeroth altarofrhunokretail` |
+| Altar of Sseratus (Zul'Drak) | `/azeroth altarofsseratusretail` |
+| Amphitheater of Anguish (Zul'Drak) | `/azeroth amphitheaterofanguishretail` |
+| Crusader Forward Camp (Zul'Drak) | `/azeroth crusaderforwardcampretail` |
+| Dargath's Demise (Zul'Drak) | `/azeroth dargathsdemiseretail` |
+| Drak'Agal (Zul'Drak) | `/azeroth drakagalretail` |
+| Drak'Mabwa (Zul'Drak) | `/azeroth drakmabwaretail` |
+| Drak'Sotra (Zul'Drak) | `/azeroth draksotraretail` |
+| Drak'Sotra Fields (Zul'Drak) | `/azeroth draksotrafieldsretail` |
+| Drak'Tharon Keep (Zul'Drak) | `/azeroth draktharonkeep4309retail` |
+| Dubra'Jin (Zul'Drak) | `/azeroth dubrajinretail` |
+| Ebon Watch (Zul'Drak) | `/azeroth ebonwatchretail` |
+| Frigid Breach (Zul'Drak) | `/azeroth frigidbreachretail` |
+| Gundrak (Zul'Drak) | `/azeroth gundrakretail` |
+| Heb'Drakkar (Zul'Drak) | `/azeroth hebdrakkarretail` |
+| Heb'Valok (Zul'Drak) | `/azeroth hebvalokretail` |
+| Jintha'kalar Passage (Zul'Drak) | `/azeroth jinthakalarpassageretail` |
+| Kolramas (Zul'Drak) | `/azeroth kolramasretail` |
+| Light's Breach (Zul'Drak) | `/azeroth lightsbreachretail` |
+| Mam'toth Crater (Zul'Drak) | `/azeroth mamtothcraterretail` |
+| Pools of Jin'Alai (Zul'Drak) | `/azeroth poolsofjinalairetail` |
+| Pools of Zha'Jin (Zul'Drak) | `/azeroth poolsofzhajinretail` |
+| Rageclaw Den (Zul'Drak) | `/azeroth rageclawdenretail` |
+| Rageclaw Lake (Zul'Drak) | `/azeroth rageclawlakeretail` |
+| Reliquary of Agony (Zul'Drak) | `/azeroth reliquaryofagonyretail` |
+| Reliquary of Pain (Zul'Drak) | `/azeroth reliquaryofpainretail` |
+| The Argent Stand (Zul'Drak) | `/azeroth theargentstandretail` |
+| The Dead Fields (Zul'Drak) | `/azeroth thedeadfieldsretail` |
+| Thrym's End (Zul'Drak) | `/azeroth thrymsendretail` |
+| Zim'Abwa (Zul'Drak) | `/azeroth zimabwaretail` |
+| Zim'Rhuk (Zul'Drak) | `/azeroth zimrhukretail` |
+| Zim'Torga (Zul'Drak) | `/azeroth zimtorgaretail` |
+| Zol'Heb (Zul'Drak) | `/azeroth zolhebretail` |
+| Zol'Maz Stronghold (Zul'Drak) | `/azeroth zolmazstrongholdretail` |
+
 ### Pandaria
 
 #### Dread Wastes

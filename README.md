@@ -1,4 +1,4 @@
-# Otherworld_Azeroth 4.1.0
+# Otherworld_Azeroth 4.4.0
 
 World of Warcraft maps for Hytale at 1 block = 1 yard. **Private, team only:** this is made from WoW client data, so
 never share it publicly.
@@ -17,6 +17,9 @@ too big for one file comes as `-part1`, `-part2`, ...: get every part of it.
 | `Azeroth-Kalimdor.zip` | Kalimdor (WoW Forever) |
 | `Azeroth-Outland.zip` | Outland, Eversong Woods and Azuremyst Isle |
 | `Azeroth-Northrend.zip` | Northrend |
+| `Azeroth-Eastern-Kingdoms-Retail.zip` | Eastern Kingdoms as it is today (after Cataclysm): Gilneas, Vashj'ir, new Stormwind |
+| `Azeroth-Kalimdor-Retail.zip` | Kalimdor as it is today: new Orgrimmar, the flooded Thousand Needles |
+| `Azeroth-Outland-Retail.zip`, `Azeroth-Northrend-Retail.zip` | the retail versions of Outland and Northrend |
 | `Azeroth-Zones-Cata.zip` | Deepholm, the Lost Isles |
 | `Azeroth-Zones-MoP.zip` | Pandaria, the Wandering Isle |
 | `Azeroth-Zones-WoD.zip` | Draenor |
@@ -29,8 +32,11 @@ too big for one file comes as `-part1`, `-part2`, ...: get every part of it.
 | `Azeroth-Instances-Classic.zip`, `-TBC.zip`, `-WotLK.zip` | every dungeon and raid of that expansion (Classic also has the retail remakes of Deadmines, Shadowfang Keep, Scarlet Monastery and Scholomance) |
 | `Azeroth-Instances-<Cata, MoP, WoD, Legion, BfA, Shadowlands, Dragonflight, TWW, Midnight>.zip` | retail dungeons and raids, one bundle per expansion (TWW in two parts) |
 
-Retail remakes of classic dungeons are their own worlds next to the old ones: `/azeroth deadmines` and
-`/azeroth deadminesretail`, `/azeroth shadowfangkeep` and `/azeroth shadowfangkeepretail`, and so on.
+Retail versions sit next to the old ones, with `retail` at the end of a name both have: `/azeroth orgrimmar` and
+`/azeroth orgrimmarretail`, `/azeroth deadmines` and `/azeroth deadminesretail`, and so on.
+
+Type `/azeroth` on its own to open the teleport window: search, filter by type, expansion, continent and zone, and
+click a row to go there.
 
 ## Install (Hytale server 0.7.7 or newer)
 

@@ -21,7 +21,8 @@ What the plugin does:
 - Builds the terrain, buildings, water and lava of each map in cubic worlds, at true WoW height.
 - Gives every instance its own world, with its entrance spawn point.
 - The `/azeroth` command and teleport window, the Dark Portal walk-through to Outland and the Karazhan gate.
-- WoW zone lighting: each zone gets its own sky and fog.
+- WoW zone lighting: each zone gets its own sky, fog and weather. The light tables, weathers and environments are in
+  every zip, so you get them with whatever you download.
 - Throws away changed chunks so memory stays flat. Nothing built or broken in these worlds is saved.
 
 ## What to download
